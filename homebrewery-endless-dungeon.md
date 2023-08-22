@@ -1,0 +1,1137 @@
+# Endless Dungeon Crawl Adventure
+This dungeon crawl works without a DM. In fact, you can even play it by yourself!
+
+## Description
+You are a visitor to the Endless Dungeon Inn. This Inn hosts a portal to a pocket dimension, the dimension of the Endless Dungeon. Enter the Endless Dungeon to vanquish monsters and collect loot. Find another portal to escape back to the Inn. Or stay inside and take your chances against the minions of the dark.
+
+Enter the Portal… If you dare.
+
+## Things you need
+* Dice
+* D&D 5E PHB and MM
+* Maps (optional)
+* Playable Characters
+
+## Sequence of Play
+
+On each new room, Roll 1d4 to determine where you appear.  Skip this roll when you first enter the portal.
+
+#### New Room Table
+| 1d4 | What Happens |
+| :---- | :--- |
+| 1 - 3 |  Biome stays the same as current room |
+| 4 |  Change biome |
+
+If room changes, Roll on New Biome Table.
+
+#### Biome Table
+| 1d4 | Biome |
+| :---- | :--- |
+| 1 | Dungeon |
+| 2 | Cave |
+| 3 | Forest |
+| 4 | Grassland |
+
+Place any biome map on table or roll to choose map. It really doesn’t matter – the maps are just to help guide encounters.
+
+
+{{wide
+## What’s in the Room?
+Roll 1d100 to determine what type of encounter is in the room. Then roll on the attached encounter tables to determine the specific encounter.
+
+
+| 1d100 | What's in the Room |
+| :--- | :--- |
+| 0 - 10 | NOTHING. Room is empty. Take a Long Rest (see long rest rule) |
+| 15 - 20 | THE PORTAL BECKONS. Return to the Inn with your loot, or stay and take your chances. |
+| 21 - 60 | Monster encounter. Roll on Monster Table |
+| 71 - 80 | Small Treasure. Roll on Small Treasure Table |
+| 81 - 85 | Big Treasure. Roll on Big Treasure Table |
+| 86 - 90 | Magic Item! Roll on Magic Item Table |
+| 91 - 92 | Weird Magic Item! Roll on Weird Magic Item Table |
+| 93 - 98 | It’s a Trap! Roll on Traps Table |
+| 99 | Merchant! There’s a goblin waiting to buy and sell! Trade for goods! See: Merchant table |
+| 100 | Wild Magic Event. Roll Wild Magic Table |
+
+
+
+{{note
+#### Long and Short Rests
+You can take a long or short rest in the Endless Dungeon. You must be in an empty room to do so. An empty room is one in which there are no longer any threats, including monsters, traps, etc.
+
+Take a **short rest** in an empty room. Roll **DC5** Wisdom check.  On success, gain the advantages from a **short rest**. On fail, you encounter a Wandering Monster -- roll on Monster Encounter Table.
+
+Take a **long rest** in an empty room. Roll **DC10** Wisdom check.  On success, gain the advantages from a **long rest**. On fail, you encounter a Wandering Monster -- roll on Monster Encounter Table.
+}}
+
+}}
+
+\page
+
+{{wide
+### Merchant Tables
+Roll 1d100 to determine what type of Merchant you have found.
+
+| 1d100 | Merchant Type |
+| :--- | :--- |
+| 0 - 25 | General store. A little of everything good and useful. But nothing great. |
+| 26 - 55 | Artful Armorer and Smithy. Weapons, Arms, and tools |
+| 56 - 65 | Alvin’s Alchemical supplies. Potions and reagents |
+| 66 - 75 | Wizard Warehouse. Magic items, scrolls, and spell components |
+| 76 - 85 | Thieves Guild Clearance. Roguish tools of the trade |
+| 86 - 90 | Cleric’s Corner. Things suitable for prayer to one’s deity |
+| 96 - 100 | Mysterio’s Unexpected Wares. A little of everything, most of it great, magical, or unusual. |
+
+### Merchant Descriptions
+
+{{note
+
+All Adventurere Packs are listed on PHB page 151
+
+All tools are listed on PHB page 154
+
+}}
+
+}}
+
+| General Store |
+| :--- |
+| All items in PHB “Adventuring Gear” table (page 150 in PHB) |
+| All simple weapons |
+| All light armor |
+| All “Equipment Packs” |
+| 2 Potions of Healing |
+| 1 Potion of Poison |
+| 1 Potion of Resistance |
+| 1 Potion of Vitality |
+
+| Armorer |
+| :--- |
+| All weapons (page 149 in PHB) |
+| All armor (page 145 in PHB) |
+| All items found in Dungeoneer’s Pack and Explorer’s Pack |
+| 1d10 assorted magic weapons of any type |
+| 1d10 assorted magic armor of any type |
+| 2 Potions of Healing |
+| 2 Potions of Heroism |
+
+| Wizard Warehouse |
+| :--- |
+| All **simple** weapons |
+| All items found in Scholar’s Pack and Explorer’s Pack |
+| 1 each of every first level spell scroll |
+| 10 assorted higher level spell scrolls through level 5 |
+| 2 Potions of Healing |
+
+| Thieve's Guild Clearance |
+| :--- |
+| All **simple** weapons |
+| All tools |
+| All items found in Dungeoneer’s Pack and Explorer’s Pack |
+| 2 Potions of Healing |
+| 2 Potions of Climbing |
+
+| Cleric's Corner |
+| :--- |
+| All **simple** weapons |
+| All items found in Dungeoneer’s Pack and Priest’s Pack |
+| 1d2 Potions of Healing |
+| 1 Potion of Greater Healing |
+| 1 Potion of Superior Healing |
+| 1 Elixir of Health |
+| 1 Potion of Animal Friendship |
+| 1 Potion of Poison |
+| 1 Potion of Resistance |
+| 1 Potion of Vitality |
+
+
+| Mysterio's Unexpected Wares |
+| :--- |
+| All items found in All Packs |
+| 1d10 assorted potions as listed on Potions for Sale table |
+| 1d10 assorted items from the **Magic Items** table |
+| 1d5 assorted items from the **Weird Magic Items** table |
+| 1d5 assorted weapons of any type |
+
+\page
+
+{{wide
+| Alchemical Supplies |
+| :--- |
+| All items found in Scholar’s Pack Pack |
+| Potions as per Potions For Sale table |
+
+#### Potions For Sale
+| How Many | Name | Rarity | Cost |
+| :--- | :--- | :--- | :--- |
+| 10  | Potion of Climbing | Common | 50gp |
+| 10  | Potion of Healing | Common | 50gp |
+| 4   | Oil of Slipperiness | Uncommon | 150gp |
+| 4   | Philter of Love | Uncommon | 150gp |
+| 4   | Potion of Animal Friendship | Uncommon | 150gp |
+| 4   | Potion of Fire Breath | Uncommon | 150gp |
+| 4   | Potion of Hill Giant Strength | Uncommon | 150gp |
+| 4   | Potion of Growth | Uncommon | 150gp |
+| 4   | Potion of Greater Healing | Uncommon | 150gp |
+| 4   | Potion of Poison | Uncommon | 150gp |
+| 4   | Potion of Resistance | Uncommon | 150gp |
+| 2   | Elixir of Health | Rare | 500gp |
+| 2   | Oil of Etherealness | Rare | 500gp |
+| 2   | Potion of Clairvoyance | Rare | 500gp |
+| 2   | Potion of Diminution | Rare | 500gp |
+| 2   | Potion of Gaseous Form | Rare | 500gp |
+| 2   | Potion of Frost Giant Strength | Rare | 500gp |
+| 2   | Potion of Stone Giant Strength | Rare | 500gp |
+| 2   | Potion of Fire Giant Strength | Rare | 500gp |
+| 2   | Potion of Superior Healing | Rare | 500gp |
+| 2   | Potion of Heroism | Rare | 500gp |
+| 2   | Potion of Invulnerability | Rare | 500gp |
+| 2   | Potion of Mind Reading | Rare | 500gp |
+| 1   | Oil of Sharpness | Very Rare | 1000gp |
+| 1   | Potion of Flying | Very Rare | 1000gp |
+| 1   | Potion of Cloud Giant Strength | Very Rare | 1000gp |
+| 1   | Potion of Supreme Healing | Very Rare | 1000gp |
+| 1   | Potion of Invisibility | Very Rare | 1000gp |
+| 1   | Potion of Longevity | Very Rare | 1000gp |
+| 1   | Potion of Speed | Very Rare | 1000gp |
+| 1   | Potion of Vitality | Very Rare | 1000gp |
+| 1   | Potion of Storm Giant Strength | Legendary | 5000gp |
+}}
+
+\page
+
+
+Small Treasure Table
+
+\page
+
+
+Big Treasure Table
+
+\page
+
+
+Magic Item Table
+
+\page
+
+
+Weird Magic Item Table
+
+\page
+
+
+Traps Table
+
+\page
+
+
+Wild Magic Table
+
+\page
+
+
+{{wide
+## Wandering Monsters
+
+### How to Use This Section
+
+* First, determine Difficulty of Encounter by rolling 1d4 on Difficulty table
+}}
+
+{{wide
+#### Encounter Challenge Table
+
+| Roll | Difficulty |
+|:---------------|:----- |
+| 1 | Easy |
+| 2 | Medium |
+| 3 | Hard |
+| 4 | Deadly |
+}}
+
+{{wide
+* Next, roll number of monsters on "Party of 4, Level X" table for that CR, below
+* Finally, roll on the Wandering Monsters table for what kind of monster
+}}
+
+
+<!-- BEGIN WANDERING MONSTERS TABLES -->
+
+
+
+### Level 1, Party of 4
+
+#### Easy
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  1d4 | CR 1/8 |
+| &emsp;  1d3 | CR 1/4 |
+| &emsp;  1 | CR 1/2 |
+
+
+#### Medium
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  1d6 | CR 1/8 |
+| &emsp;  1d4 | CR 1/4 |
+| &emsp;  1d2 | CR 1/2 |
+
+
+#### Hard
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  2d4 | CR 1/8 |
+| &emsp;  1d6 | CR 1/4 |
+| &emsp;  1d2 | CR 1/2 |
+| &emsp;  1 | CR 1 |
+
+
+#### Deadly
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  2d6 | CR 1/8 |
+| &emsp;  2d4 | CR 1/4 |
+| &emsp;  1d4 | CR 1/2 |
+| &emsp;  1d2 | CR 1 |
+
+
+\column
+
+### Level 2, Party of 4
+
+#### Easy
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  1d8 | CR 1/8 |
+| &emsp;  1d6 | CR 1/4 |
+| &emsp;  1d4 | CR 1/2 |
+| &emsp;  1 | CR 1 |
+
+
+#### Medium
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  2d4 | CR 1/8 |
+| &emsp;  1d6 | CR 1/4 |
+| &emsp;  1d4 | CR 1/2 |
+| &emsp;  1d2 | CR 1 |
+| &emsp;  1 | CR 2 |
+
+
+#### Hard
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  2d4 | CR 1/4 |
+| &emsp;  1d6 | CR 1/2 |
+| &emsp;  1d2 | CR 1 |
+| &emsp;  1d2 | CR 2 |
+| &emsp;  1 | CR 3 |
+
+
+#### Deadly
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  2d6 | CR 1/4 |
+| &emsp;  1d8 | CR 1/2 |
+| &emsp;  1d4 | CR 1 |
+| &emsp;  1d2 | CR 2 |
+| &emsp;  1 | CR 3 |
+| &emsp;  1 | CR 4 |
+
+
+\column
+\page
+
+### Level 3, Party of 4
+
+#### Easy
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  2d4 | CR 1/8 |
+| &emsp;  1d6 | CR 1/4 |
+| &emsp;  1d4 | CR 1/2 |
+| &emsp;  1d2 | CR 1 |
+| &emsp;  1 | CR 2 |
+
+
+#### Medium
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  2d4 | CR 1/4 |
+| &emsp;  1d4+1 | CR 1/2 |
+| &emsp;  1d2+1 | CR 1 |
+| &emsp;  1d2 | CR 2 |
+| &emsp;  1 | CR 3 |
+
+
+#### Hard
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  2d6+2 | CR 1/4 |
+| &emsp;  1d6+2 | CR 1/2 |
+| &emsp;  1d4 | CR 1 |
+| &emsp;  1d2 | CR 2 |
+| &emsp;  1d2 | CR 3 |
+| &emsp;  1 | CR 4 |
+
+
+#### Deadly
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  2d4+2 | CR 1/2 |
+| &emsp;  1d6+1 | CR 1 |
+| &emsp;  1d4 | CR 2 |
+| &emsp;  1d2 | CR 3 |
+| &emsp;  1d2 | CR 4 |
+| &emsp;  1 | CR 5 |
+
+
+\column
+
+### Level 4, Party of 4
+
+#### Easy
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  3d4 | CR 1/4 |
+| &emsp;  1d4+2 | CR 1/2 |
+| &emsp;  1d4 | CR 1 |
+| &emsp;  1d2 | CR 2 |
+| &emsp;  1 | CR 3 |
+
+
+#### Medium
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  2d4 | CR 1/2 |
+| &emsp;  1d4 | CR 1 |
+| &emsp;  1d2 | CR 2 |
+| &emsp;  1d2 | CR 3 |
+| &emsp;  1 | CR 4 |
+
+
+#### Hard
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  1d6+2 | CR 1/2 |
+| &emsp;  1d4+1 | CR 1 |
+| &emsp;  1d4 | CR 2 |
+| &emsp;  1d2 | CR 3 |
+| &emsp;  1d2 | CR 4 |
+| &emsp;  1 | CR 5 |
+
+
+#### Deadly
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  1d8+2 | CR 1 |
+| &emsp;  1d4+2 | CR 2 |
+| &emsp;  1d4 | CR 3 |
+| &emsp;  1d2 | CR 4 |
+| &emsp;  1d2 | CR 5 |
+| &emsp;  1 | CR 6 |
+| &emsp;  1 | CR 7 |
+
+
+\column
+\page
+
+### Level 5, Party of 4
+
+#### Easy
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  1d4+2 | CR 1 |
+| &emsp;  1d4 | CR 2 |
+| &emsp;  1d2 | CR 3 |
+| &emsp;  1 | CR 4 |
+| &emsp;  1 | CR 5 |
+
+
+#### Medium
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  1d6+1 | CR 1 |
+| &emsp;  1d4 | CR 2 |
+| &emsp;  1d4 | CR 3 |
+| &emsp;  1d2 | CR 4 |
+| &emsp;  1 | CR 5 |
+| &emsp;  1 | CR 6 |
+| &emsp;  1 | CR 7 |
+
+
+#### Hard
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  1d4+1 | CR 2 |
+| &emsp;  1d4+1 | CR 3 |
+| &emsp;  1d4 | CR 4 |
+| &emsp;  1d2 | CR 5 |
+| &emsp;  1d2 | CR 6 |
+| &emsp;  1d2 | CR 7 |
+| &emsp;  1 | CR 8 |
+
+
+#### Deadly
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  1d4+3 | CR 2 |
+| &emsp;  1d4+2 | CR 3 |
+| &emsp;  1d4 | CR 4 |
+| &emsp;  1d2 | CR 5 |
+| &emsp;  1d2 | CR 6 |
+| &emsp;  1d2 | CR 7 |
+| &emsp;  1d2 | CR 8 |
+| &emsp;  1 | CR 9 |
+
+
+\column
+
+### Level 6, Party of 4
+
+#### Easy
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  1d4+2 | CR 1 |
+| &emsp;  1d4 | CR 2 |
+| &emsp;  1d2 | CR 3 |
+| &emsp;  1d2 | CR 4 |
+| &emsp;  1d2 | CR 5 |
+| &emsp;  1 | CR 6 |
+
+
+#### Medium
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  1d6+2 | CR 1 |
+| &emsp;  1d4+1 | CR 2 |
+| &emsp;  1d4 | CR 3 |
+| &emsp;  1d2 | CR 4 |
+| &emsp;  1d2 | CR 5 |
+| &emsp;  1d2 | CR 6 |
+| &emsp;  1 | CR 7 |
+
+
+#### Hard
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  1d4+2 | CR 2 |
+| &emsp;  1d4 | CR 3 |
+| &emsp;  1d2+1 | CR 4 |
+| &emsp;  1d2+1 | CR 5 |
+| &emsp;  1d2+1 | CR 6 |
+| &emsp;  1d2 | CR 7 |
+| &emsp;  1 | CR 8 |
+| &emsp;  1 | CR 9 |
+
+
+#### Deadly
+
+| How Many | Challeng Rating |
+|:---------------|:----- |
+| &emsp;  1d6+2 | CR 2 |
+| &emsp;  1d6+2 | CR 3 |
+| &emsp;  1d4+2 | CR 4 |
+| &emsp;  1d4+1 | CR 5 |
+| &emsp;  1d2+1 | CR 6 |
+| &emsp;  1d2+1 | CR 7 |
+| &emsp;  1d2+1 | CR 8 |
+| &emsp;  1d2 | CR 9 |
+| &emsp;  1 | CR 10 |
+
+
+\column
+\page
+{{wide
+### Cave
+}}
+| d100 | Monster |
+|:------------------| :--- |
+| **CR 1/8** | |
+| 1 - 33 | Giant Rat |
+| 34 - 66 | Koboldkobold |
+| 67 - 99 | Tribal Warriorany race |
+| **CR 1/4** | |
+| 1 - 8 | Giant Bat |
+| 9 - 16 | Giant Centipede |
+| 17 - 24 | Giant Lizard |
+| 25 - 32 | Giant Wolf Spider |
+| 33 - 40 | Goblingoblinoid |
+| 41 - 48 | Grimlockgrimlock |
+| 49 - 56 | Swarm of Batsswarm |
+| 57 - 64 | Swarm of Ratsswarm |
+| 65 - 72 | Troglodytetroglodyte |
+| 73 - 80 | Violet Fungus |
+| 81 - 88 | Wolf |
+| 89 - 96 | Zombie |
+| **CR 1/2** | |
+| 1 - 11 | Black Bear |
+| 12 - 22 | Darkmantle |
+| 23 - 33 | Gas Spore |
+| 34 - 44 | Gnollgnoll |
+| 45 - 55 | Magma Mephit |
+| 56 - 66 | Piercer |
+| 67 - 77 | Swarm of Insectsswarm |
+| 78 - 88 | Thugany race |
+| 89 - 99 | Worg |
+| **CR 1** | |
+| 1 - 11 | Brass Dragon Wyrmling |
+| 12 - 22 | Brown Bear |
+| 23 - 33 | Bugbeargoblinoid |
+| 34 - 44 | Copper Dragon Wyrmling |
+| 45 - 55 | Dire Wolf |
+| 56 - 66 | Ghoul |
+| 67 - 77 | Giant Spider |
+| 78 - 88 | Goblin Bossgoblinoid |
+| 89 - 99 | Spyany race |
+| **CR 2** | |
+| 1 - 9 | Berserkerany race |
+| 10 - 18 | Carrion Crawler |
+| 19 - 27 | Druidany race |
+| 28 - 36 | Ettercap |
+| 37 - 45 | Ghast |
+| 46 - 54 | Gibbering Mouther |
+| 55 - 63 | Gnoll Pack Lordgnoll |
+| 64 - 72 | Grick |
+| 73 - 81 | Polar Bear |
+| 82 - 90 | Wererathumanshapechanger |
+| 91 - 99 | White Dragon Wyrmling |
+\column
+| d100 | Monster |
+| **CR 3** | |
+|:------------------| :--- |
+| 1 - 9 | Basilisk |
+| 10 - 18 | Bugbear Chiefgoblinoid |
+| 19 - 27 | Giant Scorpion |
+| 28 - 36 | Manticore |
+| 37 - 45 | Minotaur |
+| 46 - 54 | Phase Spider |
+| 55 - 63 | Spectator |
+| 64 - 72 | Water Weird |
+| 73 - 81 | Wight |
+| 82 - 90 | Winter Wolf |
+| 91 - 99 | Yeti |
+| **CR 4** | |
+| 1 - 33 | Ettin |
+| 34 - 66 | Ghost |
+| 67 - 99 | Gnoll Fang of Yeenoghugnoll |
+| **CR 5** | |
+| 1 - 8 | Air Elemental |
+| 9 - 16 | Beholder Zombie |
+| 17 - 24 | Bulette |
+| 25 - 32 | Earth Elemental |
+| 33 - 40 | Fire Elemental |
+| 41 - 48 | Otyugh |
+| 49 - 56 | Revenant |
+| 57 - 64 | Roper |
+| 65 - 72 | Troll |
+| 73 - 80 | Umber Hulk |
+| 81 - 88 | Water Elemental |
+| 89 - 96 | Werebearhumanshapechanger |
+| 97 - 104 | Young Remorhaz |
+| **CR 6** | |
+| 1 - 17 | Cyclops |
+| 18 - 34 | Galeb Duhr |
+| 35 - 51 | Invisible Stalker |
+| 52 - 68 | Medusa |
+| 69 - 85 | Young Brass Dragon |
+| 86 - 102 | Young White Dragon |
+| **CR 7** | |
+| 1 - 33 | Grick Alpha |
+| 34 - 66 | Stone Giant |
+| 67 - 99 | Young Copper Dragon |
+| **CR 8** | |
+| 1 - 20 | Assassinany race |
+| 21 - 40 | Cloaker |
+| 41 - 60 | Fomorian |
+| 61 - 80 | Hydra |
+| 81 - 100 | Spirit Naga |
+| **CR 9** | |
+| 1 - 100 | Abominable Yeti |
+| **CR 10** | |
+| 1 - 100 | Guardian Naga |
+\page
+{{wide
+### Dungeon
+}}
+| d100 | Monster |
+|:------------------| :--- |
+| **CR 1/8** | |
+| 1 - 20 | Cultistany race |
+| 21 - 40 | Flumph |
+| 41 - 60 | Giant Rat |
+| 61 - 80 | Koboldkobold |
+| 81 - 100 | Manesdemon |
+| **CR 1/4** | |
+| 1 - 5 | Acolyteany race |
+| 6 - 10 | Dretchdemon |
+| 11 - 15 | Drowelf |
+| 16 - 20 | Flying Sword |
+| 21 - 25 | Giant Bat |
+| 26 - 30 | Giant Centipede |
+| 31 - 35 | Giant Lizard |
+| 36 - 40 | Giant Wolf Spider |
+| 41 - 45 | Goblingoblinoid |
+| 46 - 50 | Grimlockgrimlock |
+| 51 - 55 | Mud Mephit |
+| 56 - 60 | Skeleton |
+| 61 - 65 | Smoke Mephit |
+| 66 - 70 | Steam Mephit |
+| 71 - 75 | Swarm of Batsswarm |
+| 76 - 80 | Swarm of Ratsswarm |
+| 81 - 85 | Troglodytetroglodyte |
+| 86 - 90 | Violet Fungus |
+| 91 - 95 | Zombie |
+| **CR 1/2** | |
+| 1 - 8 | Dust Mephit |
+| 9 - 16 | Gas Spore |
+| 17 - 24 | Gnollgnoll |
+| 25 - 32 | Gray Ooze |
+| 33 - 40 | Ice Mephit |
+| 41 - 48 | Lizardfolklizardfolk |
+| 49 - 56 | Magma Mephit |
+| 57 - 64 | Magmin |
+| 65 - 72 | Orcorc |
+| 73 - 80 | Rust Monster |
+| 81 - 88 | Shadow |
+| 89 - 96 | Swarm of Insectsswarm |
+| **CR 1** | |
+| 1 - 10 | Animated Armor |
+| 11 - 20 | Bugbeargoblinoid |
+| 21 - 30 | Duergardwarf |
+| 31 - 40 | Ghoul |
+| 41 - 50 | Giant Spider |
+| 51 - 60 | Goblin Bossgoblinoid |
+| 61 - 70 | Half-Ogre |
+| 71 - 80 | Impdevilshapechanger |
+| 81 - 90 | Quasitdemonshapechanger |
+| 91 - 100 | Specter |
+\column
+| d100 | Monster |
+| **CR 2** | |
+|:------------------| :--- |
+| 1 - 4 | Carrion Crawler |
+| 5 - 8 | Cult Fanaticany race |
+| 9 - 12 | Ettercap |
+| 13 - 16 | Gargoyle |
+| 17 - 20 | Gelatinous Cube |
+| 21 - 24 | Ghast |
+| 25 - 28 | Gibbering Mouther |
+| 29 - 32 | Gnoll Pack Lordgnoll |
+| 33 - 36 | Grick |
+| 37 - 40 | Intellect Devourer |
+| 41 - 44 | Lizardfolk Shamanlizardfolk |
+| 45 - 48 | Mimicshapechanger |
+| 49 - 52 | Minotaur Skeleton |
+| 53 - 56 | Nothic |
+| 57 - 60 | Ochre Jelly |
+| 61 - 64 | Ogre |
+| 65 - 68 | Ogre Zombie |
+| 69 - 72 | Orc Eye of Gruumshorc |
+| 73 - 76 | Orogorc |
+| 77 - 80 | Poltergeist |
+| 81 - 84 | Quaggothquaggoth |
+| 85 - 88 | Rug of Smothering |
+| 89 - 92 | Spined Devildevil |
+| 93 - 96 | Swarm of Poisonous Snakesswarm |
+| 97 - 100 | Wererathumanshapechanger |
+| **CR 3** | |
+| 1 - 7 | Basilisk |
+| 8 - 14 | Bearded Devildevil |
+| 15 - 21 | Bugbear Chiefgoblinoid |
+| 22 - 28 | Doppelgangershapechanger |
+| 29 - 35 | Giant Scorpion |
+| 36 - 42 | Grell |
+| 43 - 49 | Hell Hound |
+| 50 - 56 | Hook Horror |
+| 57 - 63 | Minotaur |
+| 64 - 70 | Mummy |
+| 71 - 77 | Phase Spider |
+| 78 - 84 | Quaggoth Thonotquaggoth |
+| 85 - 91 | Spectator |
+| 92 - 98 | Werewolfhumanshapechanger |
+| 99 - 105 | Wight |
+\page
+| d100 | Monster |
+| **CR 4** | |
+|:------------------| :--- |
+| 1 - 9 | Banshee |
+| 10 - 18 | Black Pudding |
+| 19 - 27 | Bone Naga |
+| 28 - 36 | Flameskull |
+| 37 - 45 | Ghost |
+| 46 - 54 | Gnoll Fang of Yeenoghugnoll |
+| 55 - 63 | Helmed Horror |
+| 64 - 72 | Lizard King/Queenlizardfolk |
+| 73 - 81 | Orc War Chieforc |
+| 82 - 90 | Shadow Demondemon |
+| 91 - 99 | Succubus/Incubusshapechanger |
+| **CR 5** | |
+| 1 - 6 | Air Elemental |
+| 7 - 12 | Barbed Devildevil |
+| 13 - 18 | Barlgurademon |
+| 19 - 24 | Beholder Zombie |
+| 25 - 30 | Cambion |
+| 31 - 36 | Drow Elite Warriorelf |
+| 37 - 42 | Earth Elemental |
+| 43 - 48 | Fire Elemental |
+| 49 - 54 | Flesh Golem |
+| 55 - 60 | Mezzolothyugoloth |
+| 61 - 66 | Otyugh |
+| 67 - 72 | Revenant |
+| 73 - 78 | Troll |
+| 79 - 84 | Vampire Spawn |
+| 85 - 90 | Water Elemental |
+| 91 - 96 | Wraith |
+| 97 - 102 | Xorn |
+| **CR 6** | |
+| 1 - 17 | Chasmedemon |
+| 18 - 34 | Drider |
+| 35 - 51 | Galeb Duhr |
+| 52 - 68 | Invisible Stalker |
+| 69 - 85 | Medusa |
+| 86 - 102 | Vrockdemon |
+| **CR 7** | |
+| 1 - 20 | Drow Mageelf |
+| 21 - 40 | Grick Alpha |
+| 41 - 60 | Mind Flayer |
+| 61 - 80 | Oni |
+| 81 - 100 | Shield Guardian |
+| **CR 8** | |
+| 1 - 12 | Assassinany race |
+| 13 - 24 | Chain Devildevil |
+| 25 - 36 | Cloaker |
+| 37 - 48 | Drow Priestess of Lolthelf |
+| 49 - 60 | Hezroudemon |
+| 61 - 72 | Hydra |
+| 73 - 84 | Mind Flayer Arcanist |
+| 85 - 96 | Spirit Naga |
+\column
+| d100 | Monster |
+| **CR 9** | |
+|:------------------| :--- |
+| 1 - 25 | Bone Devildevil |
+| 26 - 50 | Clay Golem |
+| 51 - 75 | Glabrezudemon |
+| 76 - 100 | Nycalothyugoloth |
+| **CR 10** | |
+| 1 - 50 | Stone Golem |
+| 51 - 100 | Yochloldemonshapechanger |
+\page
+{{wide
+### Forest
+}}
+| d100 | Monster |
+|:------------------| :--- |
+| **CR 1/8** | |
+| 1 - 12 | Banditany race |
+| 13 - 24 | Flying Snake |
+| 25 - 36 | Giant Rat |
+| 37 - 48 | Giant Weasel |
+| 49 - 60 | Poisonous Snake |
+| 61 - 72 | Stirge |
+| 73 - 84 | Tribal Warriorany race |
+| 85 - 96 | Twig Blight |
+| **CR 1/4** | |
+| 1 - 4 | Acolyteany race |
+| 5 - 8 | Blink Dog |
+| 9 - 12 | Boar |
+| 13 - 16 | Constrictor Snake |
+| 17 - 20 | Elk |
+| 21 - 24 | Giant Badger |
+| 25 - 28 | Giant Bat |
+| 29 - 32 | Giant Centipede |
+| 33 - 36 | Giant Frog |
+| 37 - 40 | Giant Lizard |
+| 41 - 44 | Giant Owl |
+| 45 - 48 | Giant Poisonous Snake |
+| 49 - 52 | Giant Wolf Spider |
+| 53 - 56 | Goblingoblinoid |
+| 57 - 60 | Kenkukenku |
+| 61 - 64 | Mud Mephit |
+| 65 - 68 | Needle Blight |
+| 69 - 72 | Panther |
+| 73 - 76 | Pixie |
+| 77 - 80 | Sprite |
+| 81 - 84 | Swarm of Batsswarm |
+| 85 - 88 | Swarm of Ratsswarm |
+| 89 - 92 | Swarm of Ravensswarm |
+| 93 - 96 | Wolf |
+| 97 - 100 | Zombie |
+| **CR 1/2** | |
+| 1 - 7 | Ape |
+| 8 - 14 | Black Bear |
+| 15 - 21 | Cockatrice |
+| 22 - 28 | Giant Goat |
+| 29 - 35 | Giant Wasp |
+| 36 - 42 | Gnollgnoll |
+| 43 - 49 | Lizardfolklizardfolk |
+| 50 - 56 | Orcorc |
+| 57 - 63 | Satyr |
+| 64 - 70 | Scoutany race |
+| 71 - 77 | Swarm of Insectsswarm |
+| 78 - 84 | Thugany race |
+| 85 - 91 | Vine Blight |
+| 92 - 98 | Worg |
+\column
+| d100 | Monster |
+| **CR 1** | |
+|:------------------| :--- |
+| 1 - 6 | Brown Bear |
+| 7 - 12 | Bugbeargoblinoid |
+| 13 - 18 | Dire Wolf |
+| 19 - 24 | Dryad |
+| 25 - 30 | Faerie Dragon (orange) |
+| 31 - 36 | Faerie Dragon (red) |
+| 37 - 42 | Faerie Dragon (yellow) |
+| 43 - 48 | Fire Snake |
+| 49 - 54 | Ghoul |
+| 55 - 60 | Giant Hyena |
+| 61 - 66 | Giant Spider |
+| 67 - 72 | Giant Toad |
+| 73 - 78 | Goblin Bossgoblinoid |
+| 79 - 84 | Half-Ogre |
+| 85 - 90 | Harpy |
+| 91 - 96 | Spyany race |
+| 97 - 102 | Tiger |
+| 103 - 108 | Yuan-ti Purebloodyuan-ti |
+| **CR 2** | |
+| 1 - 4 | Ankheg |
+| 5 - 8 | Awakened Tree |
+| 9 - 12 | Bandit Captainany race |
+| 13 - 16 | Berserkerany race |
+| 17 - 20 | Druidany race |
+| 21 - 24 | Ettercap |
+| 25 - 28 | Faerie Dragon (blue) |
+| 29 - 32 | Faerie Dragon (green) |
+| 33 - 36 | Faerie Dragon (indigo) |
+| 37 - 40 | Faerie Dragon (violet) |
+| 41 - 44 | Ghast |
+| 45 - 48 | Giant Boar |
+| 49 - 52 | Giant Constrictor Snake |
+| 53 - 56 | Giant Elk |
+| 57 - 60 | Gnoll Pack Lordgnoll |
+| 61 - 64 | Green Dragon Wyrmling |
+| 65 - 68 | Lizardfolk Shamanlizardfolk |
+| 69 - 72 | Ogre |
+| 73 - 76 | Ogre Zombie |
+| 77 - 80 | Orc Eye of Gruumshorc |
+| 81 - 84 | Orogorc |
+| 85 - 88 | Saber-Toothed Tiger |
+| 89 - 92 | Swarm of Poisonous Snakesswarm |
+\page
+| d100 | Monster |
+| **CR 3** | |
+|:------------------| :--- |
+| 1 - 9 | Basilisk |
+| 10 - 18 | Bugbear Chiefgoblinoid |
+| 19 - 27 | Displacer Beast |
+| 28 - 36 | Green Hag |
+| 37 - 45 | Owlbear |
+| 46 - 54 | Phase Spider |
+| 55 - 63 | Water Weird |
+| 64 - 72 | Werewolfhumanshapechanger |
+| 73 - 81 | Wight |
+| 82 - 90 | Winter Wolf |
+| 91 - 99 | Yuan-ti Malisonshapechangeryuan-ti |
+| **CR 4** | |
+| 1 - 17 | Banshee |
+| 18 - 34 | Gnoll Fang of Yeenoghugnoll |
+| 35 - 51 | Lizard King/Queenlizardfolk |
+| 52 - 68 | Orc War Chieforc |
+| 69 - 85 | Wereboarhumanshapechanger |
+| 86 - 102 | Weretigerhumanshapechanger |
+| **CR 5** | |
+| 1 - 10 | Air Elemental |
+| 11 - 20 | Earth Elemental |
+| 21 - 30 | Green Hag (coven) |
+| 31 - 40 | Revenant |
+| 41 - 50 | Salamander |
+| 51 - 60 | Shambling Mound |
+| 61 - 70 | Troll |
+| 71 - 80 | Unicorn |
+| 81 - 90 | Water Elemental |
+| 91 - 100 | Werebearhumanshapechanger |
+| **CR 6** | |
+| 1 - 100 | Invisible Stalker |
+| **CR 7** | |
+| 1 - 50 | Giant Ape |
+| 51 - 100 | Yuan-ti Abominationshapechangeryuan-ti |
+| **CR 8** | |
+| 1 - 33 | Assassinany race |
+| 34 - 66 | Hydra |
+| 67 - 99 | Young Green Dragon |
+| **CR 9** | |
+| 1 - 100 | Treant |
+| **CR 10** | |
+| 1 - 100 | Guardian Naga |
+\page
+{{wide
+### Grassland
+}}
+| d100 | Monster |
+|:------------------| :--- |
+| **CR 1/8** | |
+| 1 - 12 | Banditany race |
+| 13 - 24 | Blood Hawk |
+| 25 - 36 | Giant Rat |
+| 37 - 48 | Giant Weasel |
+| 49 - 60 | Poisonous Snake |
+| 61 - 72 | Pony |
+| 73 - 84 | Tribal Warriorany race |
+| 85 - 96 | Twig Blight |
+| **CR 1/4** | |
+| 1 - 5 | Acolyteany race |
+| 6 - 10 | Axe Beak |
+| 11 - 15 | Blink Dog |
+| 16 - 20 | Boar |
+| 21 - 25 | Elk |
+| 26 - 30 | Giant Badger |
+| 31 - 35 | Giant Centipede |
+| 36 - 40 | Giant Lizard |
+| 41 - 45 | Giant Owl |
+| 46 - 50 | Giant Poisonous Snake |
+| 51 - 55 | Giant Wolf Spider |
+| 56 - 60 | Goblingoblinoid |
+| 61 - 65 | Kenkukenku |
+| 66 - 70 | Needle Blight |
+| 71 - 75 | Pixie |
+| 76 - 80 | Sprite |
+| 81 - 85 | Swarm of Ratsswarm |
+| 86 - 90 | Swarm of Ravensswarm |
+| 91 - 95 | Wolf |
+| 96 - 100 | Zombie |
+| **CR 1/2** | |
+| 1 - 6 | Black Bear |
+| 7 - 12 | Cockatrice |
+| 13 - 18 | Giant Goat |
+| 19 - 24 | Gnollgnoll |
+| 25 - 30 | Hobgoblingoblinoid |
+| 31 - 36 | Jackalwereshapechanger |
+| 37 - 42 | Lizardfolklizardfolk |
+| 43 - 48 | Orcorc |
+| 49 - 54 | Satyr |
+| 55 - 60 | Scoutany race |
+| 61 - 66 | Swarm of Insectsswarm |
+| 67 - 72 | Thugany race |
+| 73 - 78 | Vine Blight |
+| 79 - 84 | Warhorse |
+| 85 - 90 | Warhorse Skeleton |
+| 91 - 96 | Worg |
+\column
+| d100 | Monster |
+| **CR 1** | |
+|:------------------| :--- |
+| 1 - 6 | Copper Dragon Wyrmling |
+| 7 - 12 | Death Dog |
+| 13 - 18 | Dire Wolf |
+| 19 - 24 | Faerie Dragon (orange) |
+| 25 - 30 | Faerie Dragon (red) |
+| 31 - 36 | Faerie Dragon (yellow) |
+| 37 - 42 | Ghoul |
+| 43 - 48 | Giant Eagle |
+| 49 - 54 | Giant Hyena |
+| 55 - 60 | Giant Spider |
+| 61 - 66 | Giant Vulture |
+| 67 - 72 | Goblin Bossgoblinoid |
+| 73 - 78 | Half-Ogre |
+| 79 - 84 | Lion |
+| 85 - 90 | Scarecrow |
+| 91 - 96 | Spyany race |
+| 97 - 102 | Thri-kreenthri-kreen |
+| 103 - 108 | Tiger |
+| **CR 2** | |
+| 1 - 5 | Allosaurus |
+| 6 - 10 | Ankheg |
+| 11 - 15 | Bandit Captainany race |
+| 16 - 20 | Berserkerany race |
+| 21 - 25 | Centaur |
+| 26 - 30 | Druidany race |
+| 31 - 35 | Faerie Dragon (blue) |
+| 36 - 40 | Faerie Dragon (green) |
+| 41 - 45 | Faerie Dragon (indigo) |
+| 46 - 50 | Faerie Dragon (violet) |
+| 51 - 55 | Ghast |
+| 56 - 60 | Giant Boar |
+| 61 - 65 | Giant Constrictor Snake |
+| 66 - 70 | Giant Elk |
+| 71 - 75 | Gnoll Pack Lordgnoll |
+| 76 - 80 | Griffon |
+| 81 - 85 | Lizardfolk Shamanlizardfolk |
+| 86 - 90 | Orc Eye of Gruumshorc |
+| 91 - 95 | Orogorc |
+| 96 - 100 | Rhinoceros |
+| 101 - 105 | Saber-Toothed Tiger |
+| 106 - 110 | Swarm of Poisonous Snakesswarm |
+\page
+| d100 | Monster |
+| **CR 3** | |
+|:------------------| :--- |
+| 1 - 10 | Ankylosaurus |
+| 11 - 20 | Basilisk |
+| 21 - 30 | Displacer Beast |
+| 31 - 40 | Giant Scorpion |
+| 41 - 50 | Hobgoblin Captaingoblinoid |
+| 51 - 60 | Manticore |
+| 61 - 70 | Phase Spider |
+| 71 - 80 | Werewolfhumanshapechanger |
+| 81 - 90 | Wight |
+| 91 - 100 | Winter Wolf |
+| **CR 4** | |
+| 1 - 17 | Elephant |
+| 18 - 34 | Ettin |
+| 35 - 51 | Gnoll Fang of Yeenoghugnoll |
+| 52 - 68 | Lizard King/Queenlizardfolk |
+| 69 - 85 | Orc War Chieforc |
+| 86 - 102 | Wereboarhumanshapechanger |
+| **CR 5** | |
+| 1 - 11 | Air Elemental |
+| 12 - 22 | Bulette |
+| 23 - 33 | Earth Elemental |
+| 34 - 44 | Fire Elemental |
+| 45 - 55 | Half-Red Dragon Veteranhuman |
+| 56 - 66 | Hill Giant |
+| 67 - 77 | Revenant |
+| 78 - 88 | Triceratops |
+| 89 - 99 | Water Elemental |
+| **CR 6** | |
+| 1 - 25 | Cyclops |
+| 26 - 50 | Hobgoblin Warlordgoblinoid |
+| 51 - 75 | Invisible Stalker |
+| 76 - 100 | Wyvern |
+| **CR 7** | |
+| 1 - 50 | Oni |
+| 51 - 100 | Young Copper Dragon |
+| **CR 8** | |
+| 1 - 50 | Assassinany race |
+| 51 - 100 | Tyrannosaurus Rex |
+\page
+
+
+
+
+<!-- END WANDERING MONSTERS TABLES -->

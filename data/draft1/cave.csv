@@ -1,0 +1,122 @@
+CR,NAME,SIZE,TYPE,ALIGNMENT
+1/8,Giant Rat,Small,Beast,unaligned
+1/8,Koboldkobold,Small,Humanoid,lawful evil
+1/8,Tribal Warrior,Medium,Humanoid,any
+1/4,Giant Bat,Large,Beast,unaligned
+1/4,Giant Centipede,Small,Beast,unaligned
+1/4,Giant Lizard,Large,Beast,unaligned
+1/4,Giant Wolf Spider,Medium,Beast,unaligned
+1/4,Goblingoblinoid,Small,Humanoid,neutral evil
+1/4,Grimlockgrimlock,Medium,Humanoid,neutral evil
+1/4,Swarm of Batsswarm,Medium,Beast,unaligned
+1/4,Swarm of Ratsswarm,Medium,Beast,unaligned
+1/4,Troglodytetroglodyte,Medium,Humanoid,chaotic evil
+1/4,Violet Fungus,Medium,Plant,unaligned
+1/4,Wolf,Medium,Beast,unaligned
+1/4,Zombie,Medium,Undead,neutral evil
+1/2,Black Bear,Medium,Beast,unaligned
+1/2,Darkmantle,Small,Monstrosity,unaligned
+1/2,Deep Gnome,Small,Humanoid,neutral good
+1/2,Gas Spore,Large,Plant,unaligned
+1/2,Gnollgnoll,Medium,Humanoid,chaotic evil
+1/2,Magma Mephit,Small,Elemental,neutral evil
+1/2,Piercer,Medium,Monstrosity,unaligned
+1/2,Swarm of Insectsswarm,Medium,Beast,unaligned
+1/2,Thug,Medium,Humanoid,non-good
+1/2,Worg,Large,Monstrosity,neutral evil
+1,Brass Dragon Wyrmling,Medium,Dragon,chaotic good
+1,Brown Bear,Large,Beast,unaligned
+1,Bugbeargoblinoid,Medium,Humanoid,chaotic evil
+1,Copper Dragon Wyrmling,Medium,Dragon,chaotic good
+1,Dire Wolf,Large,Beast,unaligned
+1,Ghoul,Medium,Undead,chaotic evil
+1,Giant Spider,Large,Beast,unaligned
+1,Goblin Bossgoblinoid,Small,Humanoid,neutral evil
+1,Spy,Medium,Humanoid,any
+2,Berserker,Medium,Humanoid,any chaotic
+2,Carrion Crawler,Large,Monstrosity,unaligned
+2,Druid,Medium,Humanoid,any
+2,Ettercap,Medium,Monstrosity,neutral evil
+2,Ghast,Medium,Undead,chaotic evil
+2,Gibbering Mouther,Medium,Aberration,neutral
+2,Gnoll Pack Lordgnoll,Medium,Humanoid,chaotic evil
+2,Grick,Medium,Monstrosity,neutral
+2,Polar Bear,Large,Beast,unaligned
+2,Wererathumanshapechanger,Medium,Humanoid,lawful evil
+2,White Dragon Wyrmling,Medium,Dragon,chaotic evil
+3,Basilisk,Medium,Monstrosity,unaligned
+3,Bugbear Chiefgoblinoid,Medium,Humanoid,chaotic evil
+3,Giant Scorpion,Large,Beast,unaligned
+3,Manticore,Large,Monstrosity,lawful evil
+3,Minotaur,Large,Monstrosity,chaotic evil
+3,Phase Spider,Large,Monstrosity,unaligned
+3,Spectator,Medium,Aberration,lawful neutral
+3,Water Weird,Large,Elemental,neutral
+3,Wight,Medium,Undead,neutral evil
+3,Winter Wolf,Large,Monstrosity,neutral evil
+3,Yeti,Large,Monstrosity,chaotic evil
+4,Ettin,Large,Giant,chaotic evil
+4,Ghost,Medium,Undead,any
+4,Gnoll Fang of Yeenoghugnoll,Medium,Fiend,chaotic evil
+5,Air Elemental,Large,Elemental,neutral
+5,Beholder Zombie,Large,Undead,neutral evil
+5,Bulette,Large,Monstrosity,unaligned
+5,Earth Elemental,Large,Elemental,neutral
+5,Fire Elemental,Large,Elemental,neutral
+5,Otyugh,Large,Aberration,neutral
+5,Revenant,Medium,Undead,neutral
+5,Roper,Large,Monstrosity,neutral evil
+5,Troll,Large,Giant,chaotic evil
+5,Umber Hulk,Large,Monstrosity,chaotic evil
+5,Water Elemental,Large,Elemental,neutral
+5,Werebearhumanshapechanger,Medium,Humanoid,neutral good
+5,Young Remorhaz,Large,Monstrosity,unaligned
+6,Cyclops,Huge,Giant,chaotic neutral
+6,Galeb Duhr,Medium,Elemental,neutral
+6,Invisible Stalker,Medium,Elemental,neutral
+6,Medusa,Medium,Monstrosity,lawful evil
+6,Young Brass Dragon,Large,Dragon,chaotic good
+6,Young White Dragon,Large,Dragon,chaotic evil
+7,Grick Alpha,Large,Monstrosity,neutral
+7,Stone Giant,Huge,Giant,neutral
+7,Young Copper Dragon,Large,Dragon,chaotic good
+8,Assassin,Medium,Humanoid,non-good
+8,Cloaker,Large,Aberration,chaotic neutral
+8,Fomorian,Huge,Giant,chaotic evil
+8,Hydra,Huge,Monstrosity,unaligned
+8,Spirit Naga,Large,Monstrosity,chaotic evil
+2,Saber-Toothed Tiger,Large,Beast,unaligned
+2,Swarm of Poisonous Snakesswarm,Medium,Beast,unaligned
+3,Basilisk,Medium,Monstrosity,unaligned
+3,Bugbear Chiefgoblinoid,Medium,Humanoid,chaotic evil
+3,Displacer Beast,Large,Monstrosity,lawful evil
+3,Green Hag,Medium,Fey,neutral evil
+3,Owlbear,Large,Monstrosity,unaligned
+3,Phase Spider,Large,Monstrosity,unaligned
+3,Water Weird,Large,Elemental,neutral
+3,Werewolfhumanshapechanger,Medium,Humanoid,chaotic evil
+3,Wight,Medium,Undead,neutral evil
+3,Winter Wolf,Large,Monstrosity,neutral evil
+3,Yuan-ti Malisonshapechangeryuan-ti,Medium,Monstrosity,neutral evil
+4,Banshee,Medium,Undead,chaotic evil
+4,Gnoll Fang of Yeenoghugnoll,Medium,Fiend,chaotic evil
+4,Lizard King/Queenlizardfolk,Medium,Humanoid,chaotic evil
+4,Orc War Chieforc,Medium,Humanoid,chaotic evil
+4,Wereboarhumanshapechanger,Medium,Humanoid,neutral evil
+4,Weretigerhumanshapechanger,Medium,Humanoid,neutral
+5,Air Elemental,Large,Elemental,neutral
+5,Earth Elemental,Large,Elemental,neutral
+5,Green Hag (coven),Medium,Fey,neutral evil
+5,Revenant,Medium,Undead,neutral
+5,Salamander,Large,Elemental,neutral evil
+5,Shambling Mound,Large,Plant,unaligned
+5,Troll,Large,Giant,chaotic evil
+5,Unicorn,Large,Celestial,lawful good
+5,Water Elemental,Large,Elemental,neutral
+5,Werebearhumanshapechanger,Medium,Humanoid,neutral good
+6,Invisible Stalker,Medium,Elemental,neutral
+7,Giant Ape,Huge,Beast,unaligned
+7,Yuan-ti Abominationshapechangeryuan-ti,Large,Monstrosity,neutral evil
+8,Assassin,Medium,Humanoid,non-good
+8,Hydra,Huge,Monstrosity,unaligned
+8,Young Green Dragon,Large,Dragon,lawful evil
