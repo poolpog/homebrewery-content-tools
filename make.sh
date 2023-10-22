@@ -21,13 +21,17 @@ if [[ -z "${SRCFILE}" ]]; then
     usage
 fi
 
-pushd ${TEMPDIR}
-git clone git@github.com:naturalcrit/homebrewery.git hb
-cd hb
-git remote add G-Ambatte git@github.com:G-Ambatte/homebrewery.git
-git fetch G-Ambatte
-git checkout remotes/G-Ambatte/experimentalCommandLineBrewProcess
-docker-compose build
+# export DOCKER_BUILD=true before running this script to clone and build the container if you need haven't already
+if [[ -n "${DOCKER_BUILD}" ]]; then
+    pushd ${TEMPDIR}
+    git clone git@github.com:naturalcrit/homebrewery.git hb
+    cd hb
+    git remote add G-Ambatte git@github.com:G-Ambatte/homebrewery.git
+    git fetch G-Ambatte
+    git checkout remotes/G-Ambatte/experimentalCommandLineBrewProcess
+    docker-compose build
+fi
+
 docker run -it --rm \
     -v ${WORKDIR}:/usr/src/app/workdir homebrewery \
         node cli/process.js \

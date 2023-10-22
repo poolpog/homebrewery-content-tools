@@ -1,122 +1,118 @@
-Add to encounter,NAME,SIZE,CR,TYPE,ALIGNMENT
-Add,"Banditany raceSourcesBasic, HotDQ Sup, MM, SRD",Medium,1/8 (Trivial),Humanoid,non-lawful
-Add,"Blood HawkSourcesBasic, MM, SRD",Small,1/8 (Trivial),Beast,unaligned
-Add,"Giant RatSourcesBasic, MM, SRD",Small,1/8 (Trivial),Beast,unaligned
-Add,"Giant WeaselSourcesBasic, MM, SRD",Medium,1/8 (Trivial),Beast,unaligned
-Add,"Poisonous SnakeSourcesBasic, MM, PHB, SRD",Tiny,1/8 (Trivial),Beast,unaligned
-Add,"PonySourcesBasic, MM, SRD",Medium,1/8 (Trivial),Beast,unaligned
-Add,"Tribal Warriorany raceSourcesMM, PotA Supp, SRD",Medium,1/8 (Trivial),Humanoid,any
-Add,"Twig BlightSourcesBasic, MM",Small,1/8 (Trivial),Plant,neutral evil
-Add,"Acolyteany raceSourcesBasic, HotDQ Sup, MM, SRD",Medium,1/4 (Trivial),Humanoid,any
-Add,"Axe BeakSourcesBasic, MM, SRD",Large,1/4 (Trivial),Beast,unaligned
-Add,"Blink DogSourcesBasic, MM, SRD",Medium,1/4 (Trivial),Fey,lawful good
-Add,"BoarSourcesBasic, MM, PHB, SRD",Medium,1/4 (Trivial),Beast,unaligned
-Add,"ElkSourcesBasic, HotDQ Sup, MM, SRD",Large,1/4 (Trivial),Beast,unaligned
-Add,"Giant BadgerSourcesBasic, MM, SRD",Medium,1/4 (Trivial),Beast,unaligned
-Add,"Giant CentipedeSourcesBasic, HotDQ Sup, MM, SRD",Small,1/4 (Trivial),Beast,unaligned
-Add,"Giant LizardSourcesBasic, HotDQ Sup, MM, SRD",Large,1/4 (Trivial),Beast,unaligned
-Add,"Giant OwlSourcesBasic, MM, SRD",Large,1/4 (Trivial),Beast,neutral
-Add,"Giant Poisonous SnakeSourcesBasic, MM, SRD",Medium,1/4 (Trivial),Beast,unaligned
-Add,"Giant Wolf SpiderSourcesBasic, MM, SRD",Medium,1/4 (Trivial),Beast,unaligned
-Add,"GoblingoblinoidSourcesBasic, MM, SRD",Small,1/4 (Trivial),Humanoid,neutral evil
-Add,"KenkukenkuSourcesMM, PotA Supp",Medium,1/4 (Trivial),Humanoid,chaotic neutral
-Add,Needle BlightSourcesMM,Medium,1/4 (Trivial),Plant,neutral evil
-Add,PixieSourcesMM,Tiny,1/4 (Trivial),Fey,neutral good
-Add,"SpriteSourcesMM, PHB, PotA Supp, SRD",Tiny,1/4 (Trivial),Fey,neutral good
-Add,"Swarm of RatsswarmSourcesBasic, HotDQ Sup, MM, SRD",Medium,1/4 (Trivial),Beast,unaligned
-Add,"Swarm of RavensswarmSourcesBasic, MM, SRD",Medium,1/4 (Trivial),Beast,unaligned
-Add,"WolfSourcesBasic, MM, PHB, SRD",Medium,1/4 (Trivial),Beast,unaligned
-Add,"ZombieSourcesBasic, MM, PHB, SRD",Medium,1/4 (Trivial),Undead,neutral evil
-Add,"Black BearSourcesBasic, MM, PHB, SRD",Medium,1/2 (Trivial),Beast,unaligned
-Add,"CockatriceSourcesBasic, MM, SRD",Small,1/2 (Trivial),Monstrosity,unaligned
-Add,"Giant GoatSourcesBasic, MM, SRD",Large,1/2 (Trivial),Beast,unaligned
-Add,"GnollgnollSourcesBasic, MM, SRD",Medium,1/2 (Trivial),Humanoid,chaotic evil
-Add,"HobgoblingoblinoidSourcesBasic, HotDQ Sup, MM, SRD",Medium,1/2 (Trivial),Humanoid,lawful evil
-Add,"JackalwereshapechangerSourcesMM, PotA Supp",Medium,1/2 (Trivial),Humanoid,chaotic evil
-Add,"LizardfolklizardfolkSourcesBasic, HotDQ Sup, MM, SRD",Medium,1/2 (Trivial),Humanoid,neutral
-Add,"OrcorcSourcesBasic, HotDQ Sup, MM, SRD",Medium,1/2 (Trivial),Humanoid,chaotic evil
-Add,"SatyrSourcesBasic, MM, SRD",Medium,1/2 (Trivial),Fey,chaotic neutral
-Add,"Scoutany raceSourcesHotDQ Sup, MM, PotA Supp, SRD",Medium,1/2 (Trivial),Humanoid,any
-Add,"Swarm of InsectsswarmSourcesBasic, HotDQ Sup, MM, SRD",Medium,1/2 (Trivial),Beast,unaligned
-Add,"Thugany raceSourcesBasic, MM, SRD",Medium,1/2 (Trivial),Humanoid,non-good
-Add,Vine BlightSourcesMM,Medium,1/2 (Trivial),Plant,neutral evil
-Add,"WarhorseSourcesBasic, MM, PHB, SRD",Large,1/2 (Trivial),Beast,unaligned
-Add,"Warhorse SkeletonSourcesMM, SRD",Large,1/2 (Trivial),Undead,lawful evil
-Add,"WorgSourcesBasic, MM, SRD",Large,1/2 (Trivial),Monstrosity,neutral evil
-Add,"Copper Dragon WyrmlingSourcesMM, SRD",Medium,1 (Trivial),Dragon,chaotic good
-Add,"Death DogSourcesBasic, MM, SRD",Medium,1 (Trivial),Monstrosity,neutral evil
-Add,"Dire WolfSourcesBasic, MM, PHB, SRD",Large,1 (Trivial),Beast,unaligned
-Add,Faerie Dragon (orange)SourcesMM,Tiny,1 (Trivial),Dragon,chaotic good
-Add,Faerie Dragon (red)SourcesMM,Tiny,1 (Trivial),Dragon,chaotic good
-Add,Faerie Dragon (yellow)SourcesMM,Tiny,1 (Trivial),Dragon,chaotic good
-Add,"GhoulSourcesBasic, MM, SRD",Medium,1 (Trivial),Undead,chaotic evil
-Add,"Giant EagleSourcesBasic, MM, PHB, SRD",Large,1 (Trivial),Beast,neutral good
-Add,"Giant HyenaSourcesBasic, MM, SRD",Large,1 (Trivial),Beast,unaligned
-Add,"Giant SpiderSourcesBasic, HotDQ Sup, MM, PHB, SRD",Large,1 (Trivial),Beast,unaligned
-Add,"Giant VultureSourcesBasic, MM, SRD",Large,1 (Trivial),Beast,neutral evil
-Add,Goblin BossgoblinoidSourcesMM,Small,1 (Trivial),Humanoid,neutral evil
-Add,"Half-OgreSourcesMM, PotA Supp",Large,1 (Trivial),Giant,chaotic evil
-Add,"LionSourcesBasic, MM, PHB, SRD",Large,1 (Trivial),Beast,unaligned
-Add,ScarecrowSourcesMM,Medium,1 (Trivial),Construct,chaotic evil
-Add,"Spyany raceSourcesHotDQ Sup, MM, PotA Supp, SRD",Medium,1 (Trivial),Humanoid,any
-Add,Thri-kreenthri-kreenSourcesMM,Medium,1 (Trivial),Humanoid,chaotic neutral
-Add,"TigerSourcesBasic, MM, PHB, SRD",Large,1 (Trivial),Beast,unaligned
-Add,"AllosaurusSourcesBasic, MM",Large,2 (Trivial),Beast,unaligned
-Add,"AnkhegSourcesMM, PotA Supp, SRD",Large,2 (Trivial),Monstrosity,unaligned
-Add,"Bandit Captainany raceSourcesMM, PotA Supp, SRD",Medium,2 (Trivial),Humanoid,non-lawful
-Add,"Berserkerany raceSourcesBasic, HotDQ Sup, MM, SRD",Medium,2 (Trivial),Humanoid,any chaotic
-Add,"CentaurSourcesBasic, MM, SRD",Large,2 (Trivial),Monstrosity,neutral good
-Add,"Druidany raceSourcesMM, PotA Supp, SRD",Medium,2 (Trivial),Humanoid,any
-Add,Faerie Dragon (blue)SourcesMM,Tiny,2 (Trivial),Dragon,chaotic good
-Add,Faerie Dragon (green)SourcesMM,Tiny,2 (Trivial),Dragon,chaotic good
-Add,Faerie Dragon (indigo)SourcesMM,Tiny,2 (Trivial),Dragon,chaotic good
-Add,Faerie Dragon (violet)SourcesMM,Tiny,2 (Trivial),Dragon,chaotic good
-Add,"GhastSourcesMM, PotA Supp, SRD",Medium,2 (Trivial),Undead,chaotic evil
-Add,"Giant BoarSourcesBasic, MM, SRD",Large,2 (Trivial),Beast,unaligned
-Add,"Giant Constrictor SnakeSourcesBasic, MM, SRD",Huge,2 (Trivial),Beast,unaligned
-Add,"Giant ElkSourcesBasic, MM, SRD",Huge,2 (Trivial),Beast,unaligned
-Add,"Gnoll Pack LordgnollSourcesMM, PotA Supp",Medium,2 (Trivial),Humanoid,chaotic evil
-Add,"GriffonSourcesBasic, HotDQ Sup, MM, SRD",Large,2 (Trivial),Monstrosity,unaligned
-Add,"Lizardfolk ShamanlizardfolkSourcesMM, PotA Supp",Medium,2 (Trivial),Humanoid,neutral
-Add,"Orc Eye of GruumshorcSourcesMM, PotA Supp",Medium,2 (Trivial),Humanoid,chaotic evil
-Add,"OrogorcSourcesMM, PotA Supp",Medium,2 (Trivial),Humanoid,chaotic evil
-Add,"RhinocerosSourcesBasic, MM, SRD",Large,2 (Trivial),Beast,unaligned
-Add,"Saber-Toothed TigerSourcesBasic, MM",Large,2 (Trivial),Beast,unaligned
-Add,"Swarm of Poisonous SnakesswarmSourcesBasic, MM, SRD",Medium,2 (Trivial),Beast,unaligned
-Add,"AnkylosaurusSourcesBasic, MM",Huge,3 (Trivial),Beast,unaligned
-Add,"BasiliskSourcesBasic, MM, SRD",Medium,3 (Trivial),Monstrosity,unaligned
-Add,Displacer BeastSourcesMM,Large,3 (Trivial),Monstrosity,lawful evil
-Add,"Giant ScorpionSourcesBasic, MM, SRD",Large,3 (Trivial),Beast,unaligned
-Add,"Hobgoblin CaptaingoblinoidSourcesHotDQ Sup, MM, PotA Supp",Medium,3 (Trivial),Humanoid,lawful evil
-Add,"ManticoreSourcesBasic, MM, SRD",Large,3 (Trivial),Monstrosity,lawful evil
-Add,"Phase SpiderSourcesBasic, MM, SRD",Large,3 (Trivial),Monstrosity,unaligned
-Add,"WerewolfhumanshapechangerSourcesBasic, MM, SRD",Medium,3 (Trivial),Humanoid,chaotic evil
-Add,"WightSourcesBasic, MM, SRD",Medium,3 (Trivial),Undead,neutral evil
-Add,"Winter WolfSourcesBasic, MM, SRD",Large,3 (Trivial),Monstrosity,neutral evil
-Add,"ElephantSourcesBasic, MM, SRD",Huge,4 (Trivial),Beast,unaligned
-Add,"EttinSourcesMM, PotA Supp, SRD",Large,4 (Trivial),Giant,chaotic evil
-Add,Gnoll Fang of YeenoghugnollSourcesMM,Medium,4 (Trivial),Fiend,chaotic evil
-Add,"Lizard King/QueenlizardfolkSourcesMM, PotA Supp",Medium,4 (Trivial),Humanoid,chaotic evil
-Add,Orc War ChieforcSourcesMM,Medium,4 (Trivial),Humanoid,chaotic evil
-Add,"WereboarhumanshapechangerSourcesMM, PotA Supp, SRD",Medium,4 (Trivial),Humanoid,neutral evil
-Add to encounter,NAME,SIZE,CR,TYPE,ALIGNMENT
-Add,"Air ElementalSourcesBasic, HotDQ Sup, MM, SRD",Large,5 (Easy),Elemental,neutral
-Add,"BuletteSourcesMM, PotA Supp, SRD",Large,5 (Easy),Monstrosity,unaligned
-Add,"Earth ElementalSourcesBasic, MM, SRD",Large,5 (Easy),Elemental,neutral
-Add,"Fire ElementalSourcesBasic, MM, SRD",Large,5 (Easy),Elemental,neutral
-Add,Half-Red Dragon VeteranhumanSourcesMM,Medium,5 (Easy),Humanoid,any
-Add,"Hill GiantSourcesBasic, MM, SRD",Huge,5 (Easy),Giant,chaotic evil
-Add,"RevenantSourcesMM, PotA Supp",Medium,5 (Easy),Undead,neutral
-Add,"TriceratopsSourcesBasic, MM, SRD",Huge,5 (Easy),Beast,unaligned
-Add,"Water ElementalSourcesBasic, MM, SRD",Large,5 (Easy),Elemental,neutral
-Add,"CyclopsSourcesBasic, MM",Huge,6 (Easy),Giant,chaotic neutral
-Add,Hobgoblin WarlordgoblinoidSourcesMM,Medium,6 (Easy),Humanoid,lawful evil
-Add,"Invisible StalkerSourcesMM, PotA Supp, SRD",Medium,6 (Easy),Elemental,neutral
-Add,"WyvernSourcesBasic, HotDQ Sup, MM, SRD",Large,6 (Easy),Dragon,unaligned
-Add,"OniSourcesMM, PotA Supp, SRD",Large,7 (Medium),Giant,lawful evil
-Add,"Young Copper DragonSourcesMM, SRD",Large,7 (Medium),Dragon,chaotic good
-Add,"Assassinany raceSourcesHotDQ Sup, MM, PotA Supp, SRD",Medium,8 (Hard),Humanoid,non-good
-Add,"Tyrannosaurus RexSourcesBasic, MM, SRD",Huge,8 (Hard),Beast,unaligned
-Previous,,,,,
-12,,,,,
-Next,,,,,
+NAME,SIZE,CR,TYPE,ALIGNMENT
+Banditany race,Medium,1/8,Humanoid,non-lawful
+Blood Hawk,Small,1/8,Beast,unaligned
+Giant Rat,Small,1/8,Beast,unaligned
+Giant Weasel,Medium,1/8,Beast,unaligned
+Poisonous Snake,Tiny,1/8,Beast,unaligned
+Pony,Medium,1/8,Beast,unaligned
+Tribal Warriorany race,Medium,1/8,Humanoid,any
+Twig Blight,Small,1/8,Plant,neutral evil
+Acolyteany race,Medium,1/4,Humanoid,any
+Axe Beak,Large,1/4,Beast,unaligned
+Blink Dog,Medium,1/4,Fey,lawful good
+Boar,Medium,1/4,Beast,unaligned
+Elk,Large,1/4,Beast,unaligned
+Giant Badger,Medium,1/4,Beast,unaligned
+Giant Centipede,Small,1/4,Beast,unaligned
+Giant Lizard,Large,1/4,Beast,unaligned
+Giant Owl,Large,1/4,Beast,neutral
+Giant Poisonous Snake,Medium,1/4,Beast,unaligned
+Giant Wolf Spider,Medium,1/4,Beast,unaligned
+Goblin,Small,1/4,Humanoid,neutral evil
+Kenkukenku,Medium,1/4,Humanoid,chaotic neutral
+Needle Blight,Medium,1/4,Plant,neutral evil
+Pixie,Tiny,1/4,Fey,neutral good
+Sprite,Tiny,1/4,Fey,neutral good
+Swarm of Rats,Medium,1/4,Beast,unaligned
+Swarm of Ravens,Medium,1/4,Beast,unaligned
+Wolf,Medium,1/4,Beast,unaligned
+Zombie,Medium,1/4,Undead,neutral evil
+Black Bear,Medium,1/2,Beast,unaligned
+Cockatrice,Small,1/2,Monstrosity,unaligned
+Giant Goat,Large,1/2,Beast,unaligned
+Gnoll,Medium,1/2,Humanoid,chaotic evil
+Hobgoblin,Medium,1/2,Humanoid,lawful evil
+Jackalwere,Medium,1/2,Humanoid,chaotic evil
+Lizardfolk,Medium,1/2,Humanoid,neutral
+Orcorc,Medium,1/2,Humanoid,chaotic evil
+Satyr,Medium,1/2,Fey,chaotic neutral
+Scoutany race,Medium,1/2,Humanoid,any
+Swarm of Insects,Medium,1/2,Beast,unaligned
+Thugany race,Medium,1/2,Humanoid,non-good
+Vine Blight,Medium,1/2,Plant,neutral evil
+Warhorse,Large,1/2,Beast,unaligned
+Warhorse Skeleton,Large,1/2,Undead,lawful evil
+Worg,Large,1/2,Monstrosity,neutral evil
+Copper Dragon Wyrmling,Medium,1,Dragon,chaotic good
+Death Dog,Medium,1,Monstrosity,neutral evil
+Dire Wolf,Large,1,Beast,unaligned
+Faerie Dragon (orange),Tiny,1,Dragon,chaotic good
+Faerie Dragon (red),Tiny,1,Dragon,chaotic good
+Faerie Dragon (yellow),Tiny,1,Dragon,chaotic good
+Ghoul,Medium,1,Undead,chaotic evil
+Giant Eagle,Large,1,Beast,neutral good
+Giant Hyena,Large,1,Beast,unaligned
+Giant Spider,Large,1,Beast,unaligned
+Giant Vulture,Large,1,Beast,neutral evil
+Goblin Boss,Small,1,Humanoid,neutral evil
+Half-Ogre,Large,1,Giant,chaotic evil
+Lion,Large,1,Beast,unaligned
+Scarecrow,Medium,1,Construct,chaotic evil
+Spyany race,Medium,1,Humanoid,any
+Thri-kreen,Medium,1,Humanoid,chaotic neutral
+Tiger,Large,1,Beast,unaligned
+Allosaurus,Large,2,Beast,unaligned
+Ankheg,Large,2,Monstrosity,unaligned
+Bandit Captainany race,Medium,2,Humanoid,non-lawful
+Berserkerany race,Medium,2,Humanoid,any chaotic
+Centaur,Large,2,Monstrosity,neutral good
+Druidany race,Medium,2,Humanoid,any
+Faerie Dragon (blue),Tiny,2,Dragon,chaotic good
+Faerie Dragon (green),Tiny,2,Dragon,chaotic good
+Faerie Dragon (indigo),Tiny,2,Dragon,chaotic good
+Faerie Dragon (violet),Tiny,2,Dragon,chaotic good
+Ghast,Medium,2,Undead,chaotic evil
+Giant Boar,Large,2,Beast,unaligned
+Giant Constrictor Snake,Huge,2,Beast,unaligned
+Giant Elk,Huge,2,Beast,unaligned
+Gnoll Pack Lord,Medium,2,Humanoid,chaotic evil
+Griffon,Large,2,Monstrosity,unaligned
+Lizardfolk Shaman,Medium,2,Humanoid,neutral
+Orc Eye of Gruumshorc,Medium,2,Humanoid,chaotic evil
+Orogorc,Medium,2,Humanoid,chaotic evil
+Rhinoceros,Large,2,Beast,unaligned
+Saber-Toothed Tiger,Large,2,Beast,unaligned
+Swarm of Poisonous Snakes,Medium,2,Beast,unaligned
+Ankylosaurus,Huge,3,Beast,unaligned
+Basilisk,Medium,3,Monstrosity,unaligned
+Displacer Beast,Large,3,Monstrosity,lawful evil
+Giant Scorpion,Large,3,Beast,unaligned
+Hobgoblin Captain,Medium,3,Humanoid,lawful evil
+Manticore,Large,3,Monstrosity,lawful evil
+Phase Spider,Large,3,Monstrosity,unaligned
+Werewolf,Medium,3,Humanoid,chaotic evil
+Wight,Medium,3,Undead,neutral evil
+Winter Wolf,Large,3,Monstrosity,neutral evil
+Elephant,Huge,4,Beast,unaligned
+Ettin,Large,4,Giant,chaotic evil
+Gnoll Fang of Yeenoghu,Medium,4,Fiend,chaotic evil
+Lizard King/Queen,Medium,4,Humanoid,chaotic evil
+Orc War Chieforc,Medium,4,Humanoid,chaotic evil
+Wereboar,Medium,4,Humanoid,neutral evil
+Air Elemental,Large,5,Elemental,neutral
+Bulette,Large,5,Monstrosity,unaligned
+Earth Elemental,Large,5,Elemental,neutral
+Fire Elemental,Large,5,Elemental,neutral
+Half-Red Dragon Veteranhuman,Medium,5,Humanoid,any
+Hill Giant,Huge,5,Giant,chaotic evil
+Revenant,Medium,5,Undead,neutral
+Triceratops,Huge,5,Beast,unaligned
+Water Elemental,Large,5,Elemental,neutral
+Cyclops,Huge,6,Giant,chaotic neutral
+Hobgoblin Warlord,Medium,6,Humanoid,lawful evil
+Invisible Stalker,Medium,6,Elemental,neutral
+Wyvern,Large,6,Dragon,unaligned
+Oni,Large,7,Giant,lawful evil
+Young Copper Dragon,Large,7,Dragon,chaotic good
+Assassinany race,Medium,8,Humanoid,non-good
+Tyrannosaurus Rex,Huge,8,Beast,unaligned

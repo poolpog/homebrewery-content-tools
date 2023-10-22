@@ -1,51 +1,51 @@
 NAME,SIZE,CR,TYPE,ALIGNMENT
 Giant Rat,Small,1/8,Beast,unaligned
-Koboldkobold,Small,1/8,Humanoid,lawful evil
-Tribal Warriorany race,Medium,1/8,Humanoid,any
+Kobold,Small,1/8,Humanoid,lawful evil
+Tribal Warrior,Medium,1/8,Humanoid,any
 Giant Bat,Large,1/4,Beast,unaligned
 Giant Centipede,Small,1/4,Beast,unaligned
 Giant Lizard,Large,1/4,Beast,unaligned
 Giant Wolf Spider,Medium,1/4,Beast,unaligned
-Goblingoblinoid,Small,1/4,Humanoid,neutral evil
-Grimlockgrimlock,Medium,1/4,Humanoid,neutral evil
-Swarm of Batsswarm,Medium,1/4,Beast,unaligned
-Swarm of Ratsswarm,Medium,1/4,Beast,unaligned
-Troglodytetroglodyte,Medium,1/4,Humanoid,chaotic evil
+Goblin,Small,1/4,Humanoid,neutral evil
+Grimlock,Medium,1/4,Humanoid,neutral evil
+Swarm of Bats,Medium,1/4,Beast,unaligned
+Swarm of Rats,Medium,1/4,Beast,unaligned
+Troglodyte,Medium,1/4,Humanoid,chaotic evil
 Violet Fungus,Medium,1/4,Plant,unaligned
 Wolf,Medium,1/4,Beast,unaligned
 Zombie,Medium,1/4,Undead,neutral evil
 Black Bear,Medium,1/2,Beast,unaligned
 Darkmantle,Small,1/2,Monstrosity,unaligned
-Deep Gnomegnome,Small,1/2 (Trivial),Humanoid,neutral good
+Deep Gnome,Small,1/2 (Trivial),Humanoid,neutral good
 Gas Spore,Large,1/2,Plant,unaligned
-Gnollgnoll,Medium,1/2,Humanoid,chaotic evil
+Gnoll,Medium,1/2,Humanoid,chaotic evil
 Magma Mephit,Small,1/2,Elemental,neutral evil
 Piercer,Medium,1/2,Monstrosity,unaligned
-Swarm of Insectsswarm,Medium,1/2,Beast,unaligned
-Thugany race,Medium,1/2,Humanoid,non-good
+Swarm of Insects,Medium,1/2,Beast,unaligned
+Thug,Medium,1/2,Humanoid,non-good
 Worg,Large,1/2,Monstrosity,neutral evil
 Brass Dragon Wyrmling,Medium,1,Dragon,chaotic good
 Brown Bear,Large,1,Beast,unaligned
-Bugbeargoblinoid,Medium,1,Humanoid,chaotic evil
+Bugbear,Medium,1,Humanoid,chaotic evil
 Copper Dragon Wyrmling,Medium,1,Dragon,chaotic good
 Dire Wolf,Large,1,Beast,unaligned
 Ghoul,Medium,1,Undead,chaotic evil
 Giant Spider,Large,1,Beast,unaligned
-Goblin Bossgoblinoid,Small,1,Humanoid,neutral evil
-Spyany race,Medium,1,Humanoid,any
-Berserkerany race,Medium,2,Humanoid,any chaotic
+Goblin Boss,Small,1,Humanoid,neutral evil
+Spy,Medium,1,Humanoid,any
+Berserker,Medium,2,Humanoid,any chaotic
 Carrion Crawler,Large,2,Monstrosity,unaligned
-Druidany race,Medium,2,Humanoid,any
+Druid,Medium,2,Humanoid,any
 Ettercap,Medium,2,Monstrosity,neutral evil
 Ghast,Medium,2,Undead,chaotic evil
 Gibbering Mouther,Medium,2,Aberration,neutral
-Gnoll Pack Lordgnoll,Medium,2,Humanoid,chaotic evil
+Gnoll Pack Lord,Medium,2,Humanoid,chaotic evil
 Grick,Medium,2,Monstrosity,neutral
 Polar Bear,Large,2,Beast,unaligned
-Wererathumanshapechanger,Medium,2,Humanoid,lawful evil
+Wererat,Medium,2,Humanoid,lawful evil
 White Dragon Wyrmling,Medium,2,Dragon,chaotic evil
 Basilisk,Medium,3,Monstrosity,unaligned
-Bugbear Chiefgoblinoid,Medium,3,Humanoid,chaotic evil
+Bugbear Chief,Medium,3,Humanoid,chaotic evil
 Giant Scorpion,Large,3,Beast,unaligned
 Manticore,Large,3,Monstrosity,lawful evil
 Minotaur,Large,3,Monstrosity,chaotic evil
@@ -57,7 +57,7 @@ Winter Wolf,Large,3,Monstrosity,neutral evil
 Yeti,Large,3,Monstrosity,chaotic evil
 Ettin,Large,4,Giant,chaotic evil
 Ghost,Medium,4,Undead,any
-Gnoll Fang of Yeenoghugnoll,Medium,4,Fiend,chaotic evil
+Gnoll Fang of Yeenoghu,Medium,4,Fiend,chaotic evil
 Air Elemental,Large,5,Elemental,neutral
 Beholder Zombie,Large,5,Undead,neutral evil
 Bulette,Large,5,Monstrosity,unaligned
@@ -69,7 +69,7 @@ Roper,Large,5,Monstrosity,neutral evil
 Troll,Large,5,Giant,chaotic evil
 Umber Hulk,Large,5,Monstrosity,chaotic evil
 Water Elemental,Large,5,Elemental,neutral
-Werebearhumanshapechanger,Medium,5,Humanoid,neutral good
+Werebear,Medium,5,Humanoid,neutral good
 Young Remorhaz,Large,5,Monstrosity,unaligned
 Cyclops,Huge,6,Giant,chaotic neutral
 Galeb Duhr,Medium,6,Elemental,neutral
@@ -80,7 +80,7 @@ Young White Dragon,Large,6,Dragon,chaotic evil
 Grick Alpha,Large,7,Monstrosity,neutral
 Stone Giant,Huge,7,Giant,neutral
 Young Copper Dragon,Large,7,Dragon,chaotic good
-Assassinany race,Medium,8,Humanoid,non-good
+Assassin,Medium,8,Humanoid,non-good
 Cloaker,Large,8,Aberration,chaotic neutral
 Fomorian,Huge,8,Giant,chaotic evil
 Hydra,Huge,8,Monstrosity,unaligned

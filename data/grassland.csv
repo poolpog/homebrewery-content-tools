@@ -1,13 +1,13 @@
 NAME,SIZE,CR,TYPE,ALIGNMENT
-Banditany race,Medium,1/8,Humanoid,non-lawful
+Bandit,Medium,1/8,Humanoid,non-lawful
 Blood Hawk,Small,1/8,Beast,unaligned
 Giant Rat,Small,1/8,Beast,unaligned
 Giant Weasel,Medium,1/8,Beast,unaligned
 Poisonous Snake,Tiny,1/8,Beast,unaligned
 Pony,Medium,1/8,Beast,unaligned
-Tribal Warriorany race,Medium,1/8,Humanoid,any
+Tribal Warrior,Medium,1/8,Humanoid,any
 Twig Blight,Small,1/8,Plant,neutral evil
-Acolyteany race,Medium,1/4,Humanoid,any
+Acolyte,Medium,1/4,Humanoid,any
 Axe Beak,Large,1/4,Beast,unaligned
 Blink Dog,Medium,1/4,Fey,lawful good
 Boar,Medium,1/4,Beast,unaligned
@@ -18,27 +18,27 @@ Giant Lizard,Large,1/4,Beast,unaligned
 Giant Owl,Large,1/4,Beast,neutral
 Giant Poisonous Snake,Medium,1/4,Beast,unaligned
 Giant Wolf Spider,Medium,1/4,Beast,unaligned
-Goblingoblinoid,Small,1/4,Humanoid,neutral evil
+Goblin,Small,1/4,Humanoid,neutral evil
 Kenkukenku,Medium,1/4,Humanoid,chaotic neutral
 Needle Blight,Medium,1/4,Plant,neutral evil
 Pixie,Tiny,1/4,Fey,neutral good
 Sprite,Tiny,1/4,Fey,neutral good
-Swarm of Ratsswarm,Medium,1/4,Beast,unaligned
-Swarm of Ravensswarm,Medium,1/4,Beast,unaligned
+Swarm of Rats,Medium,1/4,Beast,unaligned
+Swarm of Ravens,Medium,1/4,Beast,unaligned
 Wolf,Medium,1/4,Beast,unaligned
 Zombie,Medium,1/4,Undead,neutral evil
 Black Bear,Medium,1/2,Beast,unaligned
 Cockatrice,Small,1/2,Monstrosity,unaligned
 Giant Goat,Large,1/2,Beast,unaligned
-Gnollgnoll,Medium,1/2,Humanoid,chaotic evil
-Hobgoblingoblinoid,Medium,1/2,Humanoid,lawful evil
-Jackalwereshapechanger,Medium,1/2,Humanoid,chaotic evil
-Lizardfolklizardfolk,Medium,1/2,Humanoid,neutral
+Gnoll,Medium,1/2,Humanoid,chaotic evil
+Hobgoblin,Medium,1/2,Humanoid,lawful evil
+Jackalwere,Medium,1/2,Humanoid,chaotic evil
+Lizardfolk,Medium,1/2,Humanoid,neutral
 Orcorc,Medium,1/2,Humanoid,chaotic evil
 Satyr,Medium,1/2,Fey,chaotic neutral
-Scoutany race,Medium,1/2,Humanoid,any
-Swarm of Insectsswarm,Medium,1/2,Beast,unaligned
-Thugany race,Medium,1/2,Humanoid,non-good
+Scout,Medium,1/2,Humanoid,any
+Swarm of Insects,Medium,1/2,Beast,unaligned
+Thug,Medium,1/2,Humanoid,non-good
 Vine Blight,Medium,1/2,Plant,neutral evil
 Warhorse,Large,1/2,Beast,unaligned
 Warhorse Skeleton,Large,1/2,Undead,lawful evil
@@ -54,19 +54,19 @@ Giant Eagle,Large,1,Beast,neutral good
 Giant Hyena,Large,1,Beast,unaligned
 Giant Spider,Large,1,Beast,unaligned
 Giant Vulture,Large,1,Beast,neutral evil
-Goblin Bossgoblinoid,Small,1,Humanoid,neutral evil
+Goblin Boss,Small,1,Humanoid,neutral evil
 Half-Ogre,Large,1,Giant,chaotic evil
 Lion,Large,1,Beast,unaligned
 Scarecrow,Medium,1,Construct,chaotic evil
-Spyany race,Medium,1,Humanoid,any
-Thri-kreenthri-kreen,Medium,1,Humanoid,chaotic neutral
+Spy,Medium,1,Humanoid,any
+Thri-kreen,Medium,1,Humanoid,chaotic neutral
 Tiger,Large,1,Beast,unaligned
 Allosaurus,Large,2,Beast,unaligned
 Ankheg,Large,2,Monstrosity,unaligned
-Bandit Captainany race,Medium,2,Humanoid,non-lawful
-Berserkerany race,Medium,2,Humanoid,any chaotic
+Bandit Captain,Medium,2,Humanoid,non-lawful
+Berserker,Medium,2,Humanoid,any chaotic
 Centaur,Large,2,Monstrosity,neutral good
-Druidany race,Medium,2,Humanoid,any
+Druid,Medium,2,Humanoid,any
 Faerie Dragon (blue),Tiny,2,Dragon,chaotic good
 Faerie Dragon (green),Tiny,2,Dragon,chaotic good
 Faerie Dragon (indigo),Tiny,2,Dragon,chaotic good
@@ -75,30 +75,30 @@ Ghast,Medium,2,Undead,chaotic evil
 Giant Boar,Large,2,Beast,unaligned
 Giant Constrictor Snake,Huge,2,Beast,unaligned
 Giant Elk,Huge,2,Beast,unaligned
-Gnoll Pack Lordgnoll,Medium,2,Humanoid,chaotic evil
+Gnoll Pack Lord,Medium,2,Humanoid,chaotic evil
 Griffon,Large,2,Monstrosity,unaligned
-Lizardfolk Shamanlizardfolk,Medium,2,Humanoid,neutral
+Lizardfolk Shaman,Medium,2,Humanoid,neutral
 Orc Eye of Gruumshorc,Medium,2,Humanoid,chaotic evil
 Orogorc,Medium,2,Humanoid,chaotic evil
 Rhinoceros,Large,2,Beast,unaligned
 Saber-Toothed Tiger,Large,2,Beast,unaligned
-Swarm of Poisonous Snakesswarm,Medium,2,Beast,unaligned
+Swarm of Poisonous Snakes,Medium,2,Beast,unaligned
 Ankylosaurus,Huge,3,Beast,unaligned
 Basilisk,Medium,3,Monstrosity,unaligned
 Displacer Beast,Large,3,Monstrosity,lawful evil
 Giant Scorpion,Large,3,Beast,unaligned
-Hobgoblin Captaingoblinoid,Medium,3,Humanoid,lawful evil
+Hobgoblin Captain,Medium,3,Humanoid,lawful evil
 Manticore,Large,3,Monstrosity,lawful evil
 Phase Spider,Large,3,Monstrosity,unaligned
-Werewolfhumanshapechanger,Medium,3,Humanoid,chaotic evil
+Werewolf,Medium,3,Humanoid,chaotic evil
 Wight,Medium,3,Undead,neutral evil
 Winter Wolf,Large,3,Monstrosity,neutral evil
 Elephant,Huge,4,Beast,unaligned
 Ettin,Large,4,Giant,chaotic evil
-Gnoll Fang of Yeenoghugnoll,Medium,4,Fiend,chaotic evil
-Lizard King/Queenlizardfolk,Medium,4,Humanoid,chaotic evil
+Gnoll Fang of Yeenoghu,Medium,4,Fiend,chaotic evil
+Lizard King/Queen,Medium,4,Humanoid,chaotic evil
 Orc War Chieforc,Medium,4,Humanoid,chaotic evil
-Wereboarhumanshapechanger,Medium,4,Humanoid,neutral evil
+Wereboar,Medium,4,Humanoid,neutral evil
 Air Elemental,Large,5,Elemental,neutral
 Bulette,Large,5,Monstrosity,unaligned
 Earth Elemental,Large,5,Elemental,neutral
@@ -109,10 +109,10 @@ Revenant,Medium,5,Undead,neutral
 Triceratops,Huge,5,Beast,unaligned
 Water Elemental,Large,5,Elemental,neutral
 Cyclops,Huge,6,Giant,chaotic neutral
-Hobgoblin Warlordgoblinoid,Medium,6,Humanoid,lawful evil
+Hobgoblin Warlord,Medium,6,Humanoid,lawful evil
 Invisible Stalker,Medium,6,Elemental,neutral
 Wyvern,Large,6,Dragon,unaligned
 Oni,Large,7,Giant,lawful evil
 Young Copper Dragon,Large,7,Dragon,chaotic good
-Assassinany race,Medium,8,Humanoid,non-good
+Assassin,Medium,8,Humanoid,non-good
 Tyrannosaurus Rex,Huge,8,Beast,unaligned

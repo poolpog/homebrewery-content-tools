@@ -1,142 +1,141 @@
-Add to encounter,NAME,SIZE,CR,TYPE,ALIGNMENT
-Add,"Cultistany raceSourcesBasic, HotDQ Sup, MM, SRD",Medium,1/8 (Trivial),Humanoid,non-good
-Add,FlumphSourcesMM,Small,1/8 (Trivial),Aberration,lawful good
-Add,"Giant RatSourcesBasic, MM, SRD",Small,1/8 (Trivial),Beast,unaligned
-Add,"KoboldkoboldSourcesBasic, HotDQ Sup, MM, SRD",Small,1/8 (Trivial),Humanoid,lawful evil
-Add,ManesdemonSourcesMM,Small,1/8 (Trivial),Fiend,chaotic evil
-Add,"Acolyteany raceSourcesBasic, HotDQ Sup, MM, SRD",Medium,1/4 (Trivial),Humanoid,any
-Add,"DretchdemonSourcesMM, SRD",Small,1/4 (Trivial),Fiend,chaotic evil
-Add,"DrowelfSourcesMM, SRD",Medium,1/4 (Trivial),Humanoid,neutral evil
-Add,"Flying SwordSourcesBasic, MM, SRD",Small,1/4 (Trivial),Construct,unaligned
-Add,"Giant BatSourcesBasic, MM, SRD",Large,1/4 (Trivial),Beast,unaligned
-Add,"Giant CentipedeSourcesBasic, HotDQ Sup, MM, SRD",Small,1/4 (Trivial),Beast,unaligned
-Add,"Giant LizardSourcesBasic, HotDQ Sup, MM, SRD",Large,1/4 (Trivial),Beast,unaligned
-Add,"Giant Wolf SpiderSourcesBasic, MM, SRD",Medium,1/4 (Trivial),Beast,unaligned
-Add,"GoblingoblinoidSourcesBasic, MM, SRD",Small,1/4 (Trivial),Humanoid,neutral evil
-Add,"GrimlockgrimlockSourcesMM, SRD",Medium,1/4 (Trivial),Humanoid,neutral evil
-Add,"Mud MephitSourcesMM, PotA Supp",Small,1/4 (Trivial),Elemental,neutral evil
-Add,"SkeletonSourcesBasic, MM, PHB, SRD",Medium,1/4 (Trivial),Undead,lawful evil
-Add,"Smoke MephitSourcesMM, PotA Supp",Small,1/4 (Trivial),Elemental,neutral evil
-Add,"Steam MephitSourcesMM, PotA Supp, SRD",Small,1/4 (Trivial),Elemental,neutral evil
-Add,"Swarm of BatsswarmSourcesBasic, MM, SRD",Medium,1/4 (Trivial),Beast,unaligned
-Add,"Swarm of RatsswarmSourcesBasic, HotDQ Sup, MM, SRD",Medium,1/4 (Trivial),Beast,unaligned
-Add,"TroglodytetroglodyteSourcesHotDQ Sup, MM, PotA Supp",Medium,1/4 (Trivial),Humanoid,chaotic evil
-Add,"Violet FungusSourcesHotDQ Sup, MM, PotA Supp, SRD",Medium,1/4 (Trivial),Plant,unaligned
-Add,"ZombieSourcesBasic, MM, PHB, SRD",Medium,1/4 (Trivial),Undead,neutral evil
-Add,"Deep Gnome (Svirfneblin)gnomeSourcesMM, PotA Supp",Small,1/2 (Trivial),Humanoid,neutral good
-Add,"Dust MephitSourcesMM, PotA Supp, SRD",Small,1/2 (Trivial),Elemental,neutral evil
-Add,Gas SporeSourcesMM,Large,1/2 (Trivial),Plant,unaligned
-Add,"GnollgnollSourcesBasic, MM, SRD",Medium,1/2 (Trivial),Humanoid,chaotic evil
-Add,"Gray OozeSourcesHotDQ Sup, MM, SRD",Medium,1/2 (Trivial),Ooze,unaligned
-Add,"Ice MephitSourcesMM, PotA Supp, SRD",Small,1/2 (Trivial),Elemental,neutral evil
-Add,"LizardfolklizardfolkSourcesBasic, HotDQ Sup, MM, SRD",Medium,1/2 (Trivial),Humanoid,neutral
-Add,"Magma MephitSourcesMM, PotA Supp, SRD",Small,1/2 (Trivial),Elemental,neutral evil
-Add,"MagminSourcesMM, PotA Supp, SRD",Small,1/2 (Trivial),Elemental,chaotic neutral
-Add,"OrcorcSourcesBasic, HotDQ Sup, MM, SRD",Medium,1/2 (Trivial),Humanoid,chaotic evil
-Add,"Rust MonsterSourcesMM, PotA Supp, SRD",Medium,1/2 (Trivial),Monstrosity,unaligned
-Add,"ShadowSourcesMM, PotA Supp, SRD",Medium,1/2 (Trivial),Undead,chaotic evil
-Add,"Swarm of InsectsswarmSourcesBasic, HotDQ Sup, MM, SRD",Medium,1/2 (Trivial),Beast,unaligned
-Add,"Animated ArmorSourcesBasic, MM, SRD",Medium,1 (Trivial),Construct,unaligned
-Add,"BugbeargoblinoidSourcesBasic, MM, SRD",Medium,1 (Trivial),Humanoid,chaotic evil
-Add,"DuergardwarfSourcesMM, PotA Supp, SRD",Medium,1 (Trivial),Humanoid,lawful evil
-Add,"GhoulSourcesBasic, MM, SRD",Medium,1 (Trivial),Undead,chaotic evil
-Add,"Giant SpiderSourcesBasic, HotDQ Sup, MM, PHB, SRD",Large,1 (Trivial),Beast,unaligned
-Add,Goblin BossgoblinoidSourcesMM,Small,1 (Trivial),Humanoid,neutral evil
-Add,"Half-OgreSourcesMM, PotA Supp",Large,1 (Trivial),Giant,chaotic evil
-Add,"ImpdevilshapechangerSourcesMM, PHB, SRD",Tiny,1 (Trivial),Fiend,lawful evil
-Add,"QuasitdemonshapechangerSourcesMM, PHB, SRD",Tiny,1 (Trivial),Fiend,chaotic evil
-Add,"SpecterSourcesHotDQ Sup, MM, PotA Supp, SRD",Medium,1 (Trivial),Undead,chaotic evil
-Add,Carrion CrawlerSourcesMM,Large,2 (Trivial),Monstrosity,unaligned
-Add,"Cult Fanaticany raceSourcesMM, PotA Supp, SRD",Medium,2 (Trivial),Humanoid,non-good
-Add,"EttercapSourcesHotDQ Sup, MM, SRD",Medium,2 (Trivial),Monstrosity,neutral evil
-Add,"GargoyleSourcesBasic, HotDQ Sup, MM, SRD",Medium,2 (Trivial),Elemental,chaotic evil
-Add,"Gelatinous CubeSourcesMM, SRD",Large,2 (Trivial),Ooze,unaligned
-Add,"GhastSourcesMM, PotA Supp, SRD",Medium,2 (Trivial),Undead,chaotic evil
-Add,"Gibbering MoutherSourcesMM, SRD",Medium,2 (Trivial),Aberration,neutral
-Add,"Gnoll Pack LordgnollSourcesMM, PotA Supp",Medium,2 (Trivial),Humanoid,chaotic evil
-Add,"GrickSourcesBasic, MM, SRD",Medium,2 (Trivial),Monstrosity,neutral
-Add,Intellect DevourerSourcesMM,Tiny,2 (Trivial),Aberration,lawful evil
-Add,"Lizardfolk ShamanlizardfolkSourcesMM, PotA Supp",Medium,2 (Trivial),Humanoid,neutral
-Add,"MimicshapechangerSourcesMM, SRD",Medium,2 (Trivial),Monstrosity,neutral
-Add,"Minotaur SkeletonSourcesMM, SRD",Large,2 (Trivial),Undead,lawful evil
-Add,"NothicSourcesBasic, MM",Medium,2 (Trivial),Aberration,neutral evil
-Add,"Ochre JellySourcesBasic, MM, SRD",Large,2 (Trivial),Ooze,unaligned
-Add,"OgreSourcesBasic, HotDQ Sup, MM, SRD",Large,2 (Trivial),Giant,chaotic evil
-Add,"Ogre ZombieSourcesMM, SRD",Large,2 (Trivial),Undead,neutral evil
-Add,"Orc Eye of GruumshorcSourcesMM, PotA Supp",Medium,2 (Trivial),Humanoid,chaotic evil
-Add,"OrogorcSourcesMM, PotA Supp",Medium,2 (Trivial),Humanoid,chaotic evil
-Add,PoltergeistSourcesMM,Medium,2 (Trivial),Undead,chaotic evil
-Add,QuaggothquaggothSourcesMM,Medium,2 (Trivial),Humanoid,chaotic neutral
-Add,"Rug of SmotheringSourcesHotDQ Sup, MM, SRD",Large,2 (Trivial),Construct,unaligned
-Add,Spined DevildevilSourcesMM,Small,2 (Trivial),Fiend,lawful evil
-Add,"Swarm of Poisonous SnakesswarmSourcesBasic, MM, SRD",Medium,2 (Trivial),Beast,unaligned
-Add,"WererathumanshapechangerSourcesMM, SRD",Medium,2 (Trivial),Humanoid,lawful evil
-Add,"BasiliskSourcesBasic, MM, SRD",Medium,3 (Trivial),Monstrosity,unaligned
-Add,"Bearded DevildevilSourcesMM, SRD",Medium,3 (Trivial),Fiend,lawful evil
-Add,Bugbear ChiefgoblinoidSourcesMM,Medium,3 (Trivial),Humanoid,chaotic evil
-Add,"DoppelgangershapechangerSourcesBasic, HotDQ Sup, MM, SRD",Medium,3 (Trivial),Monstrosity,neutral
-Add,"Giant ScorpionSourcesBasic, MM, SRD",Large,3 (Trivial),Beast,unaligned
-Add,"GrellSourcesMM, PotA Supp",Medium,3 (Trivial),Aberration,neutral evil
-Add,"Hell HoundSourcesBasic, MM, SRD",Medium,3 (Trivial),Fiend,lawful evil
-Add,"Hook HorrorSourcesMM, PotA Supp",Large,3 (Trivial),Monstrosity,neutral
-Add,"MinotaurSourcesBasic, MM, SRD",Large,3 (Trivial),Monstrosity,chaotic evil
-Add,"MummySourcesBasic, MM, SRD",Medium,3 (Trivial),Undead,lawful evil
-Add,"Phase SpiderSourcesBasic, MM, SRD",Large,3 (Trivial),Monstrosity,unaligned
-Add,Quaggoth ThonotquaggothSourcesMM,Medium,3 (Trivial),Humanoid,chaotic neutral
-Add,"SpectatorSourcesBasic, MM",Medium,3 (Trivial),Aberration,lawful neutral
-Add,"WerewolfhumanshapechangerSourcesBasic, MM, SRD",Medium,3 (Trivial),Humanoid,chaotic evil
-Add,"WightSourcesBasic, MM, SRD",Medium,3 (Trivial),Undead,neutral evil
-Add,"BansheeSourcesBasic, MM",Medium,4 (Trivial),Undead,chaotic evil
-Add,"Black PuddingSourcesMM, PotA Supp, SRD",Large,4 (Trivial),Ooze,unaligned
-Add,Bone NagaSourcesMM,Large,4 (Trivial),Undead,lawful evil
-Add,"FlameskullSourcesBasic, MM",Tiny,4 (Trivial),Undead,neutral evil
-Add,"GhostSourcesBasic, MM, SRD",Medium,4 (Trivial),Undead,any
-Add,Gnoll Fang of YeenoghugnollSourcesMM,Medium,4 (Trivial),Fiend,chaotic evil
-Add,"Helmed HorrorSourcesHotDQ Sup, MM, PotA Supp",Medium,4 (Trivial),Construct,neutral
-Add,"Lizard King/QueenlizardfolkSourcesMM, PotA Supp",Medium,4 (Trivial),Humanoid,chaotic evil
-Add,Orc War ChieforcSourcesMM,Medium,4 (Trivial),Humanoid,chaotic evil
-Add,"Shadow DemondemonSourcesMM, PotA Supp",Medium,4 (Trivial),Fiend,chaotic evil
-Add,"Succubus/IncubusshapechangerSourcesMM, SRD",Medium,4 (Trivial),Fiend,neutral evil
-Add,"Air ElementalSourcesBasic, HotDQ Sup, MM, SRD",Large,5 (Easy),Elemental,neutral
-Add,"Barbed DevildevilSourcesMM, SRD",Medium,5 (Easy),Fiend,lawful evil
-Add to encounter,NAME,SIZE,CR,TYPE,ALIGNMENT
-Add,"BarlgurademonSourcesMM, PotA Supp",Large,5 (Easy),Fiend,chaotic evil
-Add,Beholder ZombieSourcesMM,Large,5 (Easy),Undead,neutral evil
-Add,CambionSourcesMM,Medium,5 (Easy),Fiend,any evil
-Add,Drow Elite WarriorelfSourcesMM,Medium,5 (Easy),Humanoid,neutral evil
-Add,"Earth ElementalSourcesBasic, MM, SRD",Large,5 (Easy),Elemental,neutral
-Add,"Fire ElementalSourcesBasic, MM, SRD",Large,5 (Easy),Elemental,neutral
-Add,"Flesh GolemSourcesBasic, MM, SRD",Medium,5 (Easy),Construct,unaligned
-Add,"MezzolothyugolothSourcesMM, PotA Supp",Medium,5 (Easy),Fiend,neutral evil
-Add,"OtyughSourcesHotDQ Sup, MM, SRD",Large,5 (Easy),Aberration,neutral
-Add,"RevenantSourcesMM, PotA Supp",Medium,5 (Easy),Undead,neutral
-Add,"TrollSourcesBasic, HotDQ Sup, MM, SRD",Large,5 (Easy),Giant,chaotic evil
-Add,"Vampire SpawnSourcesHotDQ Sup, MM, PotA Supp, SRD",Medium,5 (Easy),Undead,neutral evil
-Add,"Water ElementalSourcesBasic, MM, SRD",Large,5 (Easy),Elemental,neutral
-Add,"WraithSourcesMM, SRD",Medium,5 (Easy),Undead,neutral evil
-Add,"XornSourcesMM, PotA Supp, SRD",Medium,5 (Easy),Elemental,neutral
-Add,ChasmedemonSourcesMM,Large,6 (Easy),Fiend,chaotic evil
-Add,"DriderSourcesMM, SRD",Large,6 (Easy),Monstrosity,chaotic evil
-Add,"Galeb DuhrSourcesMM, PotA Supp",Medium,6 (Easy),Elemental,neutral
-Add,"Invisible StalkerSourcesMM, PotA Supp, SRD",Medium,6 (Easy),Elemental,neutral
-Add,"MedusaSourcesBasic, MM, SRD",Medium,6 (Easy),Monstrosity,lawful evil
-Add,"VrockdemonSourcesMM, PotA Supp, SRD",Large,6 (Easy),Fiend,chaotic evil
-Add,"Drow MageelfSourcesMM, PotA Supp",Medium,7 (Medium),Humanoid,neutral evil
-Add,Grick AlphaSourcesMM,Large,7 (Medium),Monstrosity,neutral
-Add,Mind FlayerSourcesMM,Medium,7 (Medium),Aberration,lawful evil
-Add,"OniSourcesMM, PotA Supp, SRD",Large,7 (Medium),Giant,lawful evil
-Add,"Shield GuardianSourcesMM, PotA Supp, SRD",Large,7 (Medium),Construct,unaligned
-Add,"Assassinany raceSourcesHotDQ Sup, MM, PotA Supp, SRD",Medium,8 (Hard),Humanoid,non-good
-Add,"Chain DevildevilSourcesMM, SRD",Medium,8 (Hard),Fiend,lawful evil
-Add,"CloakerSourcesMM, PotA Supp, SRD",Large,8 (Hard),Aberration,chaotic neutral
-Add,Drow Priestess of LolthelfSourcesMM,Medium,8 (Hard),Humanoid,neutral evil
-Add,"HezroudemonSourcesMM, PotA Supp, SRD",Large,8 (Hard),Fiend,chaotic evil
-Add,"HydraSourcesBasic, MM, SRD",Huge,8 (Hard),Monstrosity,unaligned
-Add,Mind Flayer ArcanistSourcesMM,Medium,8 (Hard),Aberration,lawful evil
-Add,"Spirit NagaSourcesMM, SRD",Large,8 (Hard),Monstrosity,chaotic evil
-Add,"Bone DevildevilSourcesMM, SRD",Large,9 (Hard),Fiend,lawful evil
-Add,"Clay GolemSourcesMM, SRD",Large,9 (Hard),Construct,unaligned
-Add,"GlabrezudemonSourcesMM, SRD",Large,9 (Hard),Fiend,chaotic evil
-Add,"NycalothyugolothSourcesMM, PotA Supp",Large,9 (Hard),Fiend,neutral evil
-Add,"Stone GolemSourcesBasic, HotDQ Sup, MM, SRD",Large,10 (Deadly),Construct,unaligned
-Add,YochloldemonshapechangerSourcesMM,Medium,10 (Deadly),Fiend,chaotic evil
+NAME,SIZE,CR,TYPE,ALIGNMENT
+Cultistany race,Medium,1/8,Humanoid,non-good
+Flumph,Small,1/8,Aberration,lawful good
+Giant Rat,Small,1/8,Beast,unaligned
+Kobold,Small,1/8,Humanoid,lawful evil
+Manes,Small,1/8,Fiend,chaotic evil
+Acolyteany race,Medium,1/4,Humanoid,any
+Dretch,Small,1/4,Fiend,chaotic evil
+Drowelf,Medium,1/4,Humanoid,neutral evil
+Flying Sword,Small,1/4,Construct,unaligned
+Giant Bat,Large,1/4,Beast,unaligned
+Giant Centipede,Small,1/4,Beast,unaligned
+Giant Lizard,Large,1/4,Beast,unaligned
+Giant Wolf Spider,Medium,1/4,Beast,unaligned
+Goblin,Small,1/4,Humanoid,neutral evil
+Grimlock,Medium,1/4,Humanoid,neutral evil
+Mud Mephit,Small,1/4,Elemental,neutral evil
+Skeleton,Medium,1/4,Undead,lawful evil
+Smoke Mephit,Small,1/4,Elemental,neutral evil
+Steam Mephit,Small,1/4,Elemental,neutral evil
+Swarm of Bats,Medium,1/4,Beast,unaligned
+Swarm of Rats,Medium,1/4,Beast,unaligned
+Troglodyte,Medium,1/4,Humanoid,chaotic evil
+Violet Fungus,Medium,1/4,Plant,unaligned
+Zombie,Medium,1/4,Undead,neutral evil
+Deep Gnome,Small,1/2 (Trivial),Humanoid,neutral good
+Dust Mephit,Small,1/2,Elemental,neutral evil
+Gas Spore,Large,1/2,Plant,unaligned
+Gnoll,Medium,1/2,Humanoid,chaotic evil
+Gray Ooze,Medium,1/2,Ooze,unaligned
+Ice Mephit,Small,1/2,Elemental,neutral evil
+Lizardfolk,Medium,1/2,Humanoid,neutral
+Magma Mephit,Small,1/2,Elemental,neutral evil
+Magmin,Small,1/2,Elemental,chaotic neutral
+Orcorc,Medium,1/2,Humanoid,chaotic evil
+Rust Monster,Medium,1/2,Monstrosity,unaligned
+Shadow,Medium,1/2,Undead,chaotic evil
+Swarm of Insects,Medium,1/2,Beast,unaligned
+Animated Armor,Medium,1,Construct,unaligned
+Bugbear,Medium,1,Humanoid,chaotic evil
+Duergar,Medium,1,Humanoid,lawful evil
+Ghoul,Medium,1,Undead,chaotic evil
+Giant Spider,Large,1,Beast,unaligned
+Goblin Boss,Small,1,Humanoid,neutral evil
+Half-Ogre,Large,1,Giant,chaotic evil
+Imp,Tiny,1,Fiend,lawful evil
+Quasit,Tiny,1,Fiend,chaotic evil
+Specter,Medium,1,Undead,chaotic evil
+Carrion Crawler,Large,2,Monstrosity,unaligned
+Cult Fanaticany race,Medium,2,Humanoid,non-good
+Ettercap,Medium,2,Monstrosity,neutral evil
+Gargoyle,Medium,2,Elemental,chaotic evil
+Gelatinous Cube,Large,2,Ooze,unaligned
+Ghast,Medium,2,Undead,chaotic evil
+Gibbering Mouther,Medium,2,Aberration,neutral
+Gnoll Pack Lord,Medium,2,Humanoid,chaotic evil
+Grick,Medium,2,Monstrosity,neutral
+Intellect Devourer,Tiny,2,Aberration,lawful evil
+Lizardfolk Shaman,Medium,2,Humanoid,neutral
+Mimic,Medium,2,Monstrosity,neutral
+Minotaur Skeleton,Large,2,Undead,lawful evil
+Nothic,Medium,2,Aberration,neutral evil
+Ochre Jelly,Large,2,Ooze,unaligned
+Ogre,Large,2,Giant,chaotic evil
+Ogre Zombie,Large,2,Undead,neutral evil
+Orc Eye of Gruumshorc,Medium,2,Humanoid,chaotic evil
+Orogorc,Medium,2,Humanoid,chaotic evil
+Poltergeist,Medium,2,Undead,chaotic evil
+Quaggothquaggoth,Medium,2,Humanoid,chaotic neutral
+Rug of Smothering,Large,2,Construct,unaligned
+Spined Devil,Small,2,Fiend,lawful evil
+Swarm of Poisonous Snakes,Medium,2,Beast,unaligned
+Wererat,Medium,2,Humanoid,lawful evil
+Basilisk,Medium,3,Monstrosity,unaligned
+Bearded Devil,Medium,3,Fiend,lawful evil
+Bugbear Chief,Medium,3,Humanoid,chaotic evil
+Doppelganger,Medium,3,Monstrosity,neutral
+Giant Scorpion,Large,3,Beast,unaligned
+Grell,Medium,3,Aberration,neutral evil
+Hell Hound,Medium,3,Fiend,lawful evil
+Hook Horror,Large,3,Monstrosity,neutral
+Minotaur,Large,3,Monstrosity,chaotic evil
+Mummy,Medium,3,Undead,lawful evil
+Phase Spider,Large,3,Monstrosity,unaligned
+Quaggoth Thonotquaggoth,Medium,3,Humanoid,chaotic neutral
+Spectator,Medium,3,Aberration,lawful neutral
+Werewolf,Medium,3,Humanoid,chaotic evil
+Wight,Medium,3,Undead,neutral evil
+Banshee,Medium,4,Undead,chaotic evil
+Black Pudding,Large,4,Ooze,unaligned
+Bone Naga,Large,4,Undead,lawful evil
+Flameskull,Tiny,4,Undead,neutral evil
+Ghost,Medium,4,Undead,any
+Gnoll Fang of Yeenoghu,Medium,4,Fiend,chaotic evil
+Helmed Horror,Medium,4,Construct,neutral
+Lizard King/Queen,Medium,4,Humanoid,chaotic evil
+Orc War Chieforc,Medium,4,Humanoid,chaotic evil
+Shadow Demon,Medium,4,Fiend,chaotic evil
+Succubus/Incubus,Medium,4,Fiend,neutral evil
+Air Elemental,Large,5,Elemental,neutral
+Barbed Devil,Medium,5,Fiend,lawful evil
+Barlgura,Large,5,Fiend,chaotic evil
+Beholder Zombie,Large,5,Undead,neutral evil
+Cambion,Medium,5,Fiend,any evil
+Drow Elite Warriorelf,Medium,5,Humanoid,neutral evil
+Earth Elemental,Large,5,Elemental,neutral
+Fire Elemental,Large,5,Elemental,neutral
+Flesh Golem,Medium,5,Construct,unaligned
+Mezzoloth,Medium,5,Fiend,neutral evil
+Otyugh,Large,5,Aberration,neutral
+Revenant,Medium,5,Undead,neutral
+Troll,Large,5,Giant,chaotic evil
+Vampire Spawn,Medium,5,Undead,neutral evil
+Water Elemental,Large,5,Elemental,neutral
+Wraith,Medium,5,Undead,neutral evil
+Xorn,Medium,5,Elemental,neutral
+Chasme,Large,6,Fiend,chaotic evil
+Drider,Large,6,Monstrosity,chaotic evil
+Galeb Duhr,Medium,6,Elemental,neutral
+Invisible Stalker,Medium,6,Elemental,neutral
+Medusa,Medium,6,Monstrosity,lawful evil
+Vrock,Large,6,Fiend,chaotic evil
+Drow Mageelf,Medium,7,Humanoid,neutral evil
+Grick Alpha,Large,7,Monstrosity,neutral
+Mind Flayer,Medium,7,Aberration,lawful evil
+Oni,Large,7,Giant,lawful evil
+Shield Guardian,Large,7,Construct,unaligned
+Assassinany race,Medium,8,Humanoid,non-good
+Chain Devil,Medium,8,Fiend,lawful evil
+Cloaker,Large,8,Aberration,chaotic neutral
+Drow Priestess of Lolthelf,Medium,8,Humanoid,neutral evil
+Hezrou,Large,8,Fiend,chaotic evil
+Hydra,Huge,8,Monstrosity,unaligned
+Mind Flayer Arcanist,Medium,8,Aberration,lawful evil
+Spirit Naga,Large,8,Monstrosity,chaotic evil
+Bone Devil,Large,9,Fiend,lawful evil
+Clay Golem,Large,9,Construct,unaligned
+Glabrezu,Large,9,Fiend,chaotic evil
+Nycaloth,Large,9,Fiend,neutral evil
+Stone Golem,Large,10,Construct,unaligned
+Yochlol,Medium,10,Fiend,chaotic evil
