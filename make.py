@@ -1,13 +1,14 @@
 from jinja2 import Environment, FileSystemLoader
-from .wandering-monster-tables import render
+import wandering_monsters_tables.render
 
 outfile = "homebrewery-endless-dungeon.md"
-environment = Environment(loader=FileSystemLoader("templates/"))
+environment = Environment(loader=FileSystemLoader("./"))
 template = environment.get_template(f"{outfile}.j2")
+
+w = wandering_monsters_tables.render
+wmt = w.render()
 
 #with open(outfile, mode="w", encoding="utf-8") as message:
 #    message.write(content)
 #    print(f"... wrote {outfile}")
 
-w = wandering-monster-tables.render()
-print(w)
