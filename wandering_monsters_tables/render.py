@@ -1,9 +1,11 @@
 import csv
 
+wmt_data_dir = "wmt_data"
+
 def load_data(file):
 #    load file
 #    return data
-    with open("data/" + file, newline='') as csvfile:
+    with open(f"{wmt_data_dir}/" + file, newline='') as csvfile:
         spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')
         output = []
         for row in spamreader:
