@@ -15,7 +15,8 @@ ___
   Much adventure awaits
 }}
 
-![background image](https://i.imgur.com/IwHRrbF.jpg){position:absolute,bottom:0,left:0,height:100%}
+![background image](https://poolpog.github.io/homebrewery-images/province_of_sount.png){position:absolute,bottom:0,left:0,width:100%}
+
 
 \page
 
@@ -500,6 +501,10 @@ This quest may lead to the larger Thieves Guild Conspiracy quest, "The Undergrou
 * There is also a serious-looking parchment with a description of a hideout and the secret password. This is the "Hidden Hideout, Forest East of Town", under "The Underground Guild" quest
     * Make up a password. Write it here:
 
+
+\page
+
+
 #### Locations
 
 #### Thieves hideout:
@@ -507,13 +512,14 @@ This quest may lead to the larger Thieves Guild Conspiracy quest, "The Undergrou
 * Basement has theives guild hideout
 
 {{wide
-![alt-text](https://poolpog.github.io/homebrewery-images/thieves_hideout_basement.png) {width:700px,border:"2px solid",border-radius:10px}
+![alt-text](https://poolpog.github.io/homebrewery-images/thieves_hideout_basement.png) {width:600px,border:"2px solid",border-radius:10px}
 }}
 
 {{wide
-![alt-text](https://poolpog.github.io/homebrewery-images/thieves_hideout_first_floor.png) {width:700px,border:"2px solid",border-radius:10px}
+![alt-text](https://poolpog.github.io/homebrewery-images/thieves_hideout_first_floor.png) {width:600px,border:"2px solid",border-radius:10px}
 }}
 
+\page
 
 ##### Encounters:
 1. First floor
@@ -527,11 +533,102 @@ This quest may lead to the larger Thieves Guild Conspiracy quest, "The Undergrou
     * 2 large war dogs
     * Treasure: medium loot pile
     * **The Missing Heirloom** in a chest
+1. Other rooms, basement
+    * storage and supplies, or empty
 * See also: Maps, thieves hideout first floor and thieves hideout first basement
 <!-- end -->
 
 
 \page
+
+
+### The Underground Guild
+A shadowy thieves' guild has been causing chaos in the city, and the local authorities are unable to stop them.
+A concerned councilman has put up a sizeable reward for anyone who can infiltrate the guild,
+gather evidence of their illegal activities, and dismantle the criminal organization.
+:
+* **Type**: Messageboard Quest
+* **Where**: All throughout Deepquetwich; Hideout in woods outside town; In secret basement room of Baron's Mansion
+
+#### Description
+The Thieves Guild is a real presence in the city. However, the Mayor, Town Council, or City Guard knows who runs it or where it is located.
+:
+It turns out that Baron Darklius Ravenwing, Tiefling Baron of Deepquestwich, is the secret head of the Thieve's Guild.
+He has been running the guild from his mansion in the southeast of town.
+:
+A hidden staircase and passage that can be accessed from his study leads to a secret guild meeting room.
+From there, a secret tunnel leads to a smuggler's cove just outside town.
+The cove is accessible from the docks via a drainage tunnel.
+:
+This location has been advantageous for the Guild to be able to smuggle goods and contraband via the docks, to the cove, to the baron.
+Using the Baron's connections to other Cities and Towns, the Guild has been able to launder stolen goods by selling them to other rich nobles, merchants, and dealers of fine things.
+
+#### Read aloud to players:
+{{descriptive
+An official-looking piece of parchment declares:
+{{quote
+Crime guild must be thwarted!
+An organized crime guild threatens our city.
+Rewards for any information leading to their arrest or the end of their reign.
+Your civic duty is valued.
+Contact Captain Marcus at the city guard headquarters.
+A safer city awaits.
+}}
+}}
+
+#### Solution
+Many possible "solutions"
+* Uncover the fact that the Baron is the Guildmaster; report to the Town Guard or Mayor.
+    * Reward: 1000gp and town seal; goodwill of the town's leaders and townsfolk which grants advantages in and around town
+        * Advantage on charisma checks in town; reduced prices at merchants, etc
+* Uncover the fact that the Baron is the Guildmaster; join the guild and become thieves
+    * Must convince the Baron they are worthy members; he will send them on a mcguffin quest
+    * Reward: No direct monetary reward; part gains access to Thieves Guild Quests and Guild Merchants.
+        * Guild quests
+        * Can buy/sell contraband to Guild
+        * Reduced prices at merchants who are secret members of the Guild
+
+#### Locations
+
+##### Hidden Hideout, Forest East of Town
+A small path obscured by deep foliage will lead party to the hideout. DC15 Investigation to find it
+This small hideout is hidden in deep forest; consists of two small buildings and a small cave.
+A small hill and escarpment hide the cave.
+Foliage, shrubs, and trees around the clearing are especially thick.
+Looking for clues and asking questions will improve the odds of finding the Hideout.
+
+###### Encounters
+* 3 rogues Level 3
+* 3 war dogs
+* 3 goblins
+* Treasure: 2 small loot piles
+* Treasure: medium loot pile
+
+##### Baron's Mansion
+Secret room accessed from Baron's study
+Room is reached via hidden stairs and passage into the basement
+Another entrance is available via a hidden sewer grate outside the town walls;
+    passage through the sewers leads to a locked iron door.
+    This door leads to a passage to the Baron's secret room
+Sewer also leads to secret smugglers cove near the City docks
+
+###### Encounters
+1. Sewers
+    * 2 Crocodiles
+    * Treasure: 2 tiny loot piles
+2. Sewers
+    * 1 Otyugh; this creature roams the sewers eating garbage
+    * Treasure: medium loot pile
+3.  Sewers
+    * 3 Giant Spiders
+    * Treasure: medium loot pile
+
+* See also:  Maps
+* **NEED** Map of sewers, Map  of mansion, map of forest hideout; maps at end may be suitable
+
+
+\page
+
 
 {{wide
 ### Pests in the Cellar
@@ -685,6 +782,9 @@ Cedarbrook pleads for aid! Poisoned well threatens lives. Limited funds, boundle
 * Derckus Crabbes
 * Thistledown Alesmith
 
+\page
+
+{{wide
 ##### NPCs
 
 |   Name |                   Sex |      Age |   Race |       Class and Level |   Job |              Hit Points |   Armor Class |            Weapons |
@@ -692,6 +792,8 @@ Cedarbrook pleads for aid! Poisoned well threatens lives. Limited funds, boundle
 |   Derckus Crabbes |        Male |     63 |    Halfling |   Rogue, Level 5 |    Brewer |           35 |           Leather Armor (12) |     Short Sword, Dagger, Sling |
 |   Thistledown Alesmith |   Male |     65 |    Halfling |   Druid, Level 6 |    Brewer |           42 |           Barkskin (16) |          Quarterstaff, Sling, Shillelagh |
 |   Bella Stiffdinkle |      Female |   98 |    Halfling |   Bard, Level 4 |     Town Matriarch |   28 |           Unarmored (10 + Dex) |   Dagger, Shortbow, Rapier, Healing Word |
+
+}}
 
 ##### Map of Barley Crown Village
 ![alt-text](https://poolpog.github.io/homebrewery-images/barley_crown_villiage.png) {width:700px,border:"2px solid",border-radius:10px}
@@ -885,98 +987,9 @@ Reward:
 #### Ancient Ruins
 
 ##### Encounters
-1. Room 1
-    * 2 monster
-    * Treasure: medium loot pile
-* See also: Map at end of this book
-
-\page
-
-
-### The Underground Guild
-A shadowy thieves' guild has been causing chaos in the city, and the local authorities are unable to stop them.
-A concerned councilman has put up a sizeable reward for anyone who can infiltrate the guild,
-gather evidence of their illegal activities, and dismantle the criminal organization.
-:
-* **Type**: Messageboard Quest
-* **Where**: All throughout Deepquetwich; Hideout in woods outside town; In secret basement room of Baron's Mansion
-
-#### Description
-The Thieves Guild is a real presence in the city. However, the Mayor, Town Council, or City Guard knows who runs it or where it is located.
-:
-It turns out that Baron Darklius Ravenwing, Tiefling Baron of Deepquestwich, is the secret head of the Thieve's Guild.
-He has been running the guild from his mansion in the southeast of town.
-:
-A hidden staircase and passage that can be accessed from his study leads to a secret guild meeting room.
-From there, a secret tunnel leads to a smuggler's cove just outside town.
-The cove is accessible from the docks via a drainage tunnel.
-:
-This location has been advantageous for the Guild to be able to smuggle goods and contraband via the docks, to the cove, to the baron.
-Using the Baron's connections to other Cities and Towns, the Guild has been able to launder stolen goods by selling them to other rich nobles, merchants, and dealers of fine things.
-
-#### Read aloud to players:
-{{descriptive
-An official-looking piece of parchment declares:
-{{quote
-Crime guild must be thwarted!
-An organized crime guild threatens our city.
-Rewards for any information leading to their arrest or the end of their reign.
-Your civic duty is valued.
-Contact Captain Marcus at the city guard headquarters.
-A safer city awaits.
-}}
-}}
-
-#### Solution
-Many possible "solutions"
-* Uncover the fact that the Baron is the Guildmaster; report to the Town Guard or Mayor.
-    * Reward: 1000gp and town seal; goodwill of the town's leaders and townsfolk which grants advantages in and around town
-        * Advantage on charisma checks in town; reduced prices at merchants, etc
-* Uncover the fact that the Baron is the Guildmaster; join the guild and become thieves
-    * Must convince the Baron they are worthy members; he will send them on a mcguffin quest
-    * Reward: No direct monetary reward; part gains access to Thieves Guild Quests and Guild Merchants.
-        * Guild quests
-        * Can buy/sell contraband to Guild
-        * Reduced prices at merchants who are secret members of the Guild
-
-#### Locations
-
-##### Hidden Hideout, Forest East of Town
-A small path obscured by deep foliage will lead party to the hideout. DC15 Investigation to find it
-This small hideout is hidden in deep forest; consists of two small buildings and a small cave.
-A small hill and escarpment hide the cave.
-Foliage, shrubs, and trees around the clearing are especially thick.
-Looking for clues and asking questions will improve the odds of finding the Hideout.
-
-###### Encounters
-* 3 rogues Level 3
-* 3 war dogs
-* 3 goblins
-* Treasure: 2 small loot piles
-* Treasure: medium loot pile
-
-##### Baron's Mansion
-Secret room accessed from Baron's study
-Room is reached via hidden stairs and passage into the basement
-Another entrance is available via a hidden sewer grate outside the town walls;
-    passage through the sewers leads to a locked iron door.
-    This door leads to a passage to the Baron's secret room
-Sewer also leads to secret smugglers cove near the City docks
-
-###### Encounters
-1. Sewers
-    * 2 Crocodiles
-    * Treasure: 2 tiny loot piles
-2. Sewers
-    * 1 Otyugh; this creature roams the sewers eating garbage
-    * Treasure: medium loot pile
-3.  Sewers
-    * 3 Giant Spiders
-    * Treasure: medium loot pile
-
-* See also:  Map
-
-
+* Use Wandering Monster Tables to fill out this dungeon crawl
+* See also: Maps at end of this book
+    * Choose a good map for this
 
 \page
 
@@ -1210,31 +1223,25 @@ Party can convince the guild to pay up to 200gp on success
 ##### Forested areas on journey to Portal
 
 ###### Encounters
-These are assorted random encounters
+These are assorted random encounters on the way to the portal. DMs choice as to number and frequency. Use Wandering Monster Tables
 1. Forest clearing
-    * 3 Dire Wolves
-    * These are the original portal openers
+    * Random encounter
     * Treasure: tiny loot pile
 1. Forest path
-    * 3 Dire Wolves
-    * These are the original portal openers
-    * Treasure: tiny loot pile
+    * Random encounter
+    * Treasure: small loot pile
 1. Forest clearing
-    * 3 Dire Wolves
-    * These are the original portal openers
+    * Random encounter
     * Treasure: tiny loot pile
 1. Forest
-    * 3 Dire Wolves
-    * These are the original portal openers
-    * Treasure: tiny loot pile
+    * Random encounter
+    * Treasure: small loot pile
 1. Open Field
-    * 3 Dire Wolves
-    * These are the original portal openers
+    * Random encounter
     * Treasure: tiny loot pile
 1. Edge of forest
-    * 3 Dire Wolves
-    * These are the original portal openers
-    * Treasure: tiny loot pile
+    * Random encounter
+    * Treasure: small loot pile
 
 \page
 
@@ -1270,11 +1277,7 @@ These are assorted random encounters
 ##### At the Portal
 
 ###### Encounters
-1. Just stepped out of the portal
-    * 4 faerie dragons
-    * The party can befriend these adorable dragons; DC8 Charisma to befriend
-    * Treasure: small loot pile
-1. In area around Portal
+1. In area near Portal, but not immediately next to it
     * 5 Sprites
     * These sprites were in pursuit of the will-o-wisps, and accidentally went through the portal
     * They will help the party fight the Will-o-wisps
@@ -1282,6 +1285,10 @@ These are assorted random encounters
       on Fail they will simply anger, and rush off
     * Will only attack the party if they are attacked first
     * Treasure: each carries a tiny or small loot pile and a short sword +1
+1. Just stepped out of the portal, immediately next to it
+    * 4 faerie dragons
+    * The party can befriend these adorable dragons; DC8 Charisma to befriend
+    * Treasure: small loot pile
 
 \page
 
@@ -1461,7 +1468,8 @@ Your adventurers must navigate the hazardous tower to uncover its secrets.
 
 #### Read aloud to players:
 {{descriptive
-As you approach the crumbling wizard's tower, the landscape transforms, and a looming structure emerges on the horizon.
+As you approach the crumbling tower, the landscape transforms, and the looming structure emerges on the horizon.
+This must be -- could only be -- an abandoned wizard's tower.
 The tower, once a majestic testament to arcane mastery, now stands as a dilapidated relic, whispering secrets of its former glory.
 The tower's exterior, though grand in its design, bears the scars of time and neglect.
 The stones, once meticulously enchanted, now crumble and sag under the weight of centuries.
@@ -1476,53 +1484,262 @@ Loot the tower
 ##### Tower of Orona
 
 ###### Encounters
-2. Annex
-    * 2 goblins have set up a makeshift shelter; they get in and out through the window, not the main entrance
-    * Treasure: medium loot pile
-2. Entrance; empty
+1. Entrance; empty
     * Stairs go up to Room 3
-3. Floor 3 -- abandoned lab
-    * 4 Inkwell Imps; (Imps)
-    * Treasure: tiny loot pile
-4. Floor 4 -- abandoned library
-    * 3 giant spiders
+2. Annex
+    * 4 goblins have set up a makeshift shelter; they get in and out through the window, not the main entrance
     * Treasure: medium loot pile
-5. Floor 5 -- abandoned extra lab of monstrosities
+3. Floor 2: Abandoned Library - specializing in potions and alchemy
+    * 4 Inkwell Imps; (Imps)
+    * Treasure: small loot pile. Make sure to include:
+        * 2 potions of healing
+        * up to 4 additional potions
+4. Annex
+    * Treasure: Small loot pile plus potion of healing
+5. Floor 3: abandoned kitchen
+    * 3 giant spiders
+    * Treasure: tiny loot pile
+6. Floor 4: abandoned bedroom
+    * Treasure: small loot pile
+7. Floor 5: Second Library - specializing in arcane arts and necromancy
+    * 3 giant spiders
+    * Treasure: small loot pile
+        * up to 4 scrolls of up to 3rd level
+8. Top Floor -- abandoned lab of monstrosities
+    * Broken specimen jars, experiments, and equipment, litter the lab
     * Clay golem, inanimate; Wizard left this golem unfinished, but he can be brought to life if the scroll is found and inserted into the now open cavity in the golem's forehead
         * Find scroll; insert scroll; say magical incantation. The incantation is written on a parchment on the desk. DC10 Investigation to find and identify this scroll.
         * If brought to life the golem will automatically attune to the person that put the scroll in place
+        * Once attuned, the golem becomes that person's familiar, and will follow them and obey their commands
+        * Golem will not obey any command that will cause it to intentionally harm itself; however, it will engage in battle against enemies for its master
     * Treasure: Golem animation scroll, tucked into the book "Favorite Lonely Wizard Recipes" DC15 Investigation of the book shelf
     * Treasure: Small loot pile
     * Treasure: medium loot pile with magic items
-6. Annex
-    * 2 giant spiders
+9. Annex
+    * 2 giant spiders; they will attack if they detect disturbance in 8
     * Treasure: medium loot pile
-7. Annex
-    * Treasure: Small loot pile plus potion of healing
 
 \page
 
-
-**THESE NEED WORK**
+{{wide
 
 ### The Festival of Lights:
 
 #### Description
-* The annual Festival of Lights in a nearby village is approaching, but this year, the magical lanterns have been stolen, casting a shadow of gloom over the event. Your party is hired to track down the thieves and recover the lanterns in time for the celebration. The trail leads them through a whimsical journey of riddles and enigmatic characters.
+* The annual Festival of Lights in a nearby village is approaching. The lanterns are not complete! The village council is worried that they will not make the lanterns in time for the celebration. Helping the village gather materials and make the lanterns leads the party through a whimsical journey of riddles and enigmatic characters.
 
 #### Read aloud to players:
 {{descriptive
-Description for players
+Approaching the village, you witness lively preparations for an upcoming Festival.
+The morning sun shines brightly.
+The air is filled with the scent of heated glue and drying paint. 
+The atmosphere is charged with anticipation.
+The main square serves as a makeshift workshop where villagers are huddled in groups, working with delicate paper covered with vibrant colors and patterns.
+Lanterns hang in various stages of completion, suspended from lines strung between buildings.
+There is a sense of joy and excitement as the Lantern Festival takes shape, promising a magical spectacle once the sun sets.
+:
+You approach, and are immediately greeted by a pair of young human women who couldn't be much older than 15.
+:
+"Travellers!" they call to you.
+They wave you down.
+The taller one continues: "We are so lucky you've found our village! We can't start the festival until the roast has started, and Master Bigsly was not able to get a hog!"
 }}
 
 #### Solution
+* The **Lantern Festival starts at sundown**
+* The girls need help getting a few things for the village:
+    * HOG HUNT. Hunt hogs for the town. Come back with at least 2 wild boars.
+        * boars live in the forests around town
+        * **Hog Hunt must be complete within 3 hours** so the hogs can be prepared and start roasting in time for the festival
+        * 15 minute journey will put the party into Wild Boar territory
+        * Party must find Hogs using these rules
+            1. Find Hog Trail
+                * Every 15 minutes exploring, a DC 10 Nature or Animal Handling check will find a HOG TRAIL
+            2. Find HOG EVIDENCE (scat, scratches, hair, tracks)
+                * Every 15 minutes on the HOG TRAIL, a DC10 Nature or Animal Handling check will find HOG EVIDENCE
+            3. After finding three HOG EVIDENCE, the fourth DC10 roll will find HOGS. **FIND: 1d4+1 HOGS**
+            4. HUNT THE HOGS. Normal battle rules, except that **hogs must not be damaged too badly**
+                * Kill hogs normally
+                * Use 5e **WILD BOAR**
+                * **If the killing blow puts hog at -6 hp**, hog is too badly damaged to be used for the festival
+        * Total times. Max: 360 minutes. **Fail if 360 minutes is reached**
+            * 15 minutes - travel   -- 15m total
+            * 15 minutes * 3 evidence, for min 45 minutes -- 60m total
+            * 1 attempt to find hog, for 0m -- 60m total
+            * Each additional attempt to find hog, for 15m each -- 60m to 120m total
+            * Battle -- normal battle rules. Probably 10 minutes 130m total
+            * 15 minutes -- travel -- about 160 minutes total. Plenty of time!
+
+}}
+
+\page
+
+{{wide
+#### Solution (cont)
+
+* The **Lantern Festival starts at sundown**
+    * Festival Supplies -- Find the Blue Tzu Su Weeds
+        * Blue Tzu Su Weed has a psychotropic effect when consumed or smoked
+        * It grows deep in the same forest as the Hogs
+        * This can be found at same time as hog hunt or after the hog hunt
+        * They must find and return with the Blue Tzu Su Weeds by sundown
+        * Rules -- for players **READ TO PLAYERS**
+            * You must find enough Blue Tsu Su Weeds and return by sundown! You will carefullt search the forest for these rare flowers!
+            * Every 15 minutes, you roll DC15 Nature or Medicine
+            * Score above 15 and you get some flowers!
+        * Rules -- for DM.
+            * Search for Blue Tzu Su Weeds. Every 15 minutes, roll DC15 Nature or Medicine
+            * They must gather at least 10 Blue Tzu Su Flowers
+            * **Some rolls will give more than one flower, so read these rules carefully!**
+            * Take only the best roll given by the party each turn. Flowers can only be found once per turn. Even if all the party succeeds, only the best roll determines the outcome.
+            * Every point rolled **naturally** above DC15 is another flower. Example: roll 15 = 1 flower; roll 16 = 2 flowers
+            * Skill bonus does not count for an extra flower. Example: They have a Nature bonus of +3. They roll a 14, for a total of 17. They succeed, but only find one flower, because 14 is the natural roll.
+            * This mission must succeed within ten attempts. See explanation:
+                * With every failure, the party adds 15 minutes travel time back to the Village
+                * Party must pay attention to the setting sun; add descriptions like "the sun moves across the sky" and "the sun is noticably lower now"
+                    * Party starts this hunt at 2PM
+                    * Keep track of passing time
+                    * Sun sets at 7PM
+                    * That allows for 10 failures before they run out of time to be able to make it back (total time is 5 hours; each attempt takes 15 minutes; each failure adds 15 minutes return time; 2 * 10 * 15 = 300 minutes or 5 hours). example: 11 failures = 11 * 15 minutes travel time = 165 minutes. 300 - 165 = 135; but they need 165 minutes to return, and return at 7:30 -- Too late!!
+        * The Blue Tzu Su Weeds have powerful effects. If the party decides to join the festival, they will have one or more psychic encounters. See: Encounters, below
+ 
 
 #### Locations
 
 ##### Astbighole (Village)
 
 ###### Encounters
-* NEEDS ENCOUNTERS
+* Hog Hunt
+* Weed search
+* Psychedelic Encounters
+    * The party enjoys the festival. The people, the party, the lanterns, the music... and, yes, the Blue Tzu Su Weeds. These weeds send the party into a psychedelic alternate reality.
+    * See "Psychic Encounters", below
+
+##### Forest
+
+* See Solution, above
+
+###### Encounters
+
+###### Wild Boars
+* Boar hunt, above
+}}
+
+\page
+
+{{wide
+
+#### Solution (cont)
+###### Psychic Encounters. Choose one or more.
+**Weird Psychic Maze**
+The party finds itself in a peculiar maze. Ad lib an elaborate psychedelic trip into a weird psychic maze.
+
+* **Maze Escape Rules:**
+    * There are 6 rooms in the maze
+    * Each room has a different skill check
+    * DC 15 skill check for each
+    * Everone needs to do each check, but only one party member needs to finish the maze for the whole party to win
+    * Choose 6 of the following rooms. DM's choice
+    * Rooms/Skill checks
+        * Locked Chamber:
+            * Skill Check: Dexterity (Thieves' Tools)
+            * Description: The party enters a chamber with a sturdy door and no visible key. They must use their Dexterity and Thieves' Tools to pick the lock and progress.
+        * Narrow Ledge:
+            * Skill Check: Dexterity (Acrobatics)
+            * Description: The only path forward is a narrow ledge along a steep drop. A successful Dexterity (Acrobatics) check is needed to navigate the ledge without falling.
+        * Puzzle Room:
+            * Skill Check: Intelligence (Investigation)
+            * Description: The room is filled with arcane symbols and mechanisms. An Intelligence (Investigation) check is required to decipher the puzzle and unlock the exit.
+        * Hidden Trapdoor:
+            * Skill Check: Perception
+            * Description: The floor seems solid, but with a keen eye, characters may notice a slightly different tile. A successful Perception check reveals a hidden trapdoor leading to the next area.
+        * Collapsed Tunnel:
+            * Skill Check: Strength (Athletics)
+            * Description: A section of the tunnel has collapsed, blocking the way. Characters must use their Strength (Athletics) to clear the debris and create a passage.
+        * Illusory Wall:
+            * Skill Check: Intelligence (Arcana)
+            * Description: An illusion conceals a hidden passage. An Intelligence (Arcana) check allows characters to see through the illusion and discover the way forward.
+        * Spectral Guardians:
+            * Skill Check: Charisma (Persuasion or Intimidation)
+            * Description: Ghostly figures block the exit. Characters must use Charisma to either persuade or intimidate the guardians into allowing passage.
+        * Wisdom's Enchanted Garden:
+            * Skill Check: Wisdom (Survival)
+            * Description: The party enters a magical garden filled with alluring but dangerous flora. A Wisdom (Survival) check is required to navigate through the maze of enchanting plants without succumbing to their illusions.
+        * Constitution Challenge:
+            * Skill Check: Constitution (Endurance)
+            * Description: A section of the maze is filled with toxic fumes. Characters must make a Constitution (Endurance) check to endure the poisonous atmosphere and continue forward.
+        * Charmed Mirror Room:
+            * Skill Check: Charisma (Insight)
+            * Description: The party encounters a room with mirrors that reflect illusions of their desires. A Charisma (Insight) check is needed to discern reality and find the correct exit.
+    * Winning
+        * The party wins upon reaching the maze exit. They return to the festival unharmed and are no longer feeling the effects of the Blue Tzu Su Weed
+        * The party loses if they encounter a certain number of failed skill checks, or they can't progress due to poor decisions. They return to the festival but are still feeling the effect of the Blue Tzu Su Weed, and immediately go into another psychic challenge
+}}
+
+
+
+\page
+
+{{wide
+
+#### Solution (cont)
+###### Psychic Encounters (cont)
+* **Capture the Fairy Dragons**
+    * Description
+        * The party awakes to find themselves in a crazy, mystical, psychedelic, forest of deep hues and interesting odors.
+        * The party sees a group of Fairy Dragons! They simply must make them their friends!
+    * Objective:
+        * The Fairy Dragons are scattered across a defined area, such as a forest clearing or a magical glade.
+        * The party's objective is to capture at least four Fairy Dragons within 10 turns.
+        * Each turn represents the party's attempt to catch the elusive creatures.
+    * Turn Structure:
+        * Each turn consists of two phases: Movement Phase and Action Phase.
+    * Movement Phase:
+        * Characters can move a certain distance based on their speed.
+        * The Game Master (GM) defines the layout of the area and the distance characters can move.
+    * Action Phase:
+        * Characters can perform one action during this phase, such as attempting to capture a creature.
+    * Creature Capture:
+        * To capture a Fairy Dragons, a character must be adjacent to it.
+        * A character can attempt to capture a creature by making a Dexterity (Animal Handling) check.
+        * The GM sets a target difficulty for the check based on the agility of the Fairy Dragons.
+        * A successful check means the character captures the creature.
+    * Creatures' Movement:
+        * The Fairy Dragons move randomly during each turn.
+        * The GM rolls a d4 for each creature to determine its movement direction (1: North, 2: East, 3: South, 4: West).
+        * Creatures move a set distance based on their speed.
+    * Special Abilities:
+        * Characters may have special abilities related to tracking or capturing creatures, granting advantages or additional movement.
+        * The GM can introduce obstacles or environmental factors that affect movement and capture attempts.
+    * Winning and Losing:
+        * The party wins if they successfully capture at least four Fairy Dragons within 10 turns.
+        * The party loses if they fail to capture four creatures within the given turns.
+    * Variations:
+        * Teamwork Bonus: Characters adjacent to each other can provide a teamwork bonus to capture attempts.
+* **Getting The Band Back Together**
+    * The party finds themselves hung over in the back of a lousy dive bar. Looking around, they realize they are all bards. All of them. Just then the bar owner bursts in yelling at them that they better pay their bill!
+    * They must find their instruments and put on a convincing show for the owner of the bar's daughter.
+    * Rules
+        * Search the bar and rooms of the inn
+        * Instruments are tucked away in forgotten places. Party must choose where to search
+        * DC10 each turn to find one instrument
+        * After finding enough instruments, party must write a song. it can be about anything
+        * Party must perform song
+        * If DM likes song, they win
+        * If not, the party rolls DC15 Persuasion check each to win
+* **Upside Down World**
+    * Need rules here
+* **Puke Town**
+    * Need rules here
+
+
+}}
+\page
+
+\page
+
+
+\page
 
 
 ### The Midnight Carnival:
