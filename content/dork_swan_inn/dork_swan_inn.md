@@ -3,7 +3,9 @@
 # Deepquestwich
 ## Home of The Dork Swan Inn
 
+<!--
 https://watabou.github.io/perilous-shores/?seed=461649861&tags=civilized,neutral,woodland,highland,coast,difficult&w=1800&h=1800&name=Province%20Of%20Sount
+-->
 
 ___
 
@@ -27,16 +29,6 @@ Behind the bar, the weathered bartender (**RICKARD REDD**) wipes a glass with a 
 
 \page
 
-
-
-
-
-
-
-
-
-
-\page
 
 {{wide
 # The Dork Swan Inn
@@ -80,42 +72,49 @@ The town has much adventure available. There are a number of encounters that a p
 # People and Places In Deepquestwich
 
 ## Stores and Businesses
+
 ### Odds & Ends Emporium
 * Proprietor Name: Santina Swiftfoot
 * Class and Level: Rogue 4
 * Race: Halfling
 * Description: Santina's Odds & Ends Emporium is a quaint store filled with a mishmash of everyday items. Santina, with her sharp eye for bargains, specializes in procuring and selling a wide array of mundane trinkets and practical goods. The shop is adorned with hanging lanterns and colorful tapestries, creating a warm and inviting atmosphere.
 * Wares: Various trinkets, kitchenware, basic tools, candles, and non-magical odds and ends.
-### Smith's Sundries
-* Proprietor Name: Thrain Ironheart
-* Class and Level: Fighter 5
+
+### Ironheart Outfitters
+* Proprietor Name: Kragg Ferrick
+* Class and Level: Fighter 6
 * Race: Dwarf
-* Description: Thrain Ironheart, a skilled dwarf, owns Smith's Sundries. The store is filled with durable and finely crafted mundane weapons and armor. Thrain takes pride in providing adventurers with reliable gear, and the sound of hammers and the roar of the forge create a bustling atmosphere within the shop.
+* Description: Kragg Ferrick, a skilled dwarf, owns Ironheart Outfitters. The store is filled with durable and finely crafted mundane weapons and armor. Kragg Ferrick pride in providing adventurers with reliable gear, and the sound of hammers and the roar of the forge create a bustling atmosphere within the shop.
 * Wares: Weapons, armor, shields, smithing tools, and custom-made mundane equipment.
+
 ### Herbal Haven
 * Proprietor Name: Elyndra Greenleaf
 * Class and Level: Druid 3
 * Race: Elf
 * Description: Head of the Guild of Healers and Alchemists , Elyndra Greenleaf also runs an apothecary shop. Nestled within a grove at the edge of town, Herbal Haven is tended by the gentle elf Elyndra Greenleaf. The store exudes a natural, earthy aroma, and its shelves are lined with various herbs, non-magical potions, and botanical curatives. Elyndra is known for her extensive knowledge of herbalism and her ability to concoct remedies for various ailments.
 * Wares: Herbs, non-magical potions, healing salves, gardening tools, and nature-themed trinkets.
+
 ### Tools & Tackles
-* Proprietor Name: Thrain Stonehammer
+* Proprietor Name: Grom Stonehammer
 * Class and Level: Fighter 4
 * Race: Dwarf
-* Description: Thrain Stonehammer, a diligent dwarf, owns Tools & Tackles. The store is a haven for adventurers and craftsmen, offering a wide range of non-magical tools and equipment. Thrain's practical approach and attention to quality have made the store a go-to destination for those in need of reliable gear.
+* Description: Grom Stonehammer, a diligent dwarf, owns Tools & Tackles. The store is a haven for adventurers and craftsmen, offering a wide range of non-magical tools and equipment. Grom's practical approach and attention to quality have made the store a go-to destination for those in need of reliable gear.
 * Wares: Carpentry tools, blacksmithing tools, fishing gear, backpacks, and various non-magical adventuring tools.
+
 ### Trader's Trunks
 * Proprietor Name: Zephyros Starwhisper
 * Class and Level: Sorcerer 6
 * Race: Aasimar
 * Description: Zephyros Starwhisper's Trader's Trunks is a store that seems to transcend the mundane with its eclectic collection of non-magical items. The aasimar proprietor has an eye for unique and exotic goods, and the shop often attracts curious adventurers seeking interesting and practical wares.
 * Wares: Exotic clothing, rare spices, maps, books, and other non-magical curiosities.
+
 ### Alchemist's Apothecary
 * Proprietor Name: Hamberry Swiftbrew
 * Class and Level: Rogue 4
 * Race: Halfling
 * Description: Hamberry Swiftbrew's Alchemist's Apothecary is a charming store dedicated to potion ingredients and alchemical supplies. Hamberry, a nimble halfling with a keen sense for herbs, provides a variety of non-magical ingredients for aspiring potion makers. The store is organized with rows of neatly labeled jars and vials, creating an atmosphere of organized alchemical wonder.
 * Wares: Herbs, roots, berries, vials, mortar and pestle sets, and non-magical alchemical ingredients.
+
 ### Potions & Elixirs Emporium
 * Proprietor Name: Miranda Thistlethorn
 * Class and Level: Druid 3
@@ -131,24 +130,28 @@ The town has much adventure available. There are a number of encounters that a p
 * Race: Dwarf
 * Description: Gruff Stoneflask is head of the Barley Brewer's Guild. He also runs the Brewmaster's Bazaar, which caters to potion enthusiasts with a focus on non-magical brewing supplies. The store is filled with the hearty scent of brewing ingredients, and Gruff, a skilled dwarf, is known for his expertise in crafting concoctions. Barrels of non-magical herbs, grains, and other brewing essentials fill the store, creating a bustling atmosphere.
 * Wares: Brewing herbs, grains, fermentation barrels, non-magical potion bottles, and brewing equipment.
+
 ### Mystic Marvels Emporium
 * Proprietor Name: Grenda Thistledew
 * Class and Level: Wizard 7
 * Race: Halfling
 * Description: Grenda Thistledew's Mystic Marvels Emporium is a magical wonderland filled with enchanted items and wizard accessories. As a skilled halfling wizard, Grenda has a knack for sourcing unique magical items. The store is adorned with floating magical orbs and animated displays, creating an otherworldly atmosphere.
 * Wares: Enchanted trinkets, magical quills, spellbooks, arcane focus items, and various non-weapon magical items.
+
 ### Arcane Artifacts Boutique
 * Proprietor Name: Ignatius Arcanum
 * Class and Level: Sorcerer 6
 * Race: Tiefling
 * Description: Ignatius Arcanum's Arcane Artifacts Boutique is a sophisticated store catering to spellcasters and magic enthusiasts. The tiefling sorcerer meticulously curates a collection of magical items and accessories. The store's interior is adorned with magical sigils, and Ignatius is known for his deep understanding of arcane trinkets.
 * Wares: Crystal balls, magical scrolls, enchanted ink, wizard hats, magical robes, and various non-weapon magical items.
+
 ### Smith's Forge & Tools
-* Proprietor Name: Thrain Ironarm
+* Proprietor Name: Torig Ironarm
 * Class and Level: Fighter 4
 * Race: Dwarf
-* Description: Thrain Ironarm's Smith's Forge & Tools is a bustling blacksmith shop known for its high-quality non-magical weapons and armor. Thrain, a sturdy dwarf with a passion for craftsmanship, takes pride in creating durable and finely detailed items. The rhythmic clang of hammers and the heat of the forge create an energetic atmosphere within the shop.
+* Description: Torig Ironarm's Smith's Forge & Tools is a bustling blacksmith shop known for its high-quality non-magical weapons and armor. Torig, a sturdy dwarf with a passion for craftsmanship, takes pride in creating durable and finely detailed items. The rhythmic clang of hammers and the heat of the forge create an energetic atmosphere within the shop.
 * Wares: Weapons, armor, shields, blacksmithing tools, and custom-made non-magical equipment.
+
 ### Stoneheart Armory
 * Proprietor Name: Gorim Stoneheart
 * Class and Level: Fighter 5
@@ -159,21 +162,27 @@ The town has much adventure available. There are a number of encounters that a p
 \page
 
 ## Taverns and Inns
+
 ### The Hidden Pigs Tavern:
 * Proprietor Name: Emily Sturm
 * Description: A cozy and unassuming tavern with a weathered sign depicting playful pigs engaged in hide-and-seek.  and specializes in Roasted boar, Smoked ham, Pork stew, "Hidden Hog Ale" (signature drink).  This establishment, led by the amiable Emily Sturm, is renowned for its rustic and hearty fare, particularly dishes featuring pork. The Hidden Pigs Tavern invites patrons to enjoy a warm and welcoming atmosphere, where the aroma of savory meats mingles with laughter and camaraderie.
+
 ### Tipsy Tankard Tavern
 * Proprietor Name: Finnegan Stoutbeard
 * Description: The Tipsy Tankard Tavern, owned by the jovial dwarf Finnegan Stoutbeard, is a cozy establishment known for its hearty fare and a wide variety of ales. The tavern offers savory meat pies, roasted game, and a signature dish known as "Dwarven Delight," a platter of assorted cured meats and cheeses. The drink menu boasts an impressive selection of locally brewed ales, including the famous Tipsy Tankard Stout.
+
 ### Sylvan Spirits Inn
 * Proprietor Name: Isolde Greenleaf
 * Description: Isolde Greenleaf's Sylvan Spirits Inn is a rustic pub nestled on the northern edge of town. Known for its elven-inspired cuisine, the inn serves dishes such as "Forest Feast," a vegetarian platter with grilled mushrooms and foraged greens. The drink menu features herbal teas, infused waters, and an assortment of elven wines, including the renowned Sylvan Spirit Elixir.
+
 ### Dragon's Roost Alehouse
 * Proprietor Name: Thormar Blackscale
 * Description: Thormar Blackscale's Dragon's Roost Alehouse is a lively establishment with a menu inspired by dragon-themed delicacies. Patrons can enjoy the fiery "Dragon's Breath Chili" or savor the succulent "Wyrm Burger." The alehouse offers a selection of spiced meads and a signature drink known as the "Roaring Dragon Ale," a brew with a hint of cinnamon and honey.
+
 ### Starlight Lounge
 * Proprietor Name: Seraphina Starwhisper
 * Description: Seraphina Starwhisper's Starlight Lounge is an elegant establishment known for its celestial-inspired cuisine. The menu features dishes like "Galactic Grilled Salmon" and "Stardust Soufflé." The lounge offers a selection of cosmic cocktails, including the popular "Celestial Elixir," a sparkling drink with hints of elderflower and starfruit.
+
 ### Whimsical Wench Inn
 * Proprietor Name: Gwendolyn Merryweather
 * Description: Gwendolyn Merryweather's Whimsical Wench Inn is a charming pub with a menu full of whimsy. Guests can indulge in the "Enchanted Mushroom Risotto" or try the "Fey Pie" filled with seasonal fruits. The inn offers a variety of playful cocktails, including the "Giggling Gnome Grog," a fruity concoction served in a colorful mug.
@@ -184,7 +193,10 @@ The town has much adventure available. There are a number of encounters that a p
 
 {{wide
 ## Assorted guilds
-|  Guild Name                          |  Guild Hall Name      |  Trade Practiced     |  Guildmaster Name       |  Guildmaster Race  |  Guildmaster Sex  |  Guildmaster Class  |  Level  |  Number of Members  |  Relative Wealth (1-5)  |
+:
+Some of these Guildmasters are listed in the "Assorted NPCs" table
+:
+|  Guild Name                          |  Guild Hall Name      |  Trade Practiced     |  Guildmaster Name       |  Guildmaster Race  |  Guildmaster Sex  |  Guildmaster Class  |  Level              |  Number of Members  |  Relative Wealth (1-5)  |
 |  -------                             |  ---------            |  ------------        |  -------------          |  -------------     |  ------------     |  --------------     |  --------------     |  -----------        |  ------------           |
 |  Gilded Grimoire Mages Guild         |  Arcane Library       |  Spellcasting        |  Elowen Nightshade      |  Tiefling          |  Female           |  Wizard             |  7                  |  25                 |  4                      |
 |  Golden Quill Scribes Guild          |  Inkwell Haven        |  Scribing            |  Sylas Parchment        |  Gnome             |  Non-Binary       |  Wizard             |  5                  |  15                 |  3                      |
@@ -192,7 +204,7 @@ The town has much adventure available. There are a number of encounters that a p
 |  Barely Brewer's Guild               |  Barleycorn Hall      |  Brewing             |  Gruff Stoneflask       |  Dwarf             |  Male             |  Brewer             |  5                  |  50                 |  5                      |
 |  Moonlit Mercenaries' Guild          |  Shadowmoon Hall      |  Mercenary Services  |  Kellan Shadowstrike    |  Human             |  Male             |  Fighter            |  6                  |  50                 |  4                      |
 |  Silver Serpent Jewelers Guild       |  Serpent's Forge      |  Jewelry Crafting    |  Seraphina Silverblade  |  Elf               |  Female           |  Artificer          |  4                  |  20                 |  3                      |
-|  Stonehearth Masons Guild            |  Granite Guildhall    |  Masonry             |  Helga Stonework        |  Dwarf             |  Female           |  Fighter            |  6                  |  30                 |  4                      |
+|  Stonehearth Masons Guild            |  Granite Guildhall    |  Masonry             |  Helga Stoinewerk       |  Dwarf             |  Female           |  Fighter            |  6                  |  30                 |  4                      |
 |  Swiftblade Bladesmiths Guild        |  Bladesong Foundry    |  Blacksmithing       |  Alaric Swiftblade      |  Half-Elf          |  Male             |  Paladin            |  7                  |  40                 |  4                      |
 
 ## Thieve's Guild (See: 
@@ -210,12 +222,12 @@ The town has much adventure available. There are a number of encounters that a p
 |  Mayor Alaric Swiftblade          |  Town Mayor           |  Mayor      |  Paladin    |  7      |  Half-Elf  |  58   |  Male    |  Mayor's Spouse (Deceased)          |
 |  Baron Darklius Ravenwing         |  Town Council Member  |  Baron      |  Rogue      |  7      |  Tiefling  |  42   |  Male    |  Baroness Denon Ravenwing           |
 |  Baroness Denon Ravenwing         |  Town Council Head    |  Baroness   |  Sorcerer   |  5      |  Tiefling  |  40   |  Female  |  Baron Darklius Ravenwing           |
-|  Councilor Thrain Stonebrow       |  Town Council Member  |  Councilor  |  Fighter    |  6      |  Dwarf     |  120  |  Male    |  Councilor Elyndra Greenleaf        |
-|  Councilor Elyndra Greenleaf      |  Town Council Member  |  Councilor  |  Druid      |  4      |  Elf       |  230  |  Female  |  Councilor Thrain Stonebrow         |
+|  Councilor Kragg Ferrick          |  Town Council Member  |  Councilor  |  Fighter    |  6      |  Dwarf     |  120  |  Male    |  Councilor Elyndra Greenleaf        |
+|  Councilor Elyndra Greenleaf      |  Town Council Member  |  Councilor  |  Druid      |  4      |  Elf       |  230  |  Female  |  Councilor Kragg Ferrick            |
 |  Councilor Zephyros Starwhisper   |  Town Council Member  |  Councilor  |  Sorcerer   |  6      |  Aasimar   |  78   |  Male    |  Councilor's Spouse (Deceased)      |
 |  Lady Miranda Thistlethorn        |  Court Alchemist      |  N/A        |  Druid      |  3      |  Elf       |  150  |  Female  |  N/A                                |
-|  Master Artificer Gruff Stoneflask|  Guildmaster          |  N/A        |  Brewer     |  5      |  Dwarf     |  65   |  Male    |  Guildmistress Renna Stoneflask     |
-|  Guildmistress Renna Stoneflask   |  Guildmistress        |  N/A        |  Cleric     |  4      |  Dwarf     |  60   |  Female  |  Master Brewer Gruff Stoneflask     |
+|  Master Brewer Gruff Stoneflask   |  Guildmaster          |  N/A        |  Brewer     |  5      |  Dwarf     |  165   |  Male    |  Guildmistress Renna Stoneflask     |
+|  Guildmistress Renna Stoneflask   |  Guildmistress        |  N/A        |  Cleric     |  4      |  Dwarf     |  160   |  Female  |  Master Brewer Gruff Stoneflask     |
 
 ## Town guard
 
@@ -236,37 +248,52 @@ In addition to these leaders of the Town Guard, Deepquestwich employs 15 to 20 G
 
 
 {{wide
-## Assorted low level npcs
+## Assorted NPCs in Deepquestwich
 |  Name                  |  Sex     |  Age  |  Race      |  Class and Level  |  Job in Town            |  Hit Points  |  Armor Class           |  Weapons                          |
 |  ----                  |  ---     |  ---  |  ----      |  ---------        |  -----                  |  -------     |  --------              |  -------                          |
-|  Eliza Swiftfoot       |  Female  |  28   |  Halfling  |  Commoner (0)     |  Baker                  |  5           |  11 (leather)          |  Rolling Pin                      |
-|  Magnus Stonehelm      |  Male    |  45   |  Dwarf     |  Miner (1)        |  Blacksmith Assistant   |  10          |  13 (chain shirt)      |  Pickaxe                          |
-|  Greta Hilltop         |  Female  |  32   |  Human     |  Farmer (1)       |  Innkeeper's Daughter   |  8           |  10                    |  Pitchfork                        |
-|  Kellen Stoneflask     |  Male    |  40   |  Dwarf     |  Commoner (0)     |  Tavern Barkeep         |  6           |  11 (leather)          |  Barkeep's Club                   |
-|  Leona Thistlewick     |  Female  |  22   |  Elf       |  Herbalist (2)    |  Apothecary Assistant   |  14          |  11 (leather)          |  Healing Salves                   |
-|  Finnegan Stout        |  Male    |  56   |  Halfling  |  Commoner (0)     |  Retired Sailor         |  4           |  10                    |  Walking Stick                    |
-|  Sylas Parchment       |  Male    |  38   |  Gnome     |  Scribe (2)       |  Librarian              |  12          |  10                    |  Quill                            |
-|  Helga Stonework       |  Female  |  120  |  Dwarf     |  Mason (1)        |  Stonecutter            |  8           |  12 (leather)          |  Chisel and Hammer                |
+|  Lila Bramblebush      |  Female  |  40   |  Gnome     |  Commoner (0)     |  Florist                |  6           |  10                    |  Garden Shears                    |
+|  Thistle Pricklethorn  |  Female  |  28   |  Halfling  |  Commoner (0)     |  Cobbler                |  6           |  10                    |  Cobbler's Hammer                 |
+|  Bertram Earthshaper   |  Male    |  50   |  Half Orc  |  Miner (1)        |  Gemcutter              |  12          |  12 (studded leather)  |  Mining Pick                      |
+|  Eira Frostheart       |  Female  |  28   |  Tiefling  |  Commoner (0)     |  Tailor                 |  7           |  11 (leather)          |  Sewing Needle                    |
+|  Tiddlepuck Frum       |  Male    |  56   |  Halfling  |  Commoner (0)     |  Retired Sailor         |  4           |  10                    |  Walking Stick                    |
+|  Isolde Greenleaf      |  Female  |  78   |  Elf       |  Herbalist (2)    |  Innkeeper              |  14          |  11 (leather)          |  Healing Salves, Herbal Remedies  |
+|  Greta Hilltop         |  Female  |  32   |  Human     |  Farmer (1)       |  Barmaid                |  8           |  10                    |  Pitchfork                        |
+|  Alaric Hilltop        |  Male    |  60   |  Human     |  Farmer (1)       |  Crop Farmer            |  9           |  10                    |  Wooden Hoe                       |
 |  Talia Ironrose        |  Female  |  25   |  Human     |  Blacksmith (2)   |  Apprentice Blacksmith  |  10          |  13 (chain shirt)      |  Hammer and Tongs                 |
 |  Thaddeus Lightfoot    |  Male    |  35   |  Halfling  |  Commoner (0)     |  Town Crier             |  5           |  11 (leather)          |  Small Bell                       |
-|  Isolde Greenleaf      |  Female  |  78   |  Elf       |  Herbalist (2)    |  Innkeeper              |  14          |  11 (leather)          |  Healing Salves, Herbal Remedies  |
-|  Bertram Earthshaper   |  Male    |  50   |  Half Orc  |  Miner (1)        |  Gemcutter              |  12          |  12 (studded leather)  |  Mining Pick                      |
-|  Lila Bramblebush      |  Female  |  40   |  Gnome     |  Commoner (0)     |  Florist                |  6           |  10                    |  Garden Shears                    |
-|  Aldric Thunderfoot    |  Male    |  29   |  Dwarf     |  Commoner (0)     |  Innkeeper              |  8           |  11 (leather)          |  Broom                            |
-|  Eira Frostheart       |  Female  |  28   |  Tiefling  |  Commoner (0)     |  Tailor                 |  7           |  11 (leather)          |  Sewing Needle                    |
-|  Alaric Hilltop        |  Male    |  60   |  Human     |  Farmer (1)       |  Crop Farmer            |  9           |  10                    |  Wooden Hoe                       |
-|  Elowen Nightshade     |  Female  |  55   |  Elf       |  Commoner (0)     |  Librarian              |  5           |  11 (leather)          |  Spectacles, Reading Glasses      |
-|  Thistle Bramblethorn  |  Female  |  28   |  Halfling  |  Commoner (0)     |  Cobbler                |  6           |  10                    |  Cobbler's Hammer                 |
+|  Selna Noitri          |  Female  |  55   |  Elf       |  Commoner (0)     |  Librarian              |  5           |  11 (leather)          |  Spectacles, Reading Glasses      |
+|  Sandy Parchment       |  Male    |  38   |  Gnome     |  Scribe (2)       |  Librarian              |  12          |  10                    |  Quill                            |
+|  Kellen Stoneflask     |  Male    |  140  |  Dwarf     |  Commoner (0)     |  Tavern Barkeep         |  6           |  11 (leather)          |  Barkeep's Club                   |
+|  Magnus Stonheim       |  Male    |  45   |  Dwarf     |  Miner (1)        |  Blacksmith Assistant   |  10          |  13 (chain shirt)      |  Pickaxe                          |
+|  Helga Stoinewerk      |  Female  |  120  |  Dwarf     |  Mason (1)        |  Stonecutter            |  8           |  12 (leather)          |  Chisel and Hammer                |
+|  Elina Softfeets       |  Female  |  28   |  Halfling  |  Commoner (0)     |  Baker                  |  5           |  11 (leather)          |  Rolling Pin                      |
+|  Leona Thistlewick     |  Female  |  22   |  Elf       |  Herbalist (2)    |  Apothecary Assistant   |  14          |  11 (leather)          |  Healing Salves                   |
+|  Aldric Throngstokk    |  Male    |  29   |  Dwarf     |  Commoner (0)     |  Innkeeper              |  8           |  11 (leather)          |  Broom                            |
 |  Gideon Thunderhoof    |  Male    |  38   |  Centaur   |  Stablehand (1)   |  Stablemaster           |  12          |  12 (hide)             |  Quarterstaff, Horse Brush        |
+
+### NPC Notes
+
+* Elyndra, Isolde, and Rowan Greenleaf are siblings
+* Alaric and Greta Hilltop are father/daughter
+* Sandy and Sylas Parchment are fraternal twins
+* Barney, Gruff, and Kellen Stoneflask are brothers. Gruff is oldest, then Barney, then Kellen
+
+## Assorted NPCs Around The Region
+* 
+* 
+* 
+
 }}
 
 \page
 
 ## Assorted more powerful npcs and quest npcs
+
 #### Alarion Elminster
 * Race: Elf
 * Class: Alchemist
 * Level: 8
+* Daughter is Elyssa Elminster.
 
 The esteemed elven alchemist is known for his mastery in potion crafting and alchemical innovations. At level 8, Alarion has dedicated his life to the pursuit of knowledge and the refinement of elixirs that blend magic and science, making him a renowned figure in the alchemical community.
 
@@ -274,6 +301,7 @@ The esteemed elven alchemist is known for his mastery in potion crafting and alc
 * Race: Elf
 * Class: Druid (Herbalist)
 * Level: 3
+* Father is Alarion Elminster
 
 Elyssa possesses the ethereal beauty characteristic of elves, with long silver hair that cascades down to her waist and eyes that shimmer with a vibrant green hue. She wears simple, earth-toned robes adorned with dried herbs and leaves, and her movements are graceful and deliberate.  Herbalist Expertise: Lirael is a skilled herbalist, well-versed in the properties of various plants and fungi.  Nature's Bond: She can communicate with plants, animals, and the natural elements Cure Wounds: She has developed the ability to channel nature's energy to heal wounds.  She possesses a gentle and nurturing demeanor. She is compassionate toward all living beings and strives to maintain balance in the natural world.  She carries a carefully organized herbal satchel containing an assortment of dried herbs, roots, and vials of potions she has crafted.  And a staff crafted from a sturdy yet flexible wood, adorned with vines and leaves
 
@@ -290,7 +318,7 @@ Dipglimmer Moonshaper, a spirited gnome with wild, untamed hair, is a seasoned a
 * Class: Cleric
 * Level: 7
 
-Elara has a Quest Board item for the Villiage of Elmsworth, the quest entitled, "The Cursed Village's Relic"
+Elara has a Quest Board item for the Elmsworth Village , the quest entitled, "The Cursed Village's Relic"
 Elara, a venerable elven cleric, stands tall and graceful with silver hair that cascades down her shoulders. Her piercing emerald eyes reflect the wisdom earned through centuries of life. Adorned in robes adorned with intricate leaf patterns, Elara emits an aura of tranquility and inner strength. Specialization: Healing Wisdom: As a 7th-level cleric, Elara's proficiency in healing magic is well-known. Villagers seek her guidance for both physical and spiritual ailments, and her prayers have been a source of solace during times of hardship.
 Elara is deeply troubled by the curse that has befallen Elmsworth, her home for countless years. Her dedication to the village and its well-being is evident in the urgency with which she seeks aid.
 
@@ -331,12 +359,12 @@ Elyndor, a mysterious tiefling with an affinity for arcane magic, specializes in
 
 Seraphina, with an otherworldly charm, is a warlock with a pact with a celestial being. She specializes in crafting potions that draw upon celestial magic, offering healing and protection to those who partake.
 
-#### Gareth Stoneflask
+#### Barney Stoneflask
 * Race: Dwarf
 * Class: Fighter (Champion)
 * Level: 8
 
-Gareth, a grizzled dwarf with a sturdy build, is a seasoned warrior and master of combat. Known for his exceptional strength and skill with weapons, he specializes in crafting potions that enhance physical prowess and endurance.
+Barney, a grizzled dwarf with a sturdy build, is a seasoned warrior and master of combat. Brother of Gruff Stoneflask. Known for his exceptional strength and skill with weapons, he specializes in crafting potions that enhance physical prowess and endurance.
 
 #### Larissa Shadowblade
 * Race: Elf
@@ -387,12 +415,6 @@ Level: 7
 
 Llewellyn, with a mix of elven grace and human curiosity, delves into the secrets of illusion and enchantment. His ethereal presence is enhanced by his silver hair and moonlit-blue eyes, and he is often found wearing flowing, star-patterned robes.
 
-
-
-
-
-
-
 \page
 
 {{wide
@@ -441,10 +463,12 @@ Llewellyn, with a mix of elven grace and human curiosity, delves into the secret
 ### The Missing Heirloom
 * **Type**: Message board post on official stationary with seal of town regent.
 * **Where**: Dork Swan Message Board
+
 #### Description
 The mayor's prized family heirloom, a valuable necklace, has gone missing. The mayor suspects a local mischief-maker, and your party is tasked with investigating the theft. Your first-level adventurers must gather clues, question villagers, and follow the trail to recover the missing necklace while unraveling the village's secrets.
 :
 }}
+
 #### Read aloud to players:
 :
 {{descriptive
@@ -468,23 +492,42 @@ May the gods watch over you on this noble quest.”
 #### Solution
 Item is in thieves hideout outside town.
 
+This quest may lead to the larger Thieves Guild Conspiracy quest, "The Underground Guild"; See Below
+* This hideout is in a small cottage
+* The thieves here are trying to attain Thieves Guild membership -- but are not yet members
+* They have been tasked with bringing the Royal Sapphire to the Guild to gain membership
+* There are some documents and notes about how to become a guild member. Handwritten, scrawled, by the thieves here
+* There is also a serious-looking parchment with a description of a hideout and the secret password. This is the "Hidden Hideout, Forest East of Town", under "The Underground Guild" quest
+    * Make up a password. Write it here:
+
 #### Locations
+
 #### Thieves hideout:
 * Small cottage outside town
 * Basement has theives guild hideout
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/thieves_hideout_basement.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/thieves_hideout_first_floor.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+
 ##### Encounters:
 1. First floor
     * 2 thieves apprentices (rogues L1)
     * Treasure: medium loot pile
 1. storage room, basement
-    * 3 goblin henchmen
+    * 2 goblin henchmen
     * Treasure: medium loot pile
 1. Planning room, basement
-    * 3 rogues level 2
+    * rogues level 2
     * 2 large war dogs
     * Treasure: medium loot pile
     * **The Missing Heirloom** in a chest
-* See also: Map
+* See also: Maps, thieves hideout first floor and thieves hideout first basement
 <!-- end -->
 
 
@@ -494,6 +537,7 @@ Item is in thieves hideout outside town.
 ### Pests in the Cellar
 * **Type**: Messageboard posting
 * **Where**: Hidden Pigs Tavern in town
+
 #### Description
 A local tavern owner has been complaining of strange noises and disturbances coming from the cellar below the tavern. Your party is hired to investigate the situation. Descending into the dark and eerie cellar, your novice adventurers must confront the ghostly apparitions and solve the mystery of the restless spirits.
 Emily Sturm; of the Hidden Pigs Tavern. Reward: 100 gold. The "pests" are actually homeless goblins hiding in the basement. Kill or capture and bring to the town guard.
@@ -507,13 +551,19 @@ Message board post in childish handwriting reads as follows:
 i have pests in cellar they are eating all my food please help reward offered ask for Emily at the hidden pigs inn
 }}
 }}
+
 #### Solution
 The "pests" are actually homeless goblins hiding in the basement.
-Kill or capture and bring to the town guard.
+Kill, capture and bring to the town guard, or convince them to leave.
+:
 Emily Sturm of the Hidden Pigs Tavern. (See: Hidden Pigs Tavern)
+:
 Reward: 25 gold.
+
 #### Locations
+
 #### Small Tavern
+
 ##### Encounters:
 1. Cellar
     * **4 goblins**
@@ -528,6 +578,7 @@ Reward: 25 gold.
 ### The Haunted Honeymoon
 * **Type**: Messageboard posting
 * **Where**: Sylvan Spirits Inn, in another part of town (See: Sylvan Spirits Inn)
+
 #### Description
 Proprietor Name: Isolde Greenleaf
 Another local innkeeper has been complaining of a poltergeist haunting their best room. Your party is hired to investigate the situation. Heading into the well lit and well kept best room in the Inn, your novice adventurers must confront the ghostly apparitions and solve the mystery of the restless spirits.
@@ -542,30 +593,41 @@ HELP! Mischievous poltergeist is haunting our inn! Reward offered!
 }}
 }}
 #### Solution
-Help or kill the ghost
+Get rid of the ghost
+* Help the ghost
+    * Ghost haunts the Inn due to unfinished business
+    * the ghost was originally a young woman murdered by her lover for her dowry money
+    * If the PCs try to talk to it, they can learn that the ghost needs its murdered corpse buried properly. DC10 Wisdom or DC10 Charisma
+    * Ghost activity has picked up because the ghost's murderer stayed there recently and accidentally dropped the woman's engagement ring which fell under the floorboards
+    * Ghost's corpse is buried beneath an "odd looking" tree in the nearby forest
+* Kill the ghost
+* Something else -- convince ghost to leave
 Help: find and dig up ghost's corpse and bury it in the town cemetary
 Kill: kill the ghost (hard!)
 Reward 100gp
 
 #### Locations
+
 #### Small Inn
+
+Sylvan Spirits Inn
+
 ##### Encounters
 1. Bedroom One, "The Honeymoom Suite"
     * Largest, nicest bedroom; large bed, chests, table, chairs
     * **1 Ghost**
     * Ghost will not attack at first; instead, ghost flits back and forth, moaning and throwing things
-    * Ghost haunts this room due to unfinished business; the ghost was originally a young woman murdered by her lover for her dowry money
-    * If the PCs try to talk to it, they can learn that the ghost needs its murdered corpse buried properly. DC10 Wisdom or DC10 Charisma
-        * Ghost is haunting inn because the ghost's murderer stayed there recently and accidentally dropped the woman's engagement ring which fell under the floorboards
-    * Ghost's corpse is buried beneath an "odd looking" tree in the nearby forest
-    * Treasure: engagement ring (50gp)
+    * DC8 Wisdom or DC8 Charisma to talk to ghost
+    * Treasure: engagement ring (50gp) under floorboard
 1. Bedroom Two; small single bed room
 1. Bedroom Three; small single bed room
 1. Bedroom Four; small single bed room
 1. Shared Sleeping Room
     * Larger room with 6 bunk beds and some chests
+
 #### Odd Tree
 * This tree is found an hour's travel from the Inn at the edge of the forest
+
 ##### Encounters
 1. Tree
     * **3 Giant Vultures**
@@ -579,6 +641,7 @@ Reward 100gp
 ### The Poisoned Well
 * **Type**: Messageboard Note
 * **Where**: Barley Crown Village a half day journey from town
+
 #### Description
 A small farming village is in turmoil as its water source, a vital well, has been poisoned, leaving the crops withering and livestock sick. The townsfolk hire your party to find the culprits responsible for this nefarious act. Your heroes must track down the saboteurs and ensure the well is cleansed to save the village from famine.
 }}
@@ -589,11 +652,12 @@ A small farming village is in turmoil as its water source, a vital well, has bee
 The note reads as follows:
 {{quote
 “POISONED WELL - URGENT HELP NEEDED
-Cedarbrook pleads for aid! Poisoned well threatens lives. Limited funds, boundless gratitude. Contact Elder Elara. Time's short, our hope lies with you.”
+Cedarbrook pleads for aid! Poisoned well threatens lives. Limited funds, boundless gratitude. Ask for Bella Stiffdinkle, the Mum Mum. Time's short, our hope lies with you.”
 }}
 }}
+
 #### Solution
-* This villiage is the site of two brewers who have been feuding for decades
+* This village is the site of two brewers who have been feuding for decades
 * The well was poisoned by Derckus Crabbes, a halfling brewer 
 * It turns out the water source Crabbe's poisoned was the source of water for Thistledown Alesmith's brewery, **but also accidentally poisoned the town's well water**
 * Brewer 1
@@ -607,25 +671,39 @@ Cedarbrook pleads for aid! Poisoned well threatens lives. Limited funds, boundle
 * The feud started over a disagreement during a brewing competition at a local fair, where Derckus claimed his "Gnomish Gold Ale" was far superior to Thistledown's creations. Insults were exchanged, and the rivalry intensified as both brewers built successful breweries, constantly one-upping each other with new and innovative brews.
 * If cornered, Crabbes will admit to poisoning the well; but it takes a lot to get him there
 * The townsfolk pay a reward for solving this: 25gp; and they ask to take care of Crabbes themselves
-* If the villiage is visited again later, Crabbes is imprisoned and his nephew is running his brewery
-* If the villiage is visited again a LOT, LOT, later, Crabbes is free, and has made an effort to end the feud, and Thistledown has agreed
+* If the village is visited again later, Crabbes is imprisoned and his nephew is running his brewery
+* If the village is visited again a LOT, LOT, later, Crabbes is free, and has made an effort to end the feud, and Thistledown has agreed
 
 #### Locations
-#### Villiage
-* with two breweries and farms around
-* Barley fields surround the villiage
+
+#### Village
+* Two breweries and surrounded by farmland; mostly barley
+* Barley fields surround the village
 ##### Encounters:
 * Assorted NPCs
-* See also: Map of Barley Crown Villiage
+* Bella Stiffdinkle
+* Derckus Crabbes
+* Thistledown Alesmith
+
+##### NPCs
+
+|   Name |                   Sex |      Age |   Race |       Class and Level |   Job |              Hit Points |   Armor Class |            Weapons |
+|  ----                  |  ---     |  ---  |  ----      |  ---------        |  -----                  |  -------     |  --------              |  -------                          |
+|   Derckus Crabbes |        Male |     63 |    Halfling |   Rogue, Level 5 |    Brewer |           35 |           Leather Armor (12) |     Short Sword, Dagger, Sling |
+|   Thistledown Alesmith |   Male |     65 |    Halfling |   Druid, Level 6 |    Brewer |           42 |           Barkskin (16) |          Quarterstaff, Sling, Shillelagh |
+|   Bella Stiffdinkle |      Female |   98 |    Halfling |   Bard, Level 4 |     Town Matriarch |   28 |           Unarmored (10 + Dex) |   Dagger, Shortbow, Rapier, Healing Word |
+
+##### Map of Barley Crown Village
+![alt-text](https://poolpog.github.io/homebrewery-images/barley_crown_villiage.png) {width:700px,border:"2px solid",border-radius:10px}
+
+
 
 \page
 
 {{wide
 ### The Beast in the Caves
-* **Type**:
-Messageboard Note
-* **Where**:
-Farm is half day journey from town. Caves are another half day journey from farm
+* **Type**: Messageboard Note
+* **Where**: Farm is half day journey from town. Caves are another half day journey from farm
 #### Description
 Reports of livestock disappearing lead your party to a series of mysterious caves in the nearby hills. As they delve deeper, they uncover a feral, but not malicious, creature that's responsible for the disappearances. Now, they must decide whether to protect or eliminate this misunderstood beast.
 }}
@@ -640,16 +718,19 @@ MISSING LIVESTOCK - URGENT
 Our village faces a puzzling crisis: our livestock vanishes without a trace. We implore anyone with insight or aid to save our livelihoods. Reward offered, contact the Mayor. Time is of the essence, we rely on you
 }}
 }}
+
 #### Solution
 * Creature is a werewolf that has been trying to find a cure for its condition
-* Werewolf's human name was Walton Rileigh. He still responds to "Walt"
+* Werewolf's human name was **Walton Rileigh**. He still responds to "Walt"
 * Creature has been trying to stop taking humanoids as his prey, and has been eating the town's livestock
 * Creature can be convinced to leave the area to go somewhere else: Persuasion or Intimidation DC 15
 * Creature can be killed
-* Because of the way Walt became a werewolf, he needs a very specific cure; there happens to be a Gnome Alchemist, Dipglimmer Moonshaper, living in Deepquestwich who can help him. Member of Alchemists Guild
+* Because of the way Walt became a werewolf, he needs a very specific cure; there happens to be a Gnome Alchemist, Dipglimmer Moonshaper, living in Deepquestwich who can help him. Dipglimmer is a Member of Alchemists Guild. He can brew an Lycanthrope Antidote potion to cure Walt.
 
 #### Locations
+
 #### Caves
+
 ##### Encounters:
 1. Room 1
     * 4 normal wolves
@@ -663,11 +744,10 @@ Our village faces a puzzling crisis: our livestock vanishes without a trace. We 
 {{wide
 ### The Cursed Village's Relic
 * **Type**: Messageboard quest
-* **Where**:
+* **Where**: Elmsworth Village ; Abandoned Temple of Serenity
+
 #### Description
-A remote village has fallen victim to a mysterious curse, and a concerned elder has posted a plea for aid.
-The job board explains that the curse can only be lifted by locating a sacred relic that was stolen many years ago.
-Your party must journey to an abandoned temple, recover the relic, and return it to the village to break the curse.
+A remote village has fallen victim to a mysterious curse, and a concerned elder has posted a plea for aid. The job board explains that the curse can only be lifted by locating a sacred relic that was stolen many years ago. Your party must journey to an abandoned temple, recover the relic, and return it to the village to break the curse.
 }}
 
 #### Read aloud to players:
@@ -679,45 +759,41 @@ Notice of Urgent Aid Needed
 :
 To all able-bodied adventurers,
 :
-The village of Elmsworth is in dire need of your assistance.
-A mysterious curse has befallen our humble community, casting a shadow over our once-thriving home.
-Crops wither, villagers fall ill, and despair grips our hearts.
+The Elmsworth Village  is in dire need of your assistance. A mysterious curse has befallen our humble community, casting a shadow over our once-thriving home. Crops wither, villagers fall ill, and despair grips our hearts.
 :
-Many years ago, a sacred relic that brought protection and prosperity to Elmsworth was stolen.
-Legends speak of its power to bring balance and harmony to our lands.
-Now, only the recovery of this stolen relic can break the curse that plagues us.
+Many years ago, a sacred relic that brought protection and prosperity to Elmsworth was stolen. Legends speak of its power to bring balance and harmony to our lands. Now, only the recovery of this stolen relic can break the curse that plagues us.
 :
-Return it to Elmsworth to restore our village to its former glory.
+Journey to the Abandoned Temple of Serenity, deep within the heart of the forest, and recover the stolen sacred relic. Return it to Elmsworth to restore our village to its former glory.
 :
 Your bravery is our only hope. Elmsworth awaits your aid.
 :
 Village Elder, Elara Brightleaf
 }}
 }}
+
 #### Solution
-Journey to the Abandoned Temple of Serenity, deep within the heart of the forest in the mountains north of town,
-and recover the stolen sacred relic.
-:
-During the robbery, the bandits were discovered, but managed to flee with the Amulet.
-:
-However, the townsfolk were able to capture one of the Bandits and have him held in the chapel.
-He can be interrogated for info about the Temple location.
-:
-Captured Bandit knows:
-* Rough location of temple
-* That it is an old abandoned temple
-* That his crew must have gone there
-:
-Reward: On successful return of the amulet, the grateful villagers of Elmsworth grant a generous reward. 300gp
+Navigate the temple's treacherous halls, overcome mystical guardians, and solve puzzles left behind to protect the relic.
+Beware of vengeful spirits within the temple, for they guard the relic with unwavering determination.
+Upon the successful recovery of the relic, the grateful villagers of Elmsworth promise a generous reward. 800gp
 
 #### Locations
-#### Villiage of Aeneor
+
+#### Village of Elmsworth
+
 ##### Encounters:
-1. Village Elder, Elara Brightleaf (See her NPC description)
+1. Village Elder, Elara Brightleaf (See below)
 1. Various NPCs
-* See also: Map of Elmsworth Villiage
+* See also: Map of Elmsworth
+
+\page
+
 #### Abandoned Temple of Serenity
-Temple is located in the mountains north of the Villiage
+Temple is located in the mountains north of the Village
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/abandoned_temple_of_serenity.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
 ##### Encounters:
 1. Empty room; this vast rotunda shows signs of ancient beauty. Now it is a dusty and collapsed ruin. A flooded door to the west may have flooded rooms beyond it
 2. Bandit hideout foyer
@@ -730,15 +806,17 @@ Temple is located in the mountains north of the Villiage
         * Symbolizes balance, protection, and prosperity.
         * Essence believed to bring harmony to nature.
         * This amulet is a crucial artifact stolen from Elmsworth, and its recovery is essential to breaking the curse afflicting the village.
+
+\column
+
+3. Bandit hideout
     * Properties:
         * Nature's Harmony:
             * When worn, the Starleaf Amulet attunes itself to the wearer's essence, creating a harmonious connection with the natural world.  The wearer gains a heightened sense of their surroundings, granting advantage on perception checks related to the environment.  During nighttime or in natural settings, the amulet emits a soft, protective glow, providing the wearer with a natural source of dim light.
             * advantage on perception checks related to the environment
             * amulet emits a soft glow, providing the wearer with a natural source of dim light
-
 \page
-
-4. Bandit storage room
+4. Bandit storage room (cont.)
     * Treasure: Small loot pile
 5. Sunken room; this once grand hall is nearly completely submerged. A quake or tremor seems to have tilted it so that the floor now slopes downwar from the entrance to the far end. The room is completely flooded
     * 1 Chuul
@@ -747,15 +825,19 @@ Temple is located in the mountains north of the Villiage
     * Treasure: large loot pile
 6. Empty room; rear entrance leads to a winding set of mostly empty caves and out to a mountain pass
     * Treasure: large loot pile
-* See also: Map of Abandoned Temple of Serenity
+* See also: Map
+
+
 
 \page
 
 {{wide
+
 ### The Eminent Alchemist
 Messageboard Note
 * **Type**: Messageboard Quest
 * **Where**: Guild of Healers and Alchemists
+
 #### Description
 An esteemed alchmeist, Alarion Elminster , from the local alchemy guild has gone missing while exploring ancient ruins on the outskirts of town.
 The guild has posted a reward for any information leading to their safe return or for those who can continue their research.
@@ -778,21 +860,35 @@ Generous reward.  Contact Elyssa Elminster.
 Time is slipping away, please aid our search.”
 }}
 }}
+
 #### Solution
-Reward of 100gp on finding the professor
+Find professor. He has gotten lost in the ancient ruins.
+Use one of the dungeon maps at the end of this book; fill it with random encounters.
+Professor is trapped in one of the rooms. Unharmed, but pinned down by random monsters.
+Use judgement here.
+Reward:
+* 100gp from Elyssa
+* Various treasure and loot in dungeon
 
 #### Locations
+
+#### Ancient Ruins
+* Random dungeon crawl
+
 #### Alchemy Guild
+
 ##### Encounters
 * Alarion
 * Elyssa
 * Other alchemists and potionologist and herbalists
+
 #### Ancient Ruins
+
 ##### Encounters
 1. Room 1
     * 2 monster
     * Treasure: medium loot pile
-* See also: Map
+* See also: Map at end of this book
 
 \page
 
@@ -804,6 +900,7 @@ gather evidence of their illegal activities, and dismantle the criminal organiza
 :
 * **Type**: Messageboard Quest
 * **Where**: All throughout Deepquetwich; Hideout in woods outside town; In secret basement room of Baron's Mansion
+
 #### Description
 The Thieves Guild is a real presence in the city. However, the Mayor, Town Council, or City Guard knows who runs it or where it is located.
 :
@@ -829,6 +926,7 @@ Contact Captain Marcus at the city guard headquarters.
 A safer city awaits.
 }}
 }}
+
 #### Solution
 Many possible "solutions"
 * Uncover the fact that the Baron is the Guildmaster; report to the Town Guard or Mayor.
@@ -840,19 +938,23 @@ Many possible "solutions"
         * Guild quests
         * Can buy/sell contraband to Guild
         * Reduced prices at merchants who are secret members of the Guild
+
 #### Locations
+
 ##### Hidden Hideout, Forest East of Town
 A small path obscured by deep foliage will lead party to the hideout. DC15 Investigation to find it
 This small hideout is hidden in deep forest; consists of two small buildings and a small cave.
 A small hill and escarpment hide the cave.
 Foliage, shrubs, and trees around the clearing are especially thick.
 Looking for clues and asking questions will improve the odds of finding the Hideout.
+
 ###### Encounters
 * 3 rogues Level 3
 * 3 war dogs
 * 3 goblins
 * Treasure: 2 small loot piles
 * Treasure: medium loot pile
+
 ##### Baron's Mansion
 Secret room accessed from Baron's study
 Room is reached via hidden stairs and passage into the basement
@@ -872,7 +974,7 @@ Sewer also leads to secret smugglers cove near the City docks
     * 3 Giant Spiders
     * Treasure: medium loot pile
 
-* See also: 
+* See also:  Map
 
 
 
@@ -881,11 +983,13 @@ Sewer also leads to secret smugglers cove near the City docks
 
 ### The Mysterious Plague:
 * **Type**: Messageboard Quest
-* **Where**: REplace wit FARM Location
+* **Where**: Guild of Healers and Alchemests; Various wilderness locations
+
 #### Description
 A deadly, unknown illness is spreading rapidly within the city's walls, causing panic and chaos.
 A local hospital is offering a generous bounty for anyone who can find a cure or a way to contain the disease.
 Your party must investigate the source of the plague, gather rare ingredients for a remedy, and save the city from a devastating epidemic.
+
 #### Read aloud to players:
 {{descriptive
 This simple letter describes a request for a cure to a mysterious plague:
@@ -903,8 +1007,11 @@ Great Reward Offered!
 Inquire at Guild of Healers and Alchemists
 }}
 }}
+
 #### Solution
-Party must find rare herbs, plants, or flowers. Possible plants include:
+Party must find rare herbs, plants, or flowers. The Alchemist's Guild isn't actually sure what the cure will be and needs to try out several herbs and rare plants.
+:
+Possible plants include:
 :
 | Herb                  | Where Found                    | Properties                                              |
 | --------------------- | ------------------------------ | ------------------------------------------------------- |
@@ -921,10 +1028,28 @@ DM Decides which herb finally cures the disease
 Reward: 100gp, various potions, goodwill of the Townsfolk
 
 #### Locations
-##### Various
+
+**Use Map of Deepquestwich**
+
+* High mountain peaks
+    * Mark on map
+* Enchanted forest groves
+    * Mark on map
+* Moonlit meadows
+    * Mark on map
+* Hidden within fairy circles
+    * Mark on map
+* Swampy moonlit marshes
+    * Mark on map
+* Caverns deep beneath the earth
+    * Mark on map
+* Glowing caverns
+    * Mark on map
+
 ###### Encounters
 * Various
 * This adventure is open ended; for each plant found, add in location-specific encounters and loot
+* Use wandering monster tables for encounters
 
 \page
 
@@ -936,6 +1061,7 @@ Reward: 100gp, various potions, goodwill of the Townsfolk
     * Abandoned, hidden, mine shaft entrance leads to Room 6. The Duergar do not know about this mineshaft. DC10 Investigation of mountainous region nearby
 * **Type**: Messageboard Quest
 * **Where**: Mine is a day’s journey from town
+
 #### Description
 The town's economy is suffering as a result.
 :
@@ -960,13 +1086,20 @@ Your assistance is vital for our town's prosperity
 Reward has been made available
 }}
 }}
+
 #### Solution
-Find a way to get the Duergar to leave
-* Kill them
-* Convince them
+* Gain access to the mine as follows:
+    * Find a way to destroy or bust open the front entrance
+    * Natural underground passages starting at a cave hidden in the forest, leading to hidden crack in back of mine. DC10 Investigation of woods nearby
+    * Abandoned, hidden, mine shaft entrance leads to Room 6. The Duergar do not know about this mineshaft. DC10 Investigation of mountainous region nearby
+* Find a way to get the Duergar to leave
+    * Kill them
+    * Convince them
 
 #### Locations
+
 ##### Mine
+
 ###### Encounters
 Each "Mine annex" has a chance of encountering several Duregar.
 Duregar will almost always attack the party on sight.
@@ -991,15 +1124,17 @@ Each "Mine annex" has a 50% chance of a Gem Pile worth 20 to 500gp; roll 50%, th
 11. Mine annex
 12. Mine annex
 13. Mine annex
-* See also: Map
+* See also: Map, "Abandoned Gemstone Mine"
 
 #### Hidden Cave and Passages
+
 ##### Encounters
 1. Passages
     * Random monster tables
     * Treasure: small loot pile per encounter
 
 #### Unused Mine Shaft
+
 ##### Encounters
 1. Outside mine shaft
     * 4 Orcs camp nearby; the can be fought, avoided, or scared off
@@ -1008,9 +1143,11 @@ Each "Mine annex" has a 50% chance of a Gem Pile worth 20 to 500gp; roll 50%, th
 \page
 
 
+
 ### The Mysterious Portal
 * **Type**: Messageboard Quest
 * **Where**: Gilded Grimoire Mages Guild
+
 #### Description
 A strange portal has appeared in a remote area, and it poses a threat to the region.
 The local mage's guild seeks brave souls to investigate the portal,
@@ -1029,6 +1166,7 @@ In the meantime, some creatures have already gotten through...
 :
 The guild is offering a reward worth substantially smaller than the amount of trouble this will be
 :
+
 #### Read aloud to players:
 {{descriptive
 This note is written by a skilled hand:
@@ -1041,6 +1179,7 @@ Visit The Gilded Grimoire Mages Guild
 :
 }}
 }}
+
 #### Solution
 Elowen Nightshade runs the guild
 :
@@ -1063,9 +1202,13 @@ Party can convince the guild to pay up to 200gp on success
 * DC10 Persuasion check: Increase reward to 100gp
 * DC15 Persuasion check: Increase reward to 200gp
 
+
 #### Locations
+
 ###### Encounters
+
 ##### Forested areas on journey to Portal
+
 ###### Encounters
 These are assorted random encounters
 1. Forest clearing
@@ -1095,7 +1238,9 @@ These are assorted random encounters
 
 \page
 
+
 ##### Forested areas quite close to Portal
+
 ###### Encounters
 1. Hiding Not Too Far From Portal
     * 2 Pixie Siblings
@@ -1121,7 +1266,9 @@ These are assorted random encounters
     * This unicorn is confused how he got here
     * He also just wants to get home, and may help the party if they can communicate with it
     * Treasure: none
+
 ##### At the Portal
+
 ###### Encounters
 1. Just stepped out of the portal
     * 4 faerie dragons
@@ -1139,6 +1286,7 @@ These are assorted random encounters
 \page
 
 {{wide
+
 ## Other Locations and Encounters
 The areas around Deepquestwich are full of random encounters, placed encounters, and side quests. Each of these are meant to add flavor to the party's adventure by being stumbled across, learned about in a conversation with NPCs, pure random happenstance, or at the whim of the DM
 }}
@@ -1166,13 +1314,17 @@ you safeguard the archaeologist's mission to recover the priceless relics of a f
 :
 He offers to pay you "handsomely" for your services
 }}
+
 #### Solution
-Loot the tomb
-Find the lost relics
+* Loot the tomb
+* Find the lost relics
+
 #### Locations
+
 ##### The Tomb
 * The tomb entrance is in the mountains 2 day's travel distance from town
 * The tomb is now the home to some orcs in the northern section, and a Red Dragon Wyrmling and assorted monsters in the south. The orcs avoid everything south of room 1 (the entrance). The Wyrmling rarely uses the main entrance but instead enters and leaves through a hidden passage out of room 8.
+
 ###### Encounters:
 1. Dusty, musty entrance
     * Treasure: tiny loot pile in pile of debris
@@ -1212,24 +1364,29 @@ Find the lost relics
     * **Noise from battle in room 11 will alert them**
     * Treasure: medium loot pile
     * Treasure: each orc has Small or Tiny loot pile
-* See also: Map
+* See also: Map "lost basilica of kyra"
 
 \page
 
 {{wide
+
 ### The Goblin Ambush
 * **Type**: Random encounter
 * **Where**: Anywhere outside town
+
 #### Description
 Goblin ambush
 }}
+
 
 #### Read aloud to players:
 {{descriptive
 As the sun dips below the horizon, your party makes camp in the forest clearing. During the first watch, you hear rustling in the underbrush. A gang of goblins, lured by the smell of your cooking fire, launches an ambush. Your fledgling adventurers must quickly rally to defend themselves against the cunning goblins and protect their camp.
 }}
+
 #### Solution
 beat the goblins
+
 
 #### Details:
 * 1d4+2 goblins
@@ -1238,16 +1395,19 @@ beat the goblins
 \page
 
 {{wide
+
 ### The Ghostly Guardian
 * **Type**: Random NPC encounter leads to a quest
-* **Where**: Anywhere in town
+* **Where**: Starts Anywhere; Leads to Village of Tunstone
+
 #### Description
 A random encounter with an NPC leads to a conversation about the Village of Tunstone's woes. Conversation, overheard, rumor, etc.
 The Village of Tunstone has a haunted manor just outside town; inside is a harmless Imp cursed to remain close to the mansion.
-The Imp was summoned by two villiage boys who had found the Tome of Westrick while they were playing in a nearby ruin.
+The Imp was summoned by two village boys who had found the Tome of Westrick while they were playing in a nearby ruin.
 This is an old book written by a mostly incompetent mage many years ago.
 This mage did get one spell nearly right, though: Summon Imp. Unfortunately, the Imp summoned is also the saddest, weakest, most harmless Imp available.
 The curse can be broken by finding the book of the curse and destroying it.
+
 
 #### Read aloud to players:
 {{descriptive
@@ -1256,14 +1416,18 @@ The townsfolk are convinced that a malevolent spirit guards a long-forgotten tre
 Your adventurers are asked to investigate.
 Inside, they discover an apparition with a tragic tale, and they must help put the spirit to rest.
 }}
+
 #### Solution
 The Tome of Westrick is in one of the boys' rooms, in their bedside chest.
 Villagers pay a reward of 25gp if the "haunting" is stopped
 
+
 ##### Locations
-###### Villiage of Tunestone
+
+###### Village of Tunstone
 1. Boy's Bedroom
     * Treasure: Tome of Westrick
+
 ###### Haunted Mansion
 1. Room 1
     * 1 Harmless Imp
@@ -1283,14 +1447,17 @@ Villagers pay a reward of 25gp if the "haunting" is stopped
 \page
 
 {{wide
+
 ### The Unfinished Wizard's Tower
 * **Type**: Random Encounter, Findable location
 * **Where**: In mountains a day's travel from Deppquestwich
+
 #### Description
 A reclusive wizard known only as Orona began constructing a tower on a nearby hill but mysteriously disappeared before its completion.
 The Tower of Orona is now a dangerous and unpredictable place, full of half-finished magical experiments.
 Your adventurers must navigate the hazardous tower to uncover its secrets.
 }}
+
 
 #### Read aloud to players:
 {{descriptive
@@ -1300,10 +1467,14 @@ The tower's exterior, though grand in its design, bears the scars of time and ne
 The stones, once meticulously enchanted, now crumble and sag under the weight of centuries.
 Vines and moss cling to the weathered surface, weaving a tapestry of nature reclaiming the magical edifice.
 }}
+
 #### Solution
 Loot the tower
+
 #### Locations
+
 ##### Tower of Orona
+
 ###### Encounters
 2. Annex
     * 2 goblins have set up a makeshift shelter; they get in and out through the window, not the main entrance
@@ -1331,59 +1502,77 @@ Loot the tower
 
 \page
 
+
+**THESE NEED WORK**
+
 ### The Festival of Lights:
+
 #### Description
 * The annual Festival of Lights in a nearby village is approaching, but this year, the magical lanterns have been stolen, casting a shadow of gloom over the event. Your party is hired to track down the thieves and recover the lanterns in time for the celebration. The trail leads them through a whimsical journey of riddles and enigmatic characters.
+
 #### Read aloud to players:
 {{descriptive
 Description for players
 }}
+
 #### Solution
+
 #### Locations
-##### Tower of Orona
+
+##### Astbighole (Village)
+
 ###### Encounters
+* NEEDS ENCOUNTERS
+
 
 ### The Midnight Carnival:
+
 #### Description
 * A mysterious carnival has set up camp on the outskirts of town. At midnight, it's rumored to reveal an otherworldly portal. Your adventurers are drawn into the carnival's supernatural attractions, but must be cautious as they navigate its eerie wonders and find a way to close the portal before something sinister emerges.
+
 #### Read aloud to players:
 {{descriptive
 Description for players
 }}
+
 #### Solution
+* There is no portal; that's just hype to get people to come to the carnival
+* The carnival master is in dire need of funds or his carnival will go out of business
+
 #### Locations
-##### Tower of Orona
+
+##### Carnival
+
 ###### Encounters
+
 
 ### The Sunken Temple:
+
 #### Description
 * The waters of a tranquil lake have mysteriously receded, revealing the entrance to an ancient temple beneath. Local legends speak of a powerful artifact hidden within. Your party must explore the sunken temple, facing traps, aquatic creatures, and unraveling the temple's forgotten history.
+
 #### Read aloud to players:
 {{descriptive
 Description for players
 }}
+
 #### Solution
+
 #### Locations
-##### Tower of Orona
+
+##### Sunken Temple
+
 ###### Encounters
 
-### The Plaguebearer's Conspiracy:
-#### Description
-* A sudden outbreak of an unknown illness is plaguing a village, and panic is spreading faster than the disease. Your party is tasked with discovering the source of the illness, whether it's natural or the result of a sinister plot. They must race against time to find a cure.
-#### Read aloud to players:
-{{descriptive
-Description for players
-}}
-#### Solution
-#### Locations
-##### Tower of Orona
-###### Encounters
+
 
 \page
+
 
 # Loot
 
 {{wide
+
 ## Tiny loot piles, mostly junk, really
 }}
 
@@ -1599,47 +1788,6 @@ Description for players
 * Sealed envelopes with cryptic messages (3 gp)
 * Crystal ball keychain
 
-###### Alchemist's Odds and Ends
-* 8 gold pieces
-* 5 silver pieces
-* Vials of colorful powders (4 gp)
-* Torn alchemical recipe pages (3 gp)
-* Glass stirring rod
-
-###### Jester's Jovial Hoard
-* 6 gold pieces
-* 10 silver pieces
-* Multicolored jester's cap (3 gp)
-* Rubber chicken (2 gp)
-* Miniature juggling balls
-
-###### Smith's Spare Parts
-* 7 gold pieces
-* 9 silver pieces
-* Scrap metal pieces (4 gp)
-* Broken hammer handle (2 gp)
-* Tongs with worn grips
-
-###### Botanist's Bounty
-* 10 gold pieces
-* 5 silver pieces
-* Assorted plant seeds (6 gp)
-* Illustrated flora sketches (3 gp)
-* Small garden trowel
-
-###### Messenger's Parcel
-* 5 gold pieces
-* 8 silver pieces
-* Sealed letters with wax stamps (4 gp)
-* Fragile glass vial (3 gp)
-* Small messenger whistle
-
-###### Cartographer's Cache
-* 9 gold pieces
-* 6 silver pieces
-* Rolled-up parchment maps (5 gp)
-* Miniature compass (3 gp)
-* Tiny magnifying glass
 
 \page
 
@@ -1714,11 +1862,6 @@ Description for players
 * Rolled-up parchment maps (5 gp)
 * Miniature compass (3 gp)
 * Tiny magnifying glass
-
-###### Baker's Sweet Surprises
-* 12 gold pieces
-* 4 silver pieces
-* Assorted past
 
 
 \page
@@ -2065,6 +2208,146 @@ Description for players
 * Feywild Rose (functions as a Potion of Healing when consumed)
 * Gloves of Missile Snaring (+1)
 
+\page
+
+### Maps
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/province_of_sount.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/deepquestwich.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/astbighole_village.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/village_of_tunstone.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/elmsworth_villiage.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/abandoned_gemstone_mine.png) {width:600px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/abandoned_temple_of_serenity.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/abbey_of_the_blood_master.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/asylum_of_ar-perran.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/bloodstone_palace.png) {width:300px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/frozen_hall_of_or.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/frozen_library_of_the_fallen_messiah.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/grimmoon_chapel.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/house_of_the_fallen_beast.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/ironscar_house.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/lost_basilica_of_kyra.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/palace_of_the_iron_prince.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/shadowscar_temple.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/thieves_hideout_basement.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/thieves_hideout_first_floor.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/tower_of_orona.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/undermist_palace.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
+\page
+
+{{wide
+![alt-text](https://poolpog.github.io/homebrewery-images/vault_of_akkaz-dina.png) {width:700px,border:"2px solid",border-radius:10px}
+}}
+
 
 <!-- SAVE TEMPLATE
 ### The REPLACE WITH QUEST Quest
@@ -2096,4 +2379,5 @@ REPLACE WITH SOLUTION and failure states
     * Treasure: small loot pile
 * See also: Map
 -->
+
 
